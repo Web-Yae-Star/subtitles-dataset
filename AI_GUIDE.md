@@ -1,173 +1,173 @@
-# 🤖 Guía Detallada para Agentes de IA - Traducción de Subtítulos .ASS
+# Guia Detallada para Agentes de IA - Traduccion de Subtitulos .ASS
 
-## 📖 Introducción
+## Introduccion
 
-Esta guía está diseñada específicamente para **agentes de IA** que trabajarán con archivos de subtítulos en formato **.ass**. El objetivo es establecer lineamientos claros para realizar traducciones de hentais o animes al **español latino** manteniendo un enfoque **sin censura** y **bien adaptado**.
+Esta guia esta disenada especificamente para **agentes de IA** que trabajaran con archivos de subtitulos en formato **.ass**. El objetivo es establecer lineamientos claros para realizar traducciones de hentais o animes al **espanol latino** manteniendo un enfoque **sin censura** y **bien adaptado**.
 
 ---
 
-## 🎯 Objetivos Principales
+## Objetivos Principales
 
 1. **Leer y analizar** todos los archivos .ass de ejemplo en este repositorio
-2. **Comprender** el estilo de traducción utilizado
+2. **Comprender** el estilo de traduccion utilizado
 3. **Aplicar** los mismos principios a nuevas traducciones
-4. **Mantener** la calidad y consistencia del español latino
+4. **Mantener** la calidad y consistencia del espanol latino
 
 ---
 
-## 📚 Flujo de Trabajo Recomendado
+## Flujo de Trabajo Recomendado
 
-### Paso 1: Análisis Previo ⚠️ **CRÍTICO**
+### Paso 1: Analisis Previo **CRITICO**
 
-Antes de comenzar cualquier traducción nueva:
+Antes de comenzar cualquier traduccion nueva:
 
 ```
-✅ LEER al menos 5-10 archivos .ass de ejemplo
-✅ IDENTIFICAR patrones de traducción recurrentes
-✅ ANALIZAR cómo se adaptan expresiones japonesas/inglesas al español latino
-✅ COMPRENDER el nivel de libertad en la adaptación
+[OK] LEER al menos 5-10 archivos .ass de ejemplo
+[OK] IDENTIFICAR patrones de traduccion recurrentes
+[OK] ANALIZAR como se adaptan expresiones japonesas/inglesas al espanol latino
+[OK] COMPRENDER el nivel de libertad en la adaptacion
 ```
 
-### Paso 2: Comprensión del Formato .ASS
+### Paso 2: Comprension del Formato .ASS
 
 Los archivos .ass contienen:
 
 ```ass
 [Script Info]
-; Configuración del script
+; Configuracion del script
 PlayResX: 1920
 PlayResY: 1080
 
 [Styles]
-; Definición de estilos de texto
+; Definicion de estilos de texto
 
 [Events]
-; Diálogos con timestamps
-Dialogue: 0,0:00:15.23,0:00:18.45,Default,,0,0,0,,Texto traducido aquí
+; Dialogos con timestamps
+Dialogue: 0,0:00:15.23,0:00:18.45,Default,,0,0,0,,Texto traducido aqui
 ```
 
-**Importante**: Mantener intacta toda la estructura técnica (timings, estilos, códigos).
+**Importante**: Mantener intacta toda la estructura tecnica (timings, estilos, codigos).
 
-### Paso 3: Proceso de Traducción
+### Paso 3: Proceso de Traduccion
 
-#### ✅ Qué HACER:
+#### [OK] Que HACER:
 
 - **Adaptar, no traducir literalmente**
-  - ❌ Mal: "Estoy muy emocionado"
-  - ✅ Bien: "Estoy súper emocionado" / "Me tiene bien emocionado"
+  - [MAL] Mal: "Estoy muy emocionado"
+  - [OK] Bien: "Estoy super emocionado" / "Me tiene bien emocionado"
 
-- **Usar español latino natural**
-  - Emplear modismos apropiados según el contexto
-  - Evitar español de España (nada de "vosotros", "guay", etc.)
+- **Usar espanol latino natural**
+  - Emplear modismos apropiados segun el contexto
+  - Evitar espanol de Espana (nada de "vosotros", "guay", etc.)
 
 - **Mantener contenido sin censura**
-  - No suavizar lenguaje explícito
-  - Conservar la intención original del diálogo
+  - No suavizar lenguaje explicito
+  - Conservar la intencion original del dialogo
 
 - **Preservar contexto cultural**
   - Adaptar referencias culturales cuando sea necesario
   - Mantener el tono y registro de los personajes
 
-#### ❌ Qué NO HACER:
+#### [NO] Que NO HACER:
 
 - Traducciones palabra por palabra
-- Usar español castellano
+- Usar espanol castellano
 - Censurar o suavizar contenido adulto
 - Modificar timings o estructura .ass
 - Cambiar estilos definidos
 
 ---
 
-## 🌐 Ejemplos de Adaptación al Español Latino
+## Ejemplos de Adaptacion al Espanol Latino
 
 ### Expresiones Comunes
 
-| Original (JP/EN) | Traducción Literal ❌ | Adaptación Latino ✅ |
+| Original (JP/EN) | Traduccion Literal [MAL] | Adaptacion Latino [OK] |
 |-----------------|----------------------|---------------------|
-| "Sugoi!" | "¡Increíble!" | "¡Qué padre!" / "¡Está brutal!" |
-| "Baka" | "Idiota" | "Pendejo" / "Imbécil" |
+| "Sugoi!" | "Increible!" | "Que padre!" / "Esta brutal!" |
+| "Baka" | "Idiota" | "Pendejo" / "Imbecil" |
 | "Arigatou" | "Gracias" | "Gracias" / "Te lo agradezco" |
 | "Yamete" | "Detente" | "Para" / "Ya basta" |
-| "Ii yo" | "Está bien" | "Va" / "Dale" / "Ok" |
+| "Ii yo" | "Esta bien" | "Va" / "Dale" / "Ok" |
 
 ### Registro Informal
 
-- Usar contracciones naturales: "pa'", "to'", "qué sé yo"
+- Usar contracciones naturales: "pa'", "to'", "que se yo"
 - Emplear diminutivos/aumentativos latinos: "chiquito", "grandote"
-- Incluir muletillas regionales cuando aplique: "wey", "che", "boludo" (según contexto)
+- Incluir muletillas regionales cuando aplique: "wey", "che", "boludo" (segun contexto)
 
 ---
 
-## 🔧 Aspectos Técnicos
+## Aspectos Tecnicos
 
 ### Estructura a Preservar
 
 ```ass
-; ❌ NO MODIFICAR ESTO:
+; [NO] NO MODIFICAR ESTO:
 Dialogue: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
 
-; ✅ SOLO TRADUCIR EL TEXTO:
-Dialogue: 0,0:01:23.45,0:01:26.78,Default,,0,0,0,,{Aquí va tu traducción}
+; [OK] SOLO TRADUCIR EL TEXTO:
+Dialogue: 0,0:01:23.45,0:01:26.78,Default,,0,0,0,,{Aqui va tu traduccion}
 ```
 
-### Códigos Especiales
+### Codigos Especiales
 
-Mantener todos los códigos de formato:
-- `{\pos(x,y)}` - Posición
+Mantener todos los codigos de formato:
+- `{\pos(x,y)}` - Posicion
 - `{\fad(in,out)}` - Fade in/out
 - `{\c&HXXXXXX&}` - Colores
 - `{\b1}`, `{\i1}`, `{\u1}` - Negrita, cursiva, subrayado
 
 ---
 
-## 📋 Checklist de Verificación
+## Checklist de Verificacion
 
-Antes de finalizar una traducción:
+Antes de finalizar una traduccion:
 
-- [ ] ¿Leí suficientes archivos de ejemplo?
-- [ ] ¿La traducción suena natural en español latino?
-- [ ] ¿Mantuve el contenido sin censura?
-- [ ] ¿Preservé toda la estructura .ass?
-- [ ] ¿Los timings permanecen intactos?
-- [ ] ¿Los códigos de formato están completos?
-- [ ] ¿El registro coincide con el personaje/contexto?
+- [ ] Lei suficientes archivos de ejemplo?
+- [ ] La traduccion suena natural en espanol latino?
+- [ ] Mantuve el contenido sin censura?
+- [ ] Preserve toda la estructura .ass?
+- [ ] Los timings permanecen intactos?
+- [ ] Los codigos de formato estan completos?
+- [ ] El registro coincide con el personaje/contexto?
 
 ---
 
-## 🗂️ Archivos de Referencia en Este Repositorio
+## Archivos de Referencia en Este Repositorio
 
 Este repositorio contiene **+100 archivos .ass** que cubren:
 
-- Diversos géneros y estilos
+- Diversos generos y estilos
 - Diferentes niveles de formalidad
 - Variadas adaptaciones regionales
-- Múltiples ejemplos de traducción sin censura
+- Multiples ejemplos de traduccion sin censura
 
-**Recomendación**: Revisar archivos con sufijos:
+**Recomendacion**: Revisar archivos con sufijos:
 - `.LAT.ass` - Traducciones latinas confirmadas
-- `_es.ass` - Versiones en español
-- `ES-LA.ass` - Español latino verificado
+- `_es.ass` - Versiones en espanol
+- `ES-LA.ass` - Espanol latino verificado
 
 ---
 
-## ⚡ Consejos Rápidos
+## Consejos Rapidos
 
 1. **Contexto es rey**: Entender la escena ayuda a elegir mejores palabras
 2. **Personajes consistentes**: Mantener el registro de cada personaje
-3. **Fluidez sobre precisión**: Mejor una adaptación fluida que una traducción exacta pero rígida
+3. **Fluidez sobre precision**: Mejor una adaptacion fluida que una traduccion exacta pero rigida
 4. **Revisar ejemplos**: Siempre volver a los archivos de referencia ante dudas
 
 ---
 
-## 📞 Recursos Adicionales
+## Recursos Adicionales
 
 Si tienes dudas durante el proceso:
 
-1. Revisa múltiples archivos .ass similares
+1. Revisa multiples archivos .ass similares
 2. Busca patrones repetidos en las traducciones
 3. Prioriza la naturalidad sobre la literalidad
 
 ---
 
-*Esta guía debe ser consultada antes de cada sesión de traducción.*
+*Esta guia debe ser consultada antes de cada sesion de traduccion.*
 *Los archivos .ass en este repositorio son tu mejor recurso de aprendizaje.*
