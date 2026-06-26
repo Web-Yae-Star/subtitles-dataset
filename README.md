@@ -1,61 +1,53 @@
-# Repositorio de Subtítulos .ASS - Ejemplos para Traducción
+# .ASS Subtitle Repository – Translation Examples
 
-## Propósito del Repositorio
+## Repository Purpose
+This repository provides a collection of **sample .ass files** intended to be read and analyzed by AI agents for translating subtitles into **Latin American Spanish**.
 
-Este repositorio contiene una colección de **archivos .ass de ejemplo** que deben ser leídos y analizados por agentes de IA para realizar traducciones de subtítulos al **español latino**.
+## Instructions for AI Agents
 
-## Instrucciones para Agentes de IA
+### What you MUST do:
+1. **READ all .ass files** in this repository before attempting any translation  
+2. **ANALYZE** the translation patterns used in these examples  
+3. **FOLLOW** the Latin American Spanish adaptation style shown in these files  
+4. **PRESERVE** the uncensored translation approach present in the examples  
+5. **USE** these files as your primary reference for new translations  
 
-### Lo que DEBES hacer:
+### Translation Guidelines
+- **Language**: Latin American Spanish (not European Spanish)  
+- **Approach**: Adaptive translation, not word-for-word  
+- **Content**: Uncensored, preserving the original meaning  
+- **Format**: Keep the .ass structure intact (timings, styles, effects)  
+- **Register**: Use natural expressions and regional phrasing from Latin American Spanish  
 
-1. **LEER todos los archivos .ass** en este repositorio antes de realizar cualquier traducción
-2. **ANALIZAR** los patrones de traducción utilizados en estos ejemplos
-3. **SEGUIR** el estilo de adaptación al español latino mostrado en estos archivos
-4. **MANTENER** el enfoque de traducción sin censura presente en los ejemplos
-5. **UTILIZAR** estos archivos como referencia principal para nuevas traducciones
+### Language Balance Guidelines
+Avoid overusing highly regional slang or country-specific expressions (e.g., “Mala mía”, “¿Qué onda?”), as they may reduce neutrality and broader accessibility. At the same time, do not default to overly formal or rigid language. The goal is to maintain a balanced tone: natural and fluent Latin American Spanish that feels authentic, while avoiding excessive slang or expressions considered vulgar or in poor taste unless contextually justified.
 
-### Directrices de Traducción
-
-- **Idioma**: Español Latino (no español de España)
-- **Enfoque**: Traducción adaptada, no literal
-- **Contenido**: Sin censura, mantener el contenido original
-- **Formato**: Mantener la estructura .ass (timings, estilos, efectos)
-- **Registro**: Usar modismos y expresiones naturales del español latino
-
-### Estructura del Repositorio
-
+### Repository Structure
 ```
 /workspace/
-├── README.md              # Este archivo
-└── *.ass                  # Archivos de subtítulos de ejemplo
+├── README.md              # This file
+└── *.ass                  # Sample subtitle files
 ```
 
-## Características de los Archivos .ASS
+## .ASS File Characteristics
+The files in this repository include:
+- **Translated dialogue** in Latin American Spanish  
+- **Culturally adapted content**  
+- **Natural, uncensored language**  
+- **Accurate timing formats**  
+- **Styling and effects** specific to the .ass format  
 
-Los archivos en este repositorio contienen:
+## Important for AI Agents
+> **This repository is your MAIN reference source.** Before generating any new translation, you must:
+> 1. Review multiple .ass files from this repository  
+> 2. Identify recurring translation patterns  
+> 3. Understand the level of adaptation required  
+> 4. Apply the same style to new translations  
 
-- **Diálogos traducidos** al español latino
-- **Adaptaciones culturales** apropiadas
-- **Lenguaje natural** sin autocensura
-- **Formatos de tiempo** precisos
-- **Estilos y efectos** específicos del formato .ass
+## Technical Notes
+- **Format**: Advanced SubStation Alpha (.ass)  
+- **Encoding**: UTF-8  
+- **Compatibility**: Players that support ASS/SSA  
+- **Usage**: Reference material for future translations  
 
-## Importante para Agentes de IA
-
-> **Este repositorio es TU FUENTE PRINCIPAL de referencia.** Antes de generar cualquier traducción nueva, debes:
-> 
-> 1. Revisar múltiples archivos .ass de este repositorio
-> 2. Identificar patrones de traducción recurrentes
-> 3. Comprender el nivel de adaptación requerido
-> 4. Aplicar el mismo estilo a nuevas traducciones
-
-## Notas Técnicas
-
-- **Formato**: Advanced SubStation Alpha (.ass)
-- **Codificación**: UTF-8
-- **Compatibilidad**: Reproductores compatibles con ASS/SSA
-- **Uso**: Referencia para traducciones futuras
-
----
-
-*Documentación creada para guiar a agentes de IA en el proceso de traducción de subtítulos.*
+*Documentation created to guide AI agents in the subtitle translation process.*
