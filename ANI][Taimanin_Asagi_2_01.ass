@@ -1,0 +1,233 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:47.56,0:00:50.27,Default,,0,0,0,,Había pasado un año desde la\Ndestrucción de la Arena del Caos.
+Dialogue: 0,0:00:50.27,0:00:52.82,Default,,0,0,0,,Pero la existencia del caos continuaba en el mundo.
+Dialogue: 0,0:00:53.53,0:00:57.57,Default,,0,0,0,,En la torre que construyeron cerca\Nde la bahía de Tokyo, la Tokyo Kingdom
+Dialogue: 0,0:00:57.57,0:01:01.66,Default,,0,0,0,,se encuentra un pueblo\Nabandonado a flote en el agua.
+Dialogue: 0,0:01:01.66,0:01:05.87,Default,,0,0,0,,Se ha convertido en una ciudad de\Nsombras, infestada por la escoria de la Tierra.
+Dialogue: 0,0:01:09.54,0:01:12.34,Default,,0,0,0,,Para tratar con la organización\Nterrorista, Dragón, escondiéndose allí,
+Dialogue: 0,0:01:12.34,0:01:17.13,Default,,0,0,0,,y para encontrar el paradero de\Nnuestro agente encubierto en la isla,
+Dialogue: 0,0:01:17.13,0:01:22.26,Default,,0,0,0,,mi hermana pequeña y yo nos\Ninfiltramos aquí en la Tokyo Kingdom.
+Dialogue: 0,0:01:53.84,0:01:56.76,Default,,0,0,0,,¿El clan Shinobi antidemonios?
+Dialogue: 0,0:01:56.76,0:01:58.59,Default,,0,0,0,,¿Nuestras compañeras?
+Dialogue: 0,0:01:59.05,0:02:01.47,Default,,0,0,0,,Saya. Yo soy Saya.
+Dialogue: 0,0:02:01.47,0:02:04.39,Default,,0,0,0,,Son Asagi-onee-sama y Sakura-onee-chan, ¿verdad?
+Dialogue: 0,0:02:04.93,0:02:07.10,Default,,0,0,0,,¿Cómo es que sabes nuestros nombres?
+Dialogue: 0,0:02:07.40,0:02:11.48,Default,,0,0,0,,Bueno, bueno, ustedes son las\Nenemigas de Oboro-onee-sama.
+Dialogue: 0,0:02:11.86,0:02:13.23,Default,,0,0,0,,¿¡Oboro dices!?
+Dialogue: 0,0:02:21.24,0:02:22.53,Default,,0,0,0,,¿Un monstruo?
+Dialogue: 0,0:02:22.53,0:02:24.49,Default,,0,0,0,,¡Odio a las arañas!
+Dialogue: 0,0:02:24.87,0:02:31.00,Default,,0,0,0,,¡Que cruel! Esta apariencia la adopto\Npor el poder de los antidemonios.
+Dialogue: 0,0:02:31.71,0:02:33.25,Default,,0,0,0,,¿Poder de los antidemonios?
+Dialogue: 0,0:02:33.63,0:02:37.88,Default,,0,0,0,,Asagi-onee-sama y Sakura-onee-chan,\Ntambién se pueden transformar.
+Dialogue: 0,0:02:38.47,0:02:40.26,Default,,0,0,0,,¿Mi hermana y yo?
+Dialogue: 0,0:02:40.26,0:02:41.93,Default,,0,0,0,,¡No digas estupideces!
+Dialogue: 0,0:02:42.26,0:02:44.97,Default,,0,0,0,,¿No lo saben? Apesar de tener esos cuerpos.
+Dialogue: 0,0:02:45.47,0:02:49.81,Default,,0,0,0,,¡Entonces les mostraré el poder de los antidemonios!
+Dialogue: 0,0:02:50.27,0:02:52.19,Default,,0,0,0,,¡Bombardeo de Crisis!
+Dialogue: 0,0:03:36.02,0:03:37.07,Default,,0,0,0,,¿En dónde...?
+Dialogue: 0,0:03:39.19,0:03:43.66,Default,,0,0,0,,Cien enemigos derrotados.\NInigualable en el campo de batalla.
+Dialogue: 0,0:03:44.28,0:03:47.20,Default,,0,0,0,,Pero no siento ninguna alegría por eso.
+Dialogue: 0,0:03:49.33,0:03:53.71,Default,,0,0,0,,He perdido compañeros así como he matado enemigos.
+Dialogue: 0,0:03:53.71,0:03:58.96,Default,,0,0,0,,Nosotras no teníamos ira,\Nni tristeza, ni esperanzas.
+Dialogue: 0,0:04:11.93,0:04:17.44,Default,,0,0,0,,Déjamelo a mí. Entrégate a la\Noscuridad en tu interior, Asagi del clan Iga.
+Dialogue: 0,0:04:17.44,0:04:18.65,Default,,0,0,0,,¡Aléjate!
+Dialogue: 0,0:04:38.46,0:04:40.46,Default,,0,0,0,,Buenos días Asagi-onee-sama.
+Dialogue: 0,0:04:40.83,0:04:42.55,Default,,0,0,0,,Parece que todo va bien.
+Dialogue: 0,0:04:44.59,0:04:48.01,Default,,0,0,0,,No te preocupes por Sakura-onee-chan,\Nestá durmiendo en mi habitación.
+Dialogue: 0,0:04:48.97,0:04:52.56,Default,,0,0,0,,Ya veo, parece que también te va bien Saya-chan.
+Dialogue: 0,0:04:55.02,0:04:58.44,Default,,0,0,0,,Es que justo ahora puedo interrogarte Onee-sama.
+Dialogue: 0,0:04:59.02,0:05:01.78,Default,,0,0,0,,Priorizaré la venganza de Oboro-onee-sama.
+Dialogue: 0,0:05:02.07,0:05:04.28,Default,,0,0,0,,Saya, ¿quién es tu jefe?
+Dialogue: 0,0:05:04.28,0:05:06.28,Default,,0,0,0,,Esa soy yo.
+Dialogue: 0,0:05:11.70,0:05:15.54,Default,,0,0,0,,Estoy segura que durante la destrucción\Nde la Arena del Caos te derroté.
+Dialogue: 0,0:05:17.00,0:05:18.92,Default,,0,0,0,,Un gusto en conocerte, Asagi.
+Dialogue: 0,0:05:20.04,0:05:21.42,Default,,0,0,0,,¿Un gusto?
+Dialogue: 0,0:05:22.17,0:05:27.43,Default,,0,0,0,,Soy el clon de Oboro, fabricada con\Ntecnología humana y mágia demoniaca.
+Dialogue: 0,0:05:27.80,0:05:29.26,Default,,0,0,0,,¿Un clon dices?
+Dialogue: 0,0:05:29.26,0:05:32.01,Default,,0,0,0,,Y también la jefa de Dragón.
+Dialogue: 0,0:05:32.01,0:05:36.73,Default,,0,0,0,,Como mataste a la original\Npude apoderarme de este lugar.
+Dialogue: 0,0:05:36.73,0:05:38.02,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:05:40.98,0:05:43.03,Default,,0,0,0,,Y Saya nació en este lugar.
+Dialogue: 0,0:05:43.03,0:05:46.45,Default,,0,0,0,,No, ella es un humano artificial.
+Dialogue: 0,0:05:46.45,0:05:49.96,Default,,0,0,0,,Usamos el cuerpo de un\NKunoichi como base, completamos
+Dialogue: 0,0:05:49.97,0:05:53.48,Default,,0,0,0,,su potencial de shinobi y la\Nhicimos la guerra absoluta.
+Dialogue: 0,0:05:56.21,0:06:01.50,Default,,0,0,0,,Con los kunoichi es una cosa pero con el cuerpo de\Nun shinobi se pudo revelar su poder oculto dormido.
+Dialogue: 0,0:06:02.13,0:06:04.55,Default,,0,0,0,,¡Ella es la encarnación de esa mezcla!
+Dialogue: 0,0:06:05.13,0:06:07.38,Default,,0,0,0,,¿Estás tratando de decir que\Neso es realmente un Shinobi?
+Dialogue: 0,0:06:07.97,0:06:12.35,Default,,0,0,0,,Ella es la verdadera forma del Shinobi\Nque yace latente dentro de todas ustedes.
+Dialogue: 0,0:06:12.35,0:06:15.39,Default,,0,0,0,,Asagi, por supuesto esto te incluye también.
+Dialogue: 0,0:06:18.73,0:06:25.07,Default,,0,0,0,,Si uso los genes de la que mató a mi\Noriginal, estoy segura que crearé uno más fuerte.
+Dialogue: 0,0:06:25.07,0:06:27.86,Default,,0,0,0,,Seguro que será un arma magnífica.
+Dialogue: 0,0:06:28.15,0:06:30.36,Default,,0,0,0,,¡Nunca dejaré que eso pase!
+Dialogue: 0,0:06:31.16,0:06:32.99,Default,,0,0,0,,Sabía que dirías eso.
+Dialogue: 0,0:06:37.12,0:06:41.67,Default,,0,0,0,,Si no logro que te sometas, no podré usar tus genes.
+Dialogue: 0,0:06:42.33,0:06:49.55,Default,,0,0,0,,En ese caso te entrenaré. Hasta el\Npunto de que seas una cerda obediente.
+Dialogue: 0,0:06:49.55,0:06:50.93,Default,,0,0,0,,¡Maldita mujer!
+Dialogue: 0,0:06:53.89,0:06:57.39,Default,,0,0,0,,Primero aumentaré ese pecho obsceno que tienes.
+Dialogue: 0,0:06:57.64,0:07:01.19,Default,,0,0,0,,¡Aumento! ¡Entrenamiento! ¡Esclava cerda!
+Dialogue: 0,0:07:06.82,0:07:08.19,Default,,0,0,0,,¿¡Qué estás haciendo!?
+Dialogue: 0,0:07:11.03,0:07:16.37,Default,,0,0,0,,Tu cuerpo no ha cambiado\Ndesde la Arena del Caos, ¿verdad?
+Dialogue: 0,0:07:16.74,0:07:19.34,Default,,0,0,0,,La sensibilidad de su cuerpo\Nha sido marcada al máximo.
+Dialogue: 0,0:07:19.35,0:07:21.95,Default,,0,0,0,,¿Acabas de correrte de\Ntener esas agujas insertadas?
+Dialogue: 0,0:07:22.83,0:07:25.13,Default,,0,0,0,,¡Puedo suprimir los impulsos de mi cuerpo!
+Dialogue: 0,0:07:26.88,0:07:28.63,Default,,0,0,0,,No parece ser así, Onee-sama.
+Dialogue: 0,0:07:36.64,0:07:40.56,Default,,0,0,0,,Es una voz muy lasciva. ¿Ya te estás sintiendo así?
+Dialogue: 0,0:07:40.56,0:07:42.65,Default,,0,0,0,,¡Puta! ¡Puta!
+Dialogue: 0,0:07:42.94,0:07:45.31,Default,,0,0,0,,No. No debería sentirme así.
+Dialogue: 0,0:07:47.48,0:07:49.74,Default,,0,0,0,,¡Termina con esto rápido!
+Dialogue: 0,0:07:50.32,0:07:55.49,Default,,0,0,0,,Empiezas a ceder. Hasta que se\Ntermine ese líquido no terminaremos.
+Dialogue: 0,0:07:57.41,0:08:00.00,Default,,0,0,0,,¿Qué piensas que es esto?
+Dialogue: 0,0:08:01.04,0:08:02.50,Default,,0,0,0,,¿Qué es lo que será?
+Dialogue: 0,0:08:02.50,0:08:08.63,Default,,0,0,0,,Es algo para alterar con fuerza sus células\Ny asignar más potencia a sus otros órganos.
+Dialogue: 0,0:08:09.67,0:08:12.01,Default,,0,0,0,,¡Tus pezones se volverán clítoris!
+Dialogue: 0,0:08:12.51,0:08:15.01,Default,,0,0,0,,¡Dos grandes clítoris solo para ti!
+Dialogue: 0,0:08:18.47,0:08:23.73,Default,,0,0,0,,¿No te parece bueno? Las partes para\Nlos bebés se vuelven partes sexuales.
+Dialogue: 0,0:08:23.73,0:08:29.11,Default,,0,0,0,,¡Estás por correrte! ¡Mientras te inyectan\Nte corres! ¡Te volverás una madre excelente!
+Dialogue: 0,0:08:32.07,0:08:35.32,Default,,0,0,0,,¡Puedo sentirlo en mi\Ninterior! ¡No, está muy caliente!
+Dialogue: 0,0:08:36.30,0:08:38.74,Default,,0,0,0,,¿La droga ya hizo efecto?
+Dialogue: 0,0:08:38.74,0:08:42.33,Default,,0,0,0,,¿Ya te sientes de esa forma?\N¡Onee-sama en serio eres lasciva!
+Dialogue: 0,0:08:49.46,0:08:52.47,Default,,0,0,0,,Míra, ya se vació todo.
+Dialogue: 0,0:08:55.47,0:08:56.93,Default,,0,0,0,,Entró todo.
+Dialogue: 0,0:08:56.93,0:08:58.47,Default,,0,0,0,,¡Aumento completado!
+Dialogue: 0,0:09:03.18,0:09:05.90,Default,,0,0,0,,¡Tus pezones son muy grandes ahora!
+Dialogue: 0,0:09:05.90,0:09:07.77,Default,,0,0,0,,Oye, eso suena muy obsceno.
+Dialogue: 0,0:09:09.32,0:09:12.15,Default,,0,0,0,,¿Ah, en serio? A mi me agrada un poco.
+Dialogue: 0,0:09:12.82,0:09:15.82,Default,,0,0,0,,Una respuesta ruda es típico de ti.
+Dialogue: 0,0:09:16.49,0:09:17.66,Default,,0,0,0,,Pero...
+Dialogue: 0,0:09:31.92,0:09:34.09,Default,,0,0,0,,¿Puedes sentir como te azota?
+Dialogue: 0,0:09:34.09,0:09:36.76,Default,,0,0,0,,Tus pezones están temblando ¿verdad?
+Dialogue: 0,0:09:38.30,0:09:41.47,Default,,0,0,0,,¡No pienso sentirme así por algo como eso!
+Dialogue: 0,0:09:41.76,0:09:46.48,Default,,0,0,0,,¿De nuevo actitud agresiva? En\Nserio eres una molestia, maldita mujer.
+Dialogue: 0,0:09:46.48,0:09:48.77,Default,,0,0,0,,Te daré un regalo más.
+Dialogue: 0,0:09:53.69,0:09:56.61,Default,,0,0,0,,¡No! ¡No puede ser!
+Dialogue: 0,0:09:58.11,0:09:59.20,Default,,0,0,0,,Deten...
+Dialogue: 0,0:10:05.16,0:10:10.21,Default,,0,0,0,,Esto se siente muy bien, a pesar de que es doloroso
+Dialogue: 0,0:10:12.17,0:10:15.05,Default,,0,0,0,,¡No! ¡No! ¡No sigas!
+Dialogue: 0,0:10:15.05,0:10:16.92,Default,,0,0,0,,¡¡No!!
+Dialogue: 0,0:10:19.22,0:10:22.72,Default,,0,0,0,,¡Oboro! ¿Cómo te atreves a hacerme esto?
+Dialogue: 0,0:10:22.72,0:10:26.93,Default,,0,0,0,,Aquí es donde se supone que los bebés deben\Nchupar, ¡no son para tus asquerosos tentáculos!
+Dialogue: 0,0:10:27.85,0:10:29.94,Default,,0,0,0,,¡Ya no volverán a ser como antes!
+Dialogue: 0,0:10:31.40,0:10:32.61,Default,,0,0,0,,¡Te mataré!
+Dialogue: 0,0:10:32.98,0:10:36.61,Default,,0,0,0,,¡Esa es! ¡Esa cara llena de odio la quería ver!
+Dialogue: 0,0:10:37.40,0:10:42.53,Default,,0,0,0,,Los recuerdos de como\Nmataste a mi original los tengo yo.
+Dialogue: 0,0:10:42.53,0:10:45.08,Default,,0,0,0,,Son unos recuerdos llenos de dolor.
+Dialogue: 0,0:10:45.66,0:10:54.09,Default,,0,0,0,,Asagi, mi odio por ti no lo puedo evitar,\Nver tu patética cara me pone muy mojada.
+Dialogue: 0,0:10:54.59,0:10:56.38,Default,,0,0,0,,Eres igual a tu original.
+Dialogue: 0,0:10:57.63,0:10:59.09,Default,,0,0,0,,¡Malditas pervertidas!
+Dialogue: 0,0:11:00.76,0:11:04.60,Default,,0,0,0,,Así es Asagi. Tu terquedad es magnífica.
+Dialogue: 0,0:11:05.60,0:11:09.52,Default,,0,0,0,,Muéstrame más... Muéstrame más de esa terquedad.
+Dialogue: 0,0:11:15.11,0:11:20.24,Default,,0,0,0,,¡Oboro! En definitiva... En\Ndefinitiva no te perdonaré...
+Dialogue: 0,0:11:28.29,0:11:31.96,Default,,0,0,0,,No se suele decir algo así con\Nuna cara llena de placer ¿verdad?
+Dialogue: 0,0:11:32.54,0:11:34.84,Default,,0,0,0,,No, no... Me vengo, me vengo...
+Dialogue: 0,0:11:35.75,0:11:38.30,Default,,0,0,0,,Me vengo, me vengo... ¡Me corro!
+Dialogue: 0,0:11:39.55,0:11:43.34,Default,,0,0,0,,Todavía no estás satisfecha.\NTe daré aún más regalos.
+Dialogue: 0,0:12:01.36,0:12:05.74,Default,,0,0,0,,¡Me vengo! ¡Me vengo! ¡Mis\Npezones se corren, se corren!
+Dialogue: 0,0:12:06.08,0:12:08.16,Default,,0,0,0,,¡Está soltando mucha leche!
+Dialogue: 0,0:12:08.58,0:12:12.75,Default,,0,0,0,,La sensación que siente debe ser similar\Na cuando un hombre acaba en su interior.
+Dialogue: 0,0:12:14.17,0:12:16.25,Default,,0,0,0,,¡No dejo de venirme!
+Dialogue: 0,0:12:18.17,0:12:19.46,Default,,0,0,0,,No puedo...
+Dialogue: 0,0:12:21.26,0:12:22.05,Default,,0,0,0,,Esto...
+Dialogue: 0,0:12:23.13,0:12:27.76,Default,,0,0,0,,¡No...! ¡N-No más...! ¡No aguanto!
+Dialogue: 0,0:12:28.10,0:12:32.60,Default,,0,0,0,,Resístelo. Muéstrame más\Nde esa cara llena de extasís.
+Dialogue: 0,0:12:34.90,0:12:38.65,Default,,0,0,0,,¡¡No!! ¡¡No!!
+Dialogue: 0,0:12:41.90,0:12:44.61,Default,,0,0,0,,Te ordeñaremos hasta la última gota.
+Dialogue: 0,0:12:45.41,0:12:50.49,Default,,0,0,0,,¡Vaciaremos tus tetas del todo, todo, todo, todo!
+Dialogue: 0,0:12:51.00,0:12:52.75,Default,,0,0,0,,¡¡No!!
+Dialogue: 0,0:12:53.71,0:12:57.42,Default,,0,0,0,,¡Me vengo! ¡¡No!!
+Dialogue: 0,0:13:01.55,0:13:04.22,Default,,0,0,0,,Esa cara es muy asombrosa.
+Dialogue: 0,0:13:04.22,0:13:08.10,Default,,0,0,0,,Entiendo por qué mi original ansiaba ver esa cara.
+Dialogue: 0,0:13:19.61,0:13:23.24,Default,,0,0,0,,¡Sakura-onee-chan eres muy pervertida!
+Dialogue: 0,0:13:30.08,0:13:32.83,Default,,0,0,0,,¡Te has estado corriendo todo este tiempo!
+Dialogue: 0,0:13:35.37,0:13:42.21,Default,,0,0,0,,Desde que estuve en la Arena del Caos mi\Ncuerpo se alteró... Mi vagina no deja de temblar.
+Dialogue: 0,0:13:43.71,0:13:46.59,Default,,0,0,0,,La medicina contra el impulso\Nsexual está por terminarse
+Dialogue: 0,0:13:47.97,0:13:49.64,Default,,0,0,0,,De prepararme rápido.
+Dialogue: 0,0:13:51.06,0:13:52.56,Default,,0,0,0,,¡Es muy grande!
+Dialogue: 0,0:13:59.69,0:14:01.86,Default,,0,0,0,,No... ¡No!
+Dialogue: 0,0:14:03.32,0:14:09.37,Default,,0,0,0,,Eres muy lasciva. Pensé que aguantarías\Nun poco más igual que Asagi-onee-sama.
+Dialogue: 0,0:14:10.91,0:14:13.91,Default,,0,0,0,,¡Mi vagina y mi culo están calientes!
+Dialogue: 0,0:14:16.75,0:14:19.75,Default,,0,0,0,,¿Te correrás de nuevo? ¿Te vendrás?
+Dialogue: 0,0:14:19.75,0:14:22.25,Default,,0,0,0,,¿No dijiste que no me perdonarías?
+Dialogue: 0,0:14:22.63,0:14:24.51,Default,,0,0,0,,Este es un castigo.
+Dialogue: 0,0:14:24.51,0:14:28.05,Default,,0,0,0,,No... Me vengo de nuevo...
+Dialogue: 0,0:14:28.51,0:14:30.76,Default,,0,0,0,,¡¡Me vengo!!
+Dialogue: 0,0:14:33.89,0:14:37.98,Default,,0,0,0,,¡Me vengo—!
+Dialogue: 0,0:14:38.27,0:14:40.98,Default,,0,0,0,,Sakura-onee-chan, ¿te viniste de nuevo?
+Dialogue: 0,0:14:42.98,0:14:45.99,Default,,0,0,0,,Sakura... No lo hizo...
+Dialogue: 0,0:14:46.90,0:14:50.49,Default,,0,0,0,,Sí lo hiciste. En serio que eres muy puta.
+Dialogue: 0,0:14:51.07,0:14:53.49,Default,,0,0,0,,¿Qué es...? ¿Qué es lo que haces?
+Dialogue: 0,0:14:58.50,0:15:02.08,Default,,0,0,0,,Voy a azotar tu culo veinte veces como castigo~.
+Dialogue: 0,0:15:02.08,0:15:04.21,Default,,0,0,0,,¡No! ¡No lo hagas!
+Dialogue: 0,0:15:06.17,0:15:08.59,Default,,0,0,0,,Cada vez que digas "no lo hagas", lo voy a hacer.
+Dialogue: 0,0:15:12.05,0:15:15.10,Default,,0,0,0,,Sakura-onee-chan, que cara más horrible.
+Dialogue: 0,0:15:18.14,0:15:22.61,Default,,0,0,0,,Voy a hacer que el culo de\NSakura-onee-chan sea más rojo.
+Dialogue: 0,0:15:23.11,0:15:26.98,Default,,0,0,0,,No... N-No puedo más... ¡Perdóname!
+Dialogue: 0,0:15:26.98,0:15:28.36,Default,,0,0,0,,¡No!
+Dialogue: 0,0:15:29.03,0:15:32.03,Default,,0,0,0,,Me mentiste, ¡así que te voy a pegar!
+Dialogue: 0,0:15:37.24,0:15:40.00,Default,,0,0,0,,Sakura-onee-chan es divertido.
+Dialogue: 0,0:15:40.00,0:15:43.42,Default,,0,0,0,,Bien, es una molestia hacerlo\Nlento así que iré con todo.
+Dialogue: 0,0:15:46.09,0:15:48.42,Default,,0,0,0,,¡No, no, no!
+Dialogue: 0,0:15:50.05,0:15:53.72,Default,,0,0,0,,¿Lo que has estado diciendo? No te entiendo.
+Dialogue: 0,0:15:58.89,0:16:01.69,Default,,0,0,0,,¡No sigas más!
+Dialogue: 0,0:16:09.36,0:16:13.74,Default,,0,0,0,,¡Ay no! No importa que se\Nsienta bien, no debes orinarme.
+Dialogue: 0,0:16:17.99,0:16:22.58,Default,,0,0,0,,¡Que sabrosa! La orina de Sakura-onee-chan es dulce.
+Dialogue: 0,0:16:23.12,0:16:25.84,Default,,0,0,0,,¡No! ¡No digas eso!
+Dialogue: 0,0:16:26.17,0:16:29.38,Default,,0,0,0,,Este... ¿Cuántas veces han sido ya?
+Dialogue: 0,0:16:31.09,0:16:33.26,Default,,0,0,0,,No me acuerdo de cuantas.
+Dialogue: 0,0:16:33.26,0:16:36.10,Default,,0,0,0,,¡Volvamos a empezar las veinte de nuevo!
+Dialogue: 0,0:16:39.22,0:16:42.60,Default,,0,0,0,,Después de que te orinaste, ¿cuánta más podrá salir?
+Dialogue: 0,0:16:43.27,0:16:46.36,Default,,0,0,0,,Onee-chan, ¡Sakura se esforzará!
+Dialogue: 0,0:16:46.36,0:16:49.03,Default,,0,0,0,,Pero... Pero...
+Dialogue: 0,0:16:50.23,0:16:54.28,Default,,0,0,0,,¡Bien, aquí voy! ¡Esta es la primera~!
+Dialogue: 0,0:16:58.16,0:17:02.58,Default,,0,0,0,,¡No más! ¡Me vengo!
+Dialogue: 0,0:17:02.58,0:17:06.13,Default,,0,0,0,,Onee-chan, tal vez no pueda.
+Dialogue: 0,0:17:06.13,0:17:10.96,Default,,0,0,0,,Aunque no pueda, Onee-chan me perdonará.
+Dialogue: 0,0:17:10.96,0:17:12.21,Default,,0,0,0,,¡Va la segunda!
+Dialogue: 0,0:17:13.47,0:17:17.26,Default,,0,0,0,,¡Me vengo—!
+Dialogue: 0,0:17:17.97,0:17:21.39,Default,,0,0,0,,¡Lo hiciste de nuevo! Ya no te perdonaré.
+Dialogue: 0,0:17:21.39,0:17:23.43,Default,,0,0,0,,¡Te daré doscientas más!
+Dialogue: 0,0:17:23.43,0:17:26.98,Default,,0,0,0,,¡No, la carne de mi trasero la destrozarás!
+Dialogue: 0,0:17:30.57,0:17:31.86,Default,,0,0,0,,¡¡Toma!!
+Dialogue: 0,0:17:45.08,0:17:47.08,Default,,0,0,0,,Este sueño otra vez...
+Dialogue: 0,0:17:48.29,0:17:50.21,Default,,0,0,0,,Pareces que te has topado contra una pared.
+Dialogue: 0,0:17:57.76,0:18:03.22,Default,,0,0,0,,Una cara patética. ¿Aún así la\Nmejor antidemonios es esta mujer?
+Dialogue: 0,0:18:03.52,0:18:05.14,Default,,0,0,0,,¿Quién demonios eres?
+Dialogue: 0,0:18:06.02,0:18:07.73,Default,,0,0,0,,Yo soy tú.
+Dialogue: 0,0:18:07.73,0:18:08.81,Default,,0,0,0,,Qu...
+Dialogue: 0,0:18:11.61,0:18:13.36,Default,,0,0,0,,Despierta tu poder Asagi.
+Dialogue: 0,0:18:14.32,0:18:15.28,Default,,0,0,0,,¿Poder?
+Dialogue: 0,0:18:16.36,0:18:21.28,Default,,0,0,0,,Si invocas mi poder, podrás\Nliberarte de este dolor en un instante.
+Dialogue: 0,0:18:40.34,0:18:42.68,Default,,0,0,0,,¿Qué tanto estás murmurando?
+Dialogue: 0,0:18:42.68,0:18:44.97,Default,,0,0,0,,¿Finalmente perdiste la cordura?
+Dialogue: 0,0:18:46.06,0:18:48.77,Default,,0,0,0,,Ya... déjame...
+Dialogue: 0,0:18:50.06,0:18:51.36,Default,,0,0,0,,Déjame.
+Dialogue: 0,0:18:52.40,0:18:53.65,Default,,0,0,0,,Déjame.
+Dialogue: 0,0:18:55.61,0:18:58.99,Default,,0,0,0,,Bien mis mascotas. Muéstrenme más.
+Dialogue: 0,0:18:59.66,0:19:05.75,Default,,0,0,0,,Esta pila de carne de mujer usénla hasta\Nconvertirla en una cerda amante del sexo.
+Dialogue: 0,0:19:12.29,0:19:15.71,Default,,0,0,0,,¡Me vengo! ¡No puedo, no puedo con esto!
+Dialogue: 0,0:19:15.71,0:19:17.76,Default,,0,0,0,,¡D-Detente!
+Dialogue: 0,0:19:21.18,0:19:23.68,Default,,0,0,0,,Que espectáculo tan indecente.
+Dialogue: 0,0:19:24.22,0:19:26.06,Default,,0,0,0,,Eres la mejor Asagi.
+Dialogue: 0,0:19:27.89,0:19:29.77,Default,,0,0,0,,Harás que me masturbe.
+Dialogue: 0,0:19:30.44,0:19:32.56,Default,,0,0,0,,¡No, e-espera...!
+Dialogue: 0,0:19:32.56,0:19:34.90,Default,,0,0,0,,Si siguen metiendo leche en mí...
+Dialogue: 0,0:19:37.15,0:19:37.99,Default,,0,0,0,,¡No!
+Dialogue: 0,0:19:39.11,0:19:41.28,Default,,0,0,0,,¡No! ¡No! ¡Me volveré loca!
+Dialogue: 0,0:19:41.99,0:19:44.08,Default,,0,0,0,,¡En serio que enloqueceré!
+Dialogue: 0,0:19:47.04,0:19:49.08,Default,,0,0,0,,¡Haste pedazos Asagi!
+Dialogue: 0,0:19:57.80,0:20:00.76,Default,,0,0,0,,¡Recordaré esto Oboro!
+Dialogue: 0,0:20:03.47,0:20:05.97,Default,,0,0,0,,¡No más! ¡No!
+Dialogue: 0,0:20:05.97,0:20:12.02,Default,,0,0,0,,Mis pezones, mi vagina y mi\Nculo.... Todo... ¡Todo se siente bien!
+Dialogue: 0,0:20:12.02,0:20:14.77,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:20:19.32,0:20:20.49,Default,,0,0,0,,¡Sí!

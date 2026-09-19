@@ -1,0 +1,203 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FF0057,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.47,0:00:05.18,Default,,0,0,0,,Este es un complejo de aguas\Ntermales en un ligero declive
+Dialogue: 0,0:00:05.18,0:00:07.57,Default,,0,0,0,,en popularidad con una adorable propietaria.
+Dialogue: 0,0:00:10.22,0:00:13.93,Default,,0,0,0,,La propietaria es en realidad una chica zorro, pero
+Dialogue: 0,0:00:13.93,0:00:16.59,Default,,0,0,0,,ese es un secreto que no puede contarle a nadie.
+Dialogue: 0,0:00:17.99,0:00:21.74,Default,,0,0,0,,Después de ser salvada por cierto hombre,
+Dialogue: 0,0:00:21.74,0:00:23.93,Default,,0,0,0,,la chica zorro le devuelve el favor
+Dialogue: 0,0:00:23.93,0:00:27.48,Default,,0,0,0,,trabajando arduamente para\Nque este complejo prospere.
+Dialogue: 0,0:00:28.65,0:00:29.47,Default,,0,0,0,,¡Bien!
+Dialogue: 0,0:00:29.47,0:00:33.44,Default,,0,0,0,,Ahora bien, brinda servicios lascivos
+Dialogue: 0,0:00:33.44,0:00:37.80,Default,,0,0,0,,para satisfacer completamente a los invitados.
+Dialogue: 0,0:00:38.60,0:00:39.83,Default,,0,0,0,,El Resort Lascivo de la Chica\NZorro Episodio 2: ¡Los invitados
+Dialogue: 0,0:00:39.84,0:00:41.07,Default,,0,0,0,,en grupos también son\Nbienvenidos! La propietaria tiene una
+Dialogue: 0,0:00:41.08,0:00:42.31,Default,,0,0,0,,casa llena allí♡ Episodio 2:\N¡Los invitados en grupos también
+Dialogue: 0,0:00:42.32,0:00:43.55,Default,,0,0,0,,son bienvenidos! La propietaria\Ntiene una casa llena allí♡
+Dialogue: 0,0:00:43.56,0:00:49.03,Default,,0,0,0,,Mientras holgazaneaba en el\Nfutón del ahora difunto hombre
+Dialogue: 0,0:00:49.03,0:00:51.65,Default,,0,0,0,,que la salvó, la chica zorro\Nhabía estado pensando...
+Dialogue: 0,0:00:54.25,0:00:59.01,Default,,0,0,0,,Hice felices a los invitados brindando\Nservicios lascivos nuevamente hoy.
+Dialogue: 0,0:00:59.01,0:01:03.05,Default,,0,0,0,,Sin embargo, parece que todavía falta algo.
+Dialogue: 0,0:01:03.05,0:01:05.61,Default,,0,0,0,,Tal vez pueda preguntar a los invitados.
+Dialogue: 0,0:01:05.61,0:01:09.65,Default,,0,0,0,,Pero no me parece bien seguir preguntándoles...
+Dialogue: 0,0:01:09.65,0:01:12.08,Default,,0,0,0,,¿Qué tengo que hacer?
+Dialogue: 0,0:01:12.08,0:01:13.74,Default,,0,0,0,,¡Eso es!
+Dialogue: 0,0:01:16.89,0:01:18.26,Default,,0,0,0,,¡Sí, sí!
+Dialogue: 0,0:01:18.26,0:01:22.10,Default,,0,0,0,,¡Recurrir a mí en momentos\Ncomo este es una buena decisión!
+Dialogue: 0,0:01:22.10,0:01:24.14,Default,,0,0,0,,Este...
+Dialogue: 0,0:01:24.14,0:01:26.63,Default,,0,0,0,,Bueno, este...
+Dialogue: 0,0:01:26.63,0:01:30.30,Default,,0,0,0,,No se me ocurrió nada...
+Dialogue: 0,0:01:30.30,0:01:33.19,Default,,0,0,0,,¿Puedo pedir alguna orientación?
+Dialogue: 0,0:01:33.70,0:01:37.36,Default,,0,0,0,,¡Ah! Ahora que ella sinceramente preguntó,
+Dialogue: 0,0:01:37.36,0:01:40.02,Default,,0,0,0,,Me siento obligada a responderle.
+Dialogue: 0,0:01:40.02,0:01:42.21,Default,,0,0,0,,Bueno pues...
+Dialogue: 0,0:01:44.12,0:01:47.62,Default,,0,0,0,,¡Haré tu deseo realidad!
+Dialogue: 0,0:01:48.22,0:01:51.21,Default,,0,0,0,,Esa voz... ¡Es Dios!
+Dialogue: 0,0:01:51.21,0:01:55.49,Default,,0,0,0,,Haz felices a los invitados haciendo cosplay.
+Dialogue: 0,0:01:56.37,0:01:58.05,Default,,0,0,0,,¿Cosplay?
+Dialogue: 0,0:01:58.05,0:02:00.64,Default,,0,0,0,,Este, ¿qué es eso?
+Dialogue: 0,0:02:00.64,0:02:03.04,Default,,0,0,0,,Trata de recordar,
+Dialogue: 0,0:02:03.04,0:02:05.80,Default,,0,0,0,,porque hay un libro correcto\Nal respecto. Resort Clandestino
+Dialogue: 0,0:02:05.80,0:02:08.56,Default,,0,0,0,,Guía para principiantes ¡Oh,\Nestaba escrito en ese libro!
+Dialogue: 0,0:02:09.49,0:02:11.80,Default,,0,0,0,,¡Genial, te acuerdas!
+Dialogue: 0,0:02:11.80,0:02:14.65,Default,,0,0,0,,¡Gracias, Dios!
+Dialogue: 0,0:02:14.94,0:02:18.31,Default,,0,0,0,,Haz tu mejor esfuerzo de aquí en adelante.
+Dialogue: 0,0:02:23.75,0:02:27.61,Default,,0,0,0,,Me pregunto qué tipo de ropa debo usar...
+Dialogue: 0,0:02:28.81,0:02:30.48,Default,,0,0,0,,¿Disculpen?
+Dialogue: 0,0:02:31.90,0:02:36.15,Default,,0,0,0,,Los primeros invitados de hoy llegaron en grupo.
+Dialogue: 0,0:02:36.15,0:02:40.35,Default,,0,0,0,,Parece que escucharon algunos\Nrumores sobre una linda propietaria
+Dialogue: 0,0:02:40.35,0:02:43.68,Default,,0,0,0,,que brinda servicios de todo corazón y vinieron.
+Dialogue: 0,0:02:45.11,0:02:50.01,Default,,0,0,0,,¡Un grupo de personas se\Nacercó al escuchar los rumores!
+Dialogue: 0,0:02:50.81,0:02:54.69,Default,,0,0,0,,¿No es genial? Es el resultado de tu arduo trabajo.
+Dialogue: 0,0:02:55.32,0:02:57.92,Default,,0,0,0,,No hemos hecho una reserva. ¿Estará bien?
+Dialogue: 0,0:02:57.92,0:02:59.38,Default,,0,0,0,,Este...
+Dialogue: 0,0:02:59.38,0:03:01.66,Default,,0,0,0,,¡Creo que estará bien!
+Dialogue: 0,0:03:02.37,0:03:05.70,Default,,0,0,0,,¡Cielos, ella solo habla sin pensar!
+Dialogue: 0,0:03:06.13,0:03:09.99,Default,,0,0,0,,Oh, la chica zorro está cocinando.
+Dialogue: 0,0:03:09.99,0:03:12.61,Default,,0,0,0,,¡Parece que se lo está pasando en genial!
+Dialogue: 0,0:03:13.71,0:03:18.51,Default,,0,0,0,,¡Cocina, cocina! ¡Es divertido!
+Dialogue: 0,0:03:18.51,0:03:21.22,Default,,0,0,0,,¡Ella está sacudiendo ese lindo trasero!
+Dialogue: 0,0:03:21.83,0:03:25.22,Default,,0,0,0,,Oh, alguien está mirando detrás.
+Dialogue: 0,0:03:25.65,0:03:30.23,Default,,0,0,0,,¿Fue porque escuchó que este\Nresort brinda servicios lascivos?
+Dialogue: 0,0:03:30.60,0:03:34.23,Default,,0,0,0,,Este invitado tiene una mirada\Nalgo indecente en sus ojos.
+Dialogue: 0,0:03:34.72,0:03:36.07,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:03:36.07,0:03:37.06,Default,,0,0,0,,¡Señorita!
+Dialogue: 0,0:03:38.16,0:03:40.24,Default,,0,0,0,,Eh, ¿eres un invitado?
+Dialogue: 0,0:03:40.24,0:03:44.24,Default,,0,0,0,,¡E-Eso no está bien! ¡Estoy\Nen medio de hacer comidas!
+Dialogue: 0,0:03:44.24,0:03:47.25,Default,,0,0,0,,Sí, lo sé...
+Dialogue: 0,0:03:47.25,0:03:50.19,Default,,0,0,0,,Pero no puedo contenerme. ¿Podemos?
+Dialogue: 0,0:03:50.19,0:03:52.50,Default,,0,0,0,,¿P-Podemos qué?
+Dialogue: 0,0:03:53.21,0:03:55.30,Default,,0,0,0,,Estoy hablando de esto...
+Dialogue: 0,0:03:56.60,0:03:59.01,Default,,0,0,0,,¿E-Esa es tu polla?
+Dialogue: 0,0:04:00.01,0:04:01.76,Default,,0,0,0,,¡Señorita propietaria!
+Dialogue: 0,0:04:06.01,0:04:09.54,Default,,0,0,0,,Te dije que estoy preparando las comidas...
+Dialogue: 0,0:04:10.24,0:04:13.22,Default,,0,0,0,,¿No está ya mojada, señorita?
+Dialogue: 0,0:04:13.22,0:04:16.00,Default,,0,0,0,,¿L-Lo estás esperando?
+Dialogue: 0,0:04:17.00,0:04:18.77,Default,,0,0,0,,Ese es...
+Dialogue: 0,0:04:22.09,0:04:25.57,Default,,0,0,0,,¿Quieres ponerlo en mi coño? ¿Quieres aparearte?
+Dialogue: 0,0:04:25.57,0:04:27.28,Default,,0,0,0,,¡S-Sí, señora!
+Dialogue: 0,0:04:29.22,0:04:31.79,Default,,0,0,0,,Está bien, haré una excepción...
+Dialogue: 0,0:04:32.99,0:04:34.30,Default,,0,0,0,,Aquí tienes.
+Dialogue: 0,0:04:38.79,0:04:40.30,Default,,0,0,0,,¡Señorita propietaria!
+Dialogue: 0,0:04:47.37,0:04:50.56,Default,,0,0,0,,¡Vas tan duro ahora mismo!
+Dialogue: 0,0:04:50.85,0:04:52.98,Default,,0,0,0,,Estoy en medio de la cocina, y sin embargo...
+Dialogue: 0,0:04:53.53,0:04:55.98,Default,,0,0,0,,¡Mi coño está siendo golpeado...!
+Dialogue: 0,0:04:55.98,0:04:58.73,Default,,0,0,0,,¡...y me hace sentir bien!
+Dialogue: 0,0:04:59.58,0:05:03.71,Default,,0,0,0,,Eres muy joven pero ya estás\Ntrabajando como propietaria de un resort...
+Dialogue: 0,0:05:08.05,0:05:10.96,Default,,0,0,0,,Una chica como tú normalmente\Nusaría un uniforme escolar.
+Dialogue: 0,0:05:10.96,0:05:13.17,Default,,0,0,0,,¡Qué pobre niña!
+Dialogue: 0,0:05:14.48,0:05:16.03,Default,,0,0,0,,¿Uniforme escolar?
+Dialogue: 0,0:05:17.21,0:05:19.15,Default,,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:05:30.61,0:05:33.29,Default,,0,0,0,,¿Te gustan los uniformes escolares?
+Dialogue: 0,0:05:33.29,0:05:36.69,Default,,0,0,0,,¡Sí, me encantan los uniformes escolares demasiado!
+Dialogue: 0,0:05:43.47,0:05:44.68,Default,,0,0,0,,Me vengo...
+Dialogue: 0,0:05:54.20,0:05:56.97,Default,,0,0,0,,¡Voy a correrme! ¡Me vengo!
+Dialogue: 0,0:06:11.80,0:06:15.77,Default,,0,0,0,,¡Cielos, te dije que lo dejaras ya\Nque estoy preparando comidas!
+Dialogue: 0,0:06:15.77,0:06:19.23,Default,,0,0,0,,Oh, lo siento. Pero esta es otra\Nforma más de servicio, ya ves...
+Dialogue: 0,0:06:21.36,0:06:24.10,Default,,0,0,0,,¡Uh, lo siento! ¡Lo siento mucho!
+Dialogue: 0,0:06:24.67,0:06:27.08,Default,,0,0,0,,Un uniforme escolar, ¿eh?
+Dialogue: 0,0:06:27.08,0:06:29.69,Default,,0,0,0,,Vaya, vaya... Eso fue duro.
+Dialogue: 0,0:06:29.69,0:06:32.50,Default,,0,0,0,,Pero también obtuviste una buena pista.
+Dialogue: 0,0:06:33.03,0:06:33.91,Default,,0,0,0,,Sí...
+Dialogue: 0,0:06:46.84,0:06:49.81,Default,,0,0,0,,¡Todo el mundo parece estar pasándolo muy bien!
+Dialogue: 0,0:06:49.81,0:06:51.92,Default,,0,0,0,,Al escuchar las risas de los invitados,
+Dialogue: 0,0:06:51.92,0:06:55.22,Default,,0,0,0,,la chica zorro comenzó a sentirse feliz.
+Dialogue: 0,0:06:55.60,0:06:57.40,Default,,0,0,0,,¿Señorita propietaria?
+Dialogue: 0,0:06:58.46,0:07:02.23,Default,,0,0,0,,El invitado se sorprendió al verla.
+Dialogue: 0,0:07:03.36,0:07:05.04,Default,,0,0,0,,Eso es porque...
+Dialogue: 0,0:07:05.04,0:07:09.28,Default,,0,0,0,,...¡lleva un uniforme escolar!
+Dialogue: 0,0:07:10.01,0:07:13.64,Default,,0,0,0,,Verán, después de enterarme\Nde que organizaron una fiesta,
+Dialogue: 0,0:07:13.64,0:07:17.94,Default,,0,0,0,,Pensé que yo también debería hacer\Nalgo, ¡así que intenté hacer cosplay!
+Dialogue: 0,0:07:20.28,0:07:21.96,Default,,0,0,0,,¡Es la juventud!
+Dialogue: 0,0:07:25.30,0:07:27.68,Default,,0,0,0,,¿Qué es esto? ¡Asombroso!
+Dialogue: 0,0:07:27.68,0:07:31.68,Default,,0,0,0,,¡Dando vueltas con un rebote,\Nluego hace una pose cursi!
+Dialogue: 0,0:07:32.21,0:07:34.55,Default,,0,0,0,,Junto con su cuerpo evidentemente pequeño,
+Dialogue: 0,0:07:34.55,0:07:38.81,Default,,0,0,0,,¡sus tetas y su coño se asoman!
+Dialogue: 0,0:07:39.97,0:07:44.81,Default,,0,0,0,,Y así, la chica zorro sirve\Nalcohol para cada invitado.
+Dialogue: 0,0:07:45.96,0:07:50.82,Default,,0,0,0,,Sus zonas íntimas se pueden ver con el\Nmás mínimo movimiento debido a su ropa,
+Dialogue: 0,0:07:51.48,0:07:54.59,Default,,0,0,0,,por lo que los ojos de los\Ninvitados están todos pegados a ella.
+Dialogue: 0,0:07:57.14,0:07:59.68,Default,,0,0,0,,Vaya, vaya, chica zorro...
+Dialogue: 0,0:07:59.68,0:08:02.05,Default,,0,0,0,,Estás presionando demasiado tu cuerpo...
+Dialogue: 0,0:08:02.83,0:08:06.84,Default,,0,0,0,,¿Ves? Ahora el invitado\Ncomenzó a manosear tus tetas.
+Dialogue: 0,0:08:10.34,0:08:12.83,Default,,0,0,0,,En cuanto al otro invitado a tu lado...
+Dialogue: 0,0:08:12.83,0:08:16.35,Default,,0,0,0,,¡Oh, comenzó a tocar tu coño!
+Dialogue: 0,0:08:21.69,0:08:25.35,Default,,0,0,0,,Vaya, vaya... Dejaste de servirles alcohol.
+Dialogue: 0,0:08:29.21,0:08:30.76,Default,,0,0,0,,¿Podemos por favor?
+Dialogue: 0,0:08:30.76,0:08:33.36,Default,,0,0,0,,S-Sí, está bien...
+Dialogue: 0,0:08:50.19,0:08:54.38,Default,,0,0,0,,¡Se siente bien profundamente en mi coño!
+Dialogue: 0,0:08:58.13,0:09:00.39,Default,,0,0,0,,Ah, usaré mi boca.
+Dialogue: 0,0:09:26.77,0:09:28.42,Default,,0,0,0,,¡Ah, me vengo!
+Dialogue: 0,0:09:41.24,0:09:44.69,Default,,0,0,0,,Después de ser bañada con semen una y otra vez
+Dialogue: 0,0:09:44.69,0:09:46.73,Default,,0,0,0,,en el apareamiento sin fin,
+Dialogue: 0,0:09:48.72,0:09:53.86,Default,,0,0,0,,la chica zorro olvidó que se supone que\Ndebe atenderlos mientras sigue gimiendo.
+Dialogue: 0,0:09:54.60,0:09:57.46,Default,,0,0,0,,¡Más! ¡Más!
+Dialogue: 0,0:09:58.04,0:10:00.78,Default,,0,0,0,,¡Semillas de bebé!
+Dialogue: 0,0:10:01.77,0:10:03.86,Default,,0,0,0,,¡Apareamiento!
+Dialogue: 0,0:10:05.37,0:10:07.82,Default,,0,0,0,,¡Apareamiento para hacer bebés!
+Dialogue: 0,0:10:19.15,0:10:22.38,Default,,0,0,0,,¿Están todos satisfechos ahora?
+Dialogue: 0,0:10:23.05,0:10:25.72,Default,,0,0,0,,Por supuesto, ¡todos están\Ncompletamente satisfechos!
+Dialogue: 0,0:10:26.56,0:10:29.27,Default,,0,0,0,,¡G-Genial!
+Dialogue: 0,0:10:35.67,0:10:39.24,Default,,0,0,0,,¡Oh, ella está usando algo muy pequeño hoy!
+Dialogue: 0,0:10:39.61,0:10:44.30,Default,,0,0,0,,¡Limpieza, limpieza! ¡Tiempo de limpieza divertido!
+Dialogue: 0,0:10:46.98,0:10:49.12,Default,,0,0,0,,¡Es fácil moverse con este atuendo...!
+Dialogue: 0,0:10:49.12,0:10:52.25,Default,,0,0,0,,¡...y no se siente caliente\Nincluso cuando estoy en el baño!
+Dialogue: 0,0:10:52.25,0:10:54.86,Default,,0,0,0,,Esta chica piensa que es algún tipo de atuendo,
+Dialogue: 0,0:10:54.86,0:10:57.32,Default,,0,0,0,,pero en realidad es un traje de baño.
+Dialogue: 0,0:10:57.32,0:10:59.26,Default,,0,0,0,,No salgas a la calle con eso, ¿de acuerdo?
+Dialogue: 0,0:10:59.97,0:11:02.45,Default,,0,0,0,,Muy bien, lo siguiente es...
+Dialogue: 0,0:11:02.90,0:11:04.17,Default,,0,0,0,,¡Por ahí!
+Dialogue: 0,0:11:12.22,0:11:14.22,Default,,0,0,0,,Oh, ¿esta área está fuera de\Nlos límites en este momento?
+Dialogue: 0,0:11:14.22,0:11:15.46,Default,,0,0,0,,Saldremos enseguida.
+Dialogue: 0,0:11:15.46,0:11:17.78,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:11:18.32,0:11:20.80,Default,,0,0,0,,Como ya están todos aquí,
+Dialogue: 0,0:11:20.80,0:11:23.32,Default,,0,0,0,,tómense su tiempo y disfruten.
+Dialogue: 0,0:11:23.32,0:11:25.65,Default,,0,0,0,,Puedo hacer la limpieza más tarde.
+Dialogue: 0,0:11:25.65,0:11:27.29,Default,,0,0,0,,S-Señorita propietaria...
+Dialogue: 0,0:11:28.03,0:11:29.79,Default,,0,0,0,,P-Por cierto...
+Dialogue: 0,0:11:30.20,0:11:32.29,Default,,0,0,0,,Llevas algo increíble...
+Dialogue: 0,0:11:32.83,0:11:34.11,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:11:37.77,0:11:40.39,Default,,0,0,0,,¿Qué tal si te unes a nosotros para divertirte?
+Dialogue: 0,0:11:40.39,0:11:43.30,Default,,0,0,0,,¡Sí, yo también quiero aparearme!
+Dialogue: 0,0:11:46.44,0:11:49.07,Default,,0,0,0,,Aparte de mi coño,
+Dialogue: 0,0:11:50.61,0:11:53.72,Default,,0,0,0,,¡incluso me lames allí!
+Dialogue: 0,0:12:02.06,0:12:05.32,Default,,0,0,0,,Estás despidiendo un olor algo lascivo.
+Dialogue: 0,0:12:05.32,0:12:09.33,Default,,0,0,0,,Olerlo me enciende por alguna razón.
+Dialogue: 0,0:12:09.33,0:12:11.92,Default,,0,0,0,,Me alegra oír eso,
+Dialogue: 0,0:12:13.33,0:12:17.34,Default,,0,0,0,,¡pero golpea mi coño también!
+Dialogue: 0,0:12:17.34,0:12:20.26,Default,,0,0,0,,¡S-Señorita propietaria!
+Dialogue: 0,0:12:27.73,0:12:30.46,Default,,0,0,0,,¡Se siente bien! ¡Se siente bien!
+Dialogue: 0,0:12:37.29,0:12:39.99,Default,,0,0,0,,Siendo lamida por todo,
+Dialogue: 0,0:12:39.99,0:12:42.36,Default,,0,0,0,,hace que mi cuerpo tiemble sin parar.
+Dialogue: 0,0:12:43.17,0:12:48.77,Default,,0,0,0,,¡El calor y el hedor\Nmasculino que llena la sauna...!
+Dialogue: 0,0:12:48.77,0:12:52.37,Default,,0,0,0,,¡...están poniendo a la chica zorro\Nen un estado de excitación persistente!
+Dialogue: 0,0:12:59.82,0:13:01.68,Default,,0,0,0,,Incluso allí mismo...
+Dialogue: 0,0:13:07.89,0:13:11.89,Default,,0,0,0,,Todo mi cuerpo... ¡Se siente bien en todo mi cuerpo!
+Dialogue: 0,0:13:11.89,0:13:15.89,Default,,0,0,0,,Mi coño, mis tetas también...\NSe siente bien en todas partes...
+Dialogue: 0,0:13:16.39,0:13:18.89,Default,,0,0,0,,¡Voy a correrme!
+Dialogue: 0,0:13:24.40,0:13:28.93,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:13:36.05,0:13:38.92,Default,,0,0,0,,Le estoy muy agradecido, señorita propietaria.
+Dialogue: 0,0:13:40.91,0:13:42.69,Default,,0,0,0,,Eso se sintió genial.
+Dialogue: 0,0:13:47.45,0:13:51.40,Default,,0,0,0,,Este es un complejo de aguas termales muy popular,
+Dialogue: 0,0:13:51.40,0:13:53.43,Default,,0,0,0,,con una adorable propietaria.
+Dialogue: 0,0:13:54.33,0:13:57.25,Default,,0,0,0,,Su declive no es más que una historia del pasado.
+Dialogue: 0,0:13:57.25,0:14:00.44,Default,,0,0,0,,Últimamente, al complejo\Nle ha ido bien todos los días.
+Dialogue: 0,0:14:01.26,0:14:02.97,Default,,0,0,0,,¡Vamos, señorita propietaria!
+Dialogue: 0,0:14:02.97,0:14:04.50,Default,,0,0,0,,¡He estado esperando esto!
+Dialogue: 0,0:14:09.91,0:14:12.74,Default,,0,0,0,,¡Nene-chan!
+Dialogue: 0,0:14:15.64,0:14:19.38,Default,,0,0,0,,Todo esto es gracias a la dueña chica zorro,
+Dialogue: 0,0:14:19.38,0:14:22.04,Default,,0,0,0,,por brindar servicios lascivos.
+Dialogue: 0,0:14:22.04,0:14:25.48,Default,,0,0,0,,Este resort lascivo de la chica zorro
+Dialogue: 0,0:14:25.48,0:14:29.22,Default,,0,0,0,,debería prosperar aún más a partir de ahora.
+Dialogue: 0,0:14:29.22,0:14:31.96,Default,,0,0,0,,Haz tu mejor esfuerzo desde ahora,
+Dialogue: 0,0:14:31.96,0:14:36.13,Default,,0,0,0,,mi muy encantadora hija.

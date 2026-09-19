@@ -1,0 +1,19 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Subtitle editors temporary / backup files (Aegisub, Subtitle Edit, etc.)
+*.bak
+*.autosave
+*.tmp
+*.orig
+*.undo
+
+# Editor directories and workspaces
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

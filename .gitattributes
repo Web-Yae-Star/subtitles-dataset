@@ -1,0 +1,14 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Subtitle files (preserve CRLF as standard in ASS/SSA ecosystem)
+*.ass text eol=crlf
+*.ssa text eol=crlf
+*.srt text eol=crlf
+
+# Markdown and text files
+*.md text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf

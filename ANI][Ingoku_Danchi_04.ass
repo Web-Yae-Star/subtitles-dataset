@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: ToonsHub
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+LayoutResX: 1920
+PlayResY: 1080
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,65,&H00FFFFFF,&H00FF0057,&H50000000,&HFF000000,0,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Haniyae,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,9,10,10,10,1
+Style: Haniyae - Center,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Haniyae - Izquierda,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:07:05.00,Haniyae,,40,40,0,,haniyae.net
+Dialogue: 0,0:09:00.00,0:15:00.00,Haniyae - Center,,40,40,0,,haniyae.net
+Dialogue: 0,0:18:00.00,0:22:00.00,Haniyae - Izquierda,,40,40,0,,haniyae.net
+Dialogue: 0,0:00:05.46,0:00:07.34,Default,,0,0,0,,Oye, soy Yoshida, el administrador del edificio.
+Dialogue: 0,0:00:08.04,0:00:11.63,Default,,0,0,0,,No soy vendedor.\\NVengo a revisar tu alarma de incendio.
+Dialogue: 0,0:00:12.13,0:00:13.63,Default,,0,0,0,,¿No sos vendedor?
+Dialogue: 0,0:00:14.01,0:00:16.05,Default,,0,0,0,,¡¿Y qué mierda es ese atuendo?!
+Dialogue: 0,0:00:16.80,0:00:20.64,Default,,0,0,0,,{\\a6}INGOKU DANCHI:\\NCOMPLEJO DE PERRAS DESVIADAS
+Dialogue: 0,0:00:16.97,0:00:19.81,Default,,0,0,0,,¡Tengo que esconderme... tengo que esconderme!
+Dialogue: 0,0:00:20.81,0:00:24.35,Default,,0,0,0,,{\\an8}Sra. Sanamori, tranquilízate.\\NNo te vamos a hacer nada.
+Dialogue: 0,0:00:20.92,0:00:26.42,Default,,0,0,0,,{\\fad(900,900)\\an7\\fs60\\c&H140E0C&\\bord4\\blur0.5\\3c&HF6F2F1&\\pos(95,896)}EP 4:           {\\bord3\\c&H9550F2&\\3c&H110C0C&}Sanamori la Reclusa Calenturienta
+Dialogue: 0,0:00:24.98,0:00:26.44,Default,,0,0,0,,{\\an8}¿D-De verdad?
+Dialogue: 0,0:00:26.77,0:00:29.27,Default,,0,0,0,,¿De dónde carajo sacaste esa ropa?
+Dialogue: 0,0:00:29.69,0:00:32.69,Default,,0,0,0,,Ese paquete lo dejaron en mi puerta.
+Dialogue: 0,0:00:32.86,0:00:36.82,Default,,0,0,0,,¿Qué pensaste poniéndote\\Nesa ropa tan de puta, Sanamori?
+Dialogue: 0,0:00:37.32,0:00:39.28,Default,,0,0,0,,No tenés que decirlo\\Nasí, Sra. Katagiri.
+Dialogue: 0,0:00:41.54,0:00:43.58,Default,,0,0,0,,¿Pero no te parece raro?
+Dialogue: 0,0:00:45.21,0:00:47.25,Default,,0,0,0,,¡Lo sabía! ¡{\\i0}Esto es{\\i0} una visita de ventas!
+Dialogue: 0,0:00:47.42,0:00:50.88,Default,,0,0,0,,- ¡Sos amiga de {\\i1}esa{\\i0}! ¡Fuera! ¡Largate!\\N- Tranquila, por favor, está todo bien.
+Dialogue: 0,0:00:51.25,0:00:54.67,Default,,0,0,0,,La próxima vez que venga un vendedor,\\Nllamame y te ayudo con gusto.
+Dialogue: 0,0:00:56.63,0:01:00.10,Default,,0,0,0,,¿Por qué la Sra. Sanamori\\Nle tiene tanto miedo a los vendedores?
+Dialogue: 0,0:01:00.68,0:01:02.52,Default,,0,0,0,,Seguro se cruzó con {\\i1}esa{\\i0}.
+Dialogue: 0,0:01:02.93,0:01:06.48,Default,,0,0,0,,Aunque no sea residente acá,\\Nla rankeamos como...
+Dialogue: 0,0:01:06.64,0:01:08.19,Default,,0,0,0,,"Casada Nivel de Peligro A."
+Dialogue: 0,0:01:08.81,0:01:11.32,Default,,0,0,0,,¡La vendedora loca y depredadora "Kanzaki"!
+Dialogue: 0,0:01:11.61,0:01:14.28,Default,,0,0,0,,- ¡Perdóoooon!\\N- ¡Vos! ¡Estás molestando al vecindario—
+Dialogue: 0,0:01:14.65,0:01:16.53,Default,,0,0,0,,¡Yoshida, es ella! ¡Corré!
+Dialogue: 0,0:01:16.70,0:01:18.49,Default,,0,0,0,¿Alguien en caaaasa?
+Dialogue: 0,0:01:18.87,0:01:20.62,Default,,0,0,0,,Hola, señooor~
+Dialogue: 0,0:01:20.78,0:01:22.87,Default,,0,0,0,,{\\i1}¡Representante de Comercio Virtud Patria, Kanzaki!
+Dialogue: 0,0:01:21.12,0:01:22.95,Default,,0,0,0,,{\\a5\\c&H1C211F&\\3c&H82D3EC&}VIRTUD PATRIA\\NREPRESENTANTE,\\N¡KANZAKI!
+Dialogue: 0,0:01:23.95,0:01:25.75,Default,,0,0,0,,¡Tengo que rajar!
+Dialogue: 0,0:01:26.41,0:01:28.54,Default,,0,0,0,,Técnica de Venta Puerta a Puerta...
+Dialogue: 0,0:01:28.83,0:01:31.67,Default,,0,0,0,,¡Como un viento rugiente!\\N¡Oh, señor!
+Dialogue: 0,0:01:32.07,0:01:33.59,Default,,0,0,0,,¡Joder! ¡Es rápida!
+Dialogue: 0,0:01:37.26,0:01:39.89,Default,,0,0,0,,¡Invade como un fuego furioso!
+Dialogue: 0,0:01:40.93,0:01:42.35,Default,,0,0,0,,{\\i1}De repente todo está tan quieto.
+Dialogue: 0,0:01:43.64,0:01:45.81,Default,,0,0,0,,¡Tan quieto como el bosque!
+Dialogue: 0,0:01:46.23,0:01:48.44,Default,,0,0,0,,¡Inamovible como una montaña!
+Dialogue: 0,0:01:49.44,0:01:51.15,Default,,0,0,0,,¡Nuestro edredón, {\\i1}Hexágono{\\i0}!
+Dialogue: 0,0:01:51.31,0:01:54.78,Default,,0,0,0,,Es a prueba de fuego, frío, veneno, balas y explosiones
+Dialogue: 0,0:01:54.94,0:01:57.78,Default,,0,0,0,,{\\a6}YUKOKU\\N300.000 YEN
+Dialogue: 0,0:01:54.94,0:01:58.36,Default,,0,0,0,,¡Todo por solo 300.000 yenes con impuestos!
+Dialogue: 0,0:01:58.53,0:02:01.95,Default,,0,0,0,,- ¿Qué pensás, señor?\\N- Eeeh, está carísimo.
+Dialogue: 0,0:02:02.33,0:02:06.37,Default,,0,0,0,,¡Para un cliente potencial, te doy\\Nnuestro servicio especial gratis!
+Dialogue: 0,0:02:02.37,0:02:05.58,Default,,0,0,0,,{\\a6}YUKOKU
+Dialogue: 0,0:02:06.66,0:02:09.33,Default,,0,0,0,,- ¡Disfrutá este jueguito intenso conmigo!\\N- ¡Bajate de encima!
+Dialogue: 0,0:02:11.71,0:02:13.29,Default,,0,0,0,,¡Tengo que salir de acá!
+Dialogue: 0,0:02:14.38,0:02:16.76,Default,,0,0,0,,- ¡Señooor!\\N- ¡Todavía viene!
+Dialogue: 0,0:02:16.92,0:02:17.97,Default,,0,0,0,¿El jefe?
+Dialogue: 0,0:02:27.23,0:02:29.81,Default,,0,0,0,,{\\a6}SANAMORI LA RECLUSA
+Dialogue: 0,0:02:27.27,0:02:29.39,Default,,0,0,0,,{\\i1}¡Sanamori la Reclusa Calenturienta!{\\i0}
+Dialogue: 0,0:02:30.94,0:02:32.86,Default,,0,0,0,,- ¡Entrá rápido!\\N- ¡Sra. Sanamori!
+Dialogue: 0,0:02:34.57,0:02:36.07,Default,,0,0,0,,Ahora estarás a salvo.
+Dialogue: 0,0:02:36.53,0:02:39.20,Default,,0,0,0,,Es-Esto es increíble.\\NHay un refugio acá adentro.
+Dialogue: 0,0:02:39.61,0:02:40.66,Default,,0,0,0,,Y ahora...
+Dialogue: 0,0:02:40.82,0:02:45.12,Default,,0,0,0,,¡bienvenido a mi nido ultra-tranqui,\\Nultra-seguro y putamente caliente!
+Dialogue: 0,0:02:45.29,0:02:46.04,Default,,0,0,0,,¡¿Quéeé?!
+Dialogue: 0,0:02:46.58,0:02:51.29,Default,,0,0,0,,Tengo claustrofília. ¿Me cogés a cambio de salvarte?
+Dialogue: 0,0:02:51.46,0:02:53.13,Default,,0,0,0,,{\\i1}¡¿Vos también, Sra. Sanamori?!
+Dialogue: 0,0:02:54.13,0:02:55.75,Default,,0,0,0,,Esto es una {\\i1}Tela de Libido{\\i0}...
+Dialogue: 0,0:02:56.16,0:02:57.71,Default,,0,0,0,,¿Eh? ¿Las conocés?
+Dialogue: 0,0:02:57.88,0:02:58.92,Default,,0,0,0,,Incluso sé...
+Dialogue: 0,0:02:59.55,0:03:02.09,Default,,0,0,0,,¡cuál es su punto débil!
+Dialogue: 0,0:03:02.51,0:03:03.55,Default,,0,0,0,,¡No, no sabés!
+Dialogue: 0,0:03:03.72,0:03:07.72,Default,,0,0,0,,¡Este es mi sanctasanctórum, mi\\Nzona segura e inviolable!
+Dialogue: 0,0:03:08.18,0:03:10.19,Default,,0,0,0,,¡Y todo es mío!
+Dialogue: 0,0:03:11.14,0:03:15.23,Default,,0,0,0,,¡Para detener una Tela de Libido...\\N¡sacale su Joya de Resonancia!
+Dialogue: 0,0:03:15.40,0:03:17.19,Default,,0,0,0,,¡Y aplastala!
+Dialogue: 0,0:03:19.36,0:03:20.28,Default,,0,0,0,,¡¿Qué mierda pasó?!
+Dialogue: 0,0:03:21.99,0:03:24.32,Default,,0,0,0,,{\\a6}PAGO OBLIGATORIO:\\N300.000 YEN A YUKOKU
+Dialogue: 0,0:03:22.03,0:03:24.32,Default,,0,0,0,,¡Gracias por su compra!
+Dialogue: 0,0:03:26.74,0:03:29.12,Default,,0,0,0,,{\\i1}Y así fue una calamidad de verdad...
+Dialogue: 0,0:03:29.83,0:03:33.92,Default,,0,0,0,,{\\i1}mi primera experiencia enfrentando\\Na una casada Nivel A...
+Dialogue: 0,0:03:32.32,0:03:34.94,Default,,0,0,0,,{\\fad(500,0)\\an8\\fs20\\bord1.8\\pos(224,320)}Subtítulos por\\N\\N{\\fs28}ToonsHub

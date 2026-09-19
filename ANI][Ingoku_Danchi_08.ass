@@ -1,0 +1,96 @@
+﻿[Script Info]
+Title: ToonsHub
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+LayoutResX: 1920
+PlayResY: 1080
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,65,&H00FFFFFF,&H00FF0057,&H50000000,&HFF000000,0,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Haniyae,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,9,10,10,10,1
+Style: Haniyae - Center,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Haniyae - Izquierda,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:07:05.00,Haniyae,,40,40,0,,haniyae.net
+Dialogue: 0,0:09:00.00,0:15:00.00,Haniyae - Center,,40,40,0,,haniyae.net
+Dialogue: 0,0:18:00.00,0:22:00.00,Haniyae - Izquierda,,40,40,0,,haniyae.net
+Dialogue: 0,0:00:06.00,0:00:09.46,Default,,0,0,0,,Ah, gerente. Yo que tú, no iría\Nal parque ahora mismo.
+Dialogue: 0,0:00:10.30,0:00:14.97,Default,,0,0,0,,Hay amas de casa de Nivel A merodeando por ahí.\NParece que atraparon a la Sra. Sanamori.
+Dialogue: 0,0:00:15.14,0:00:17.22,Default,,0,0,0,,¿La Sra. Sanamori? Debería ir a echar un vistazo.
+Dialogue: 0,0:00:18.39,0:00:21.22,Default,,0,0,0,,{\i1}¡Una ama de casa de Riesgo Nivel A es\Ncasi igual de peligrosa que la Sra. Kanzaki!
+Dialogue: 0,0:00:21.81,0:00:24.56,Default,,0,0,0,,{\i1}¡Y se han unido formando una banda!
+Dialogue: 0,0:00:25.15,0:00:27.19,Default,,0,0,0,,{\i1}La Asociación de Amas de Casa de Purga y Destierro
+Dialogue: 0,0:00:27.44,0:00:31.40,Default,,0,0,0,,{\i1}valora la armonía y el rango, y es un aparato violento
+Dialogue: 0,0:00:31.57,0:00:35.74,Default,,0,0,0,,{\i1}que impone bullying brutal, humillación\Ny expulsión contra quien se les oponga.
+Dialogue: 0,0:00:37.57,0:00:39.95,Default,,0,0,0,,¡Yo... yo no he hecho nada!
+Dialogue: 0,0:00:40.29,0:00:44.94,Default,,0,0,0,,Esos tres pervertidos hicieron un desastre anoche.\NA esto le llaman responsabilidad colectiva, nena.
+Dialogue: 0,0:00:41.44,0:00:44.94,Signs,,0,0,0,,{\fad(143,0)\a6\c&HEBE9EB&\bord2\fs35\blur5\pos(370,192)\3c&HCF0D6E&}PRESIDENTA DE LA ASOCIACIÓN DE AMAS DE CASA\NKIRITANI, LA "AMANTE DE LA DISCIPLINA"
+Dialogue: 0,0:00:44.96,0:00:47.82,Default,,0,0,0,,{\a1}Como dice la Sra. Kiritani.\NAhora, denle una buena paliza.
+Dialogue: 0,0:00:44.96,0:00:47.82,Signs,,0,0,0,,{\a6\c&HEAEAEA&\bord2\fs55\blur5\3c&H3C3C67&\pos(1454,460)}VICEPRESIDENTA\NNUMAJIRI, LA "PEGAJOSA"
+Dialogue: 0,0:00:51.05,0:00:51.96,Default,,0,0,0,,¡Ya basta!
+Dialogue: 0,0:00:53.67,0:00:56.01,Default,,0,0,0,,Ah, Sr. Gerente. ¿Pasa algo?
+Dialogue: 0,0:00:56.18,0:00:58.47,Default,,0,0,0,,Solo nos estamos riendo y pasando bien.
+Dialogue: 0,0:00:58.80,0:01:00.47,Default,,0,0,0,,Vámonos de aquí, Sra. Sanamori.
+Dialogue: 0,0:01:01.26,0:01:02.10,Default,,0,0,0,,{\i1}Entonces esos son...
+Dialogue: 0,0:01:02.60,0:01:06.64,Default,,0,0,0,,{\i1}la Asociación de Amas de Casa\Nde Purga y Destierro Nivel A...
+Dialogue: 0,0:01:08.40,0:01:10.36,Default,,0,0,0,,{\an8}- La Sra. Ikayama del Edificio 8...\N- Tentáculos... tentáculos~
+Dialogue: 0,0:01:10.36,0:01:11.76,Default,,0,0,0,,{\an8}- tiene fetiche por los tentáculos.\N- Tentáculos... tentáculos~
+Dialogue: 0,0:01:07.96,0:01:13.39,Signs,,0,0,0,,{\fad(900,900)\an7\fs60\c&H140E0C&\bord4\blur0.5\3c&HF6F2F1&\pos(70,896)}EP 8:     {\bord3\c&H9550F2&\3c&H110C0C&}Asociación de Amas de Casa de Purga y Destierro
+Dialogue: 0,0:01:12.03,0:01:13.40,Default,,0,0,0,,{\an8}Ese es su vicio principal.
+Dialogue: 0,0:01:13.99,0:01:15.70,Default,,0,0,0,,{\a6}¡Ahora a medir rápido, registrar,
+Dialogue: 0,0:01:15.07,0:01:20.12,Signs,,0,0,0,,{\a6\c&HEAEAEA&\bord2\fs55\blur5\3c&H3C3C67&\pos(410,574)}HASEGAWA\NEL INFORMANTE
+Dialogue: 0,0:01:15.86,0:01:20.12,Default,,0,0,0,,{\a6}y ajustar sus patrones de ondas cerebrales\Ndesviadas para enviarlos al cliente!
+Dialogue: 0,0:01:20.66,0:01:21.28,Default,,0,0,0,,¡Y listo!
+Dialogue: 0,0:01:24.16,0:01:25.29,Default,,0,0,0,,¡Ahí está!
+Dialogue: 0,0:01:25.46,0:01:29.21,Default,,0,0,0,,¡Un Pañuelo Líbido y 5 millones de yenes en efectivo,\Nlibres de impuestos, del Túnel Antisocial!
+Dialogue: 0,0:01:29.38,0:01:34.26,Default,,0,0,0,,¿5 millones de yenes solo por reportar info\nde una pervertida? ¡Vaya que es redituable!
+Dialogue: 0,0:01:34.63,0:01:37.26,Default,,0,0,0,,Bueno entonces. Si fueras tan amable, Shirakage.
+Dialogue: 0,0:01:37.55,0:01:39.72,Default,,0,0,0,,Sí, Ama Kiritani.
+Dialogue: 0,0:01:41.39,0:01:42.72,Default,,0,0,0,,¡Oh, llegué tarde!
+Dialogue: 0,0:01:43.01,0:01:44.14,Default,,0,0,0,,Oye, Katagiri~
+Dialogue: 0,0:01:44.93,0:01:47.64,Default,,0,0,0,,¿Sra. Ikayama? ¿Qué haces ahí?
+Dialogue: 0,0:01:47.89,0:01:49.10,Default,,0,0,0,,¿Quieres divertirte un rato?
+Dialogue: 0,0:01:49.27,0:01:50.44,Default,,0,0,0,,¿D-Divertirnos?
+Dialogue: 0,0:01:50.86,0:01:55.07,Default,,0,0,0,,Sí, será muy divertido...\N¡Diversión con tentáculos!
+Dialogue: 0,0:01:55.07,0:01:56.80,Default,,0,0,0,,{\a6}IKAYAMA LA DE LOS TENTÁCULOS
+Dialogue: 0,0:01:55.24,0:01:56.80,Default,,0,0,0,,{\i1}¡Ikayama la de los Tentáculos!
+Dialogue: 0,0:01:57.07,0:01:58.99,Default,,0,0,0,,¡¿Tú también eres una ama de casa pervertida?!
+Dialogue: 0,0:01:59.28,0:02:02.33,Default,,0,0,0,,No soy una pervertida.\nLos tentáculos son un fetiche perfectamente sano.
+Dialogue: 0,0:02:04.62,0:02:06.41,Default,,0,0,0,,{\i1}¡Para ya!
+Dialogue: 0,0:02:07.16,0:02:09.87,Default,,0,0,0,,La desgracia ajena es el mejor entretenimiento.
+Dialogue: 0,0:02:10.04,0:02:12.04,Default,,0,0,0,,Cierto. Y este trago está buenísimo.
+Dialogue: 0,0:02:12.34,0:02:14.84,Default,,0,0,0,,¡Noooo! ¡Alguien! ¡Quien sea!
+Dialogue: 0,0:02:15.17,0:02:17.30,Default,,0,0,0,,¡Sr. Gerente! ¡Auxilioooo!
+Dialogue: 0,0:02:17.63,0:02:18.97,Default,,0,0,0,,¡Sra. Katagiri!
+Dialogue: 0,0:02:20.22,0:02:21.26,Default,,0,0,0,,¿El gerente...?
+Dialogue: 0,0:02:22.76,0:02:23.81,Default,,0,0,0,,¡Sr. Gerente!
+Dialogue: 0,0:02:24.97,0:02:28.77,Default,,0,0,0,,¡Ah, la sensación de tentáculos arrastrándose!\n¡Una doncella en apuros toda atada!
+Dialogue: 0,0:02:28.94,0:02:32.81,Default,,0,0,0,,¡Necesito que todo el complejo\nconozca este maravilloso vicio!
+Dialogue: 0,0:02:33.27,0:02:37.03,Default,,0,0,0,,No te... voy a dejar hacer eso...\n¡Garra Voltac!
+Dialogue: 0,0:02:37.86,0:02:38.53,Default,,0,0,0,,¿Funcionó?
+Dialogue: 0,0:02:38.95,0:02:42.66,Default,,0,0,0,,{\i1}¡Ya entendí! ¡Esos tentáculos se controlan\Ncon una corriente bioeléctrica!
+Dialogue: 0,0:02:42.82,0:02:46.12,Default,,0,0,0,,¡Oye! ¡Se supone que debes\Nquedarte atada correctamente!
+Dialogue: 0,0:02:46.58,0:02:48.33,Default,,0,0,0,,¡Tajo Voltac!
+Dialogue: 0,0:02:49.12,0:02:50.29,Default,,0,0,0,,¡Mis tentáculos no se mueven!
+Dialogue: 0,0:02:50.62,0:02:52.96,Default,,0,0,0,,Sra. Ikayama, tengo que pedirle que
+Dialogue: 0,0:02:53.34,0:02:54.88,Default,,0,0,0,,detenga su comportamiento disruptivo.
+Dialogue: 0,0:02:55.80,0:02:57.42,Default,,0,0,0,,¡¡¡No!!!
+Dialogue: 0,0:02:59.97,0:03:01.09,Default,,0,0,0,,¡Sr. Gerente!
+Dialogue: 0,0:03:02.43,0:03:04.51,Default,,0,0,0,,Ya todo está bien.
+Dialogue: 0,0:03:05.01,0:03:07.00,Signs,,0,0,0,,{\c&H8F25DC&\fs40\pos(1280,438)\3c&HDBD1E1&\bord3}PURGA Y DESTIERRO\N{\3c&H2B242F&}ASOCIACIÓN DE AMAS DE CASA
+Dialogue: 0,0:03:07.18,0:03:10.52,Default,,0,0,0,,Qué giro de eventos tan aburrido. Una mierda.
+Dialogue: 0,0:03:10.69,0:03:12.48,Default,,0,0,0,,Oh, Hasegawa,
+Dialogue: 0,0:03:12.65,0:03:15.73,Default,,0,0,0,,por favor transmite lo siguiente a la\NAsociación de Amas de Casa de Purga y Destierro.
+Dialogue: 0,0:03:16.40,0:03:19.78,Default,,0,0,0,,El gerente ha interferido con las actividades\Nde nuestra asociación
+Dialogue: 0,0:03:19.94,0:03:21.82,Default,,0,0,0,,y ha alterado la paz en el complejo.
+Dialogue: 0,0:03:21.99,0:03:25.74,Default,,0,0,0,,Por lo tanto, debemos tratar al chico\Ncon la mayor de las "atenciones".
+Dialogue: 0,0:03:26.66,0:03:28.04,Default,,0,0,0,,Y al final, por supuesto.
+Dialogue: 0,0:03:28.45,0:03:30.50,Default,,0,0,0,,Lo echaremos a patadas...
+Dialogue: 0,0:03:31.00,0:03:32.29,Default,,0,0,0,,¡Será desterrado!

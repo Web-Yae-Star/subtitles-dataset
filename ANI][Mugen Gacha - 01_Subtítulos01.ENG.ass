@@ -1,0 +1,407 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Q0,Swis721 BT,48,&HC3F5F9,&HC3F5F9,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q1,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q2,Square721 BT,25,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q3,Square721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q4,Swis721 BT,40,&HC3F5F9,&HC3F5F9,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.17,0:00:14.71,Q0,,0,0,0,,Al principio, no había nada.
+Dialogue: 0,0:00:14.71,0:00:16.42,Q0,,0,0,0,,El mundo era una tormenta oscura.
+Dialogue: 0,0:00:17.08,0:00:19.46,Q0,,0,0,0,,Hasta que la Diosa derramó luz sobre él,
+Dialogue: 0,0:00:19.75,0:00:23.63,Q0,,0,0,0,,y creó un continente donde nacieron nueve razas.
+Dialogue: 0,0:00:25.21,0:00:26.38,Q0,,0,0,0,,Los dragonutos.
+Dialogue: 0,0:00:27.04,0:00:27.79,Q0,,0,0,0,,Los elfos.
+Dialogue: 0,0:00:28.58,0:00:29.75,Q0,,0,0,0,,Los onifolk.
+Dialogue: 0,0:00:30.08,0:00:31.17,Q0,,0,0,0,,Los enanos.
+Dialogue: 0,0:00:32.00,0:00:32.92,Q0,,0,0,0,,Los demonkin.
+Dialogue: 0,0:00:33.54,0:00:34.88,Q0,,0,0,0,,Los elfos oscuros.
+Dialogue: 0,0:00:35.42,0:00:36.54,Q0,,0,0,0,,Los centauros.
+Dialogue: 0,0:00:37.25,0:00:38.50,Q0,,0,0,0,,Los beastfolk.
+Dialogue: 0,0:00:39.13,0:00:41.50,Q0,,0,0,0,,Y humanos como yo.
+Dialogue: 0,0:00:44.25,0:00:45.58,Q0,,0,0,0,,¡Nos vemos por ahora!
+Dialogue: 0,0:00:46.17,0:00:49.96,Q0,,0,0,0,,¡Mamá! ¡Papá! ¡Els! ¡Yume!
+Dialogue: 0,0:00:52.00,0:00:54.17,Q0,,0,0,0,,Primero, seré un puto gran aventurero.
+Dialogue: 0,0:00:54.92,0:00:57.96,Q0,,0,0,0,,Y después, haré que vivamos todos de puta madre.
+Dialogue: 0,0:01:03.50,0:01:06.75,Q0,,0,0,0,,Eh, estoy casi seguro de que este es el camino...
+Dialogue: 0,0:01:06.75,0:01:07.92,Q0,,0,0,0,,Lárgate, enano de mierda.
+Dialogue: 0,0:01:08.54,0:01:10.54,Q0,,0,0,0,,Los humanos deberían saber que se tienen que hacer a un lado.
+Dialogue: 0,0:01:10.83,0:01:12.25,Q0,,0,0,0,,Oh, perdón.
+Dialogue: 0,0:01:15.00,0:01:16.42,Q0,,0,0,0,,Siguiente en la fila, por favor.
+Dialogue: 0,0:01:17.71,0:01:18.96,Q0,,0,0,0,,Hola.
+Dialogue: 0,0:01:19.17,0:01:20.08,Q0,,0,0,0,,¿Cuál es tu nombre?
+Dialogue: 0,0:01:20.29,0:01:21.08,Q0,,0,0,0,,Me llamo Light.
+Dialogue: 0,0:01:21.58,0:01:23.25,Q0,,0,0,0,,¿Es tu primer registro?
+Dialogue: 0,0:01:23.54,0:01:24.42,Q0,,0,0,0,,Sí, señorita.
+Dialogue: 0,0:01:24.42,0:01:25.92,Q0,,0,0,0,,Bueno, serás rango F.
+Dialogue: 0,0:01:26.04,0:01:27.92,Q0,,0,0,0,,¿Tienes algún Don?
+Dialogue: 0,0:01:28.17,0:01:29.33,Q0,,0,0,0,,Sí, lo tengo.
+Dialogue: 0,0:01:29.63,0:01:30.50,Q0,,0,0,0,,¿Cuál?
+Dialogue: 0,0:01:30.79,0:01:32.04,Q0,,0,0,0,,¡Gacha Ilimitado!
+Dialogue: 0,0:01:32.29,0:01:34.75,Q0,,0,0,0,,¿Gacha Ilimitado? ¿Puedes explicarme más?
+Dialogue: 0,0:01:34.92,0:01:36.13,Q0,,0,0,0,,Déjame mostrarte.
+Dialogue: 0,0:01:38.00,0:01:40.79,Q0,,0,0,0,,Solo giro mi gacha aquí...
+Dialogue: 0,0:01:43.71,0:01:45.50,Q0,,0,0,0,,Tomo la carta que me toca y...
+Dialogue: 0,0:01:46.00,0:01:46.96,Q0,,0,0,0,,¡Suelto!
+Dialogue: 0,0:01:51.13,0:01:53.04,Q0,,0,0,0,,¡E-es solo un ejemplo!
+Dialogue: 0,0:01:56.08,0:01:56.96,Q0,,0,0,0,,¡Suelto!
+Dialogue: 0,0:01:58.67,0:01:59.71,Q0,,0,0,0,,¡Suelto!
+Dialogue: 0,0:02:00.54,0:02:05.42,Q0,,0,0,0,,Un tenedor doblado, una manzana podrida y pan mohoso...
+Dialogue: 0,0:02:06.08,0:02:08.17,Q0,,0,0,0,,Normalmente no es así.
+Dialogue: 0,0:02:09.50,0:02:12.00,Q0,,0,0,0,,Sí, rango F es lo mejor para ti.
+Dialogue: 0,0:02:13.33,0:02:14.13,Q0,,0,0,0,,Pregunta.
+Dialogue: 0,0:02:14.13,0:02:14.75,Q0,,0,0,0,,Sí?
+Dialogue: 0,0:02:15.08,0:02:17.29,Q0,,0,0,0,,¿Hay trabajos que pueda tomar ya mismo?
+Dialogue: 0,0:02:17.88,0:02:19.29,Q0,,0,0,0,,Déjame pensar.
+Dialogue: 0,0:02:19.54,0:02:22.54,Q0,,0,0,0,,Los trabajos más fáciles están anunciados en ese tablero.
+Dialogue: 0,0:02:27.75,0:02:30.29,Q0,,0,0,0,,¿Tienes problemas para leer, por casualidad?
+Dialogue: 0,0:02:30.58,0:02:31.29,Q0,,0,0,0,,Ajá.
+Dialogue: 0,0:02:32.04,0:02:35.50,Q0,,0,0,0,,Era de esperarse, dado el bajo nivel de alfabetización entre nosotros, los humanos.
+Dialogue: 0,0:02:35.92,0:02:36.92,Q0,,0,0,0,,En ese caso...
+Dialogue: 0,0:02:37.46,0:02:42.38,Q0,,0,0,0,,siempre está juntar leña, cargar tierra y cortar césped. ¿Te interesa?
+Dialogue: 0,0:02:43.00,0:02:45.33,Q0,,0,0,0,,Aunque pagan poco.
+Dialogue: 0,0:02:45.71,0:02:47.33,Q0,,0,0,0,,Claro, me sirve igual.
+Dialogue: 0,0:02:56.00,0:02:59.58,Q0,,0,0,0,,Uf. Trabajé como un condenado todo el día solo para pagar el techo.
+Dialogue: 0,0:02:59.92,0:03:03.75,Q0,,0,0,0,,Pero estaré bien si logro sacar algo comestible de mi gacha...
+Dialogue: 0,0:03:05.71,0:03:08.92,Q0,,0,0,0,,¡Oye! ¿No puedes fijarte por dónde vas, niño?
+Dialogue: 0,0:03:09.17,0:03:10.17,Q0,,0,0,0,,¡Joder, perdón!
+Dialogue: 0,0:03:10.17,0:03:12.50,Q0,,0,0,0,,¡Me dejaste la ropa hecha mierda!
+Dialogue: 0,0:03:12.50,0:03:14.08,Q0,,0,0,0,,Vas a tener que pagar por eso.
+Dialogue: 0,0:03:14.63,0:03:15.79,Q0,,0,0,0,,Mira nomás.
+Dialogue: 0,0:03:16.75,0:03:19.08,Q0,,0,0,0,,Justo lo suficiente para pagar la lavandería.
+Dialogue: 0,0:03:19.08,0:03:20.33,Q0,,0,0,0,,¡Devuélveme eso!
+Dialogue: 0,0:03:20.50,0:03:21.92,Q0,,0,0,0,,¡No puedo quedarme si no tengo eso!
+Dialogue: 0,0:03:23.63,0:03:27.42,Q0,,0,0,0,,Con esta mierda apenas y consigues un pocilga para rentar.
+Dialogue: 0,0:03:27.79,0:03:29.88,Q0,,0,0,0,,Está mejor en nuestras manos, ¿ves?
+Dialogue: 0,0:03:30.25,0:03:31.75,Q0,,0,0,0,,Vamos por unas copas.
+Dialogue: 0,0:03:31.75,0:03:32.92,Q0,,0,0,0,,Tienen que ser baratas.
+Dialogue: 0,0:03:33.08,0:03:34.29,Q0,,0,0,0,,Muévete, humano.
+Dialogue: 0,0:03:34.29,0:03:36.54,Q0,,0,0,0,,Lárgate a dormir con la basura en el basurero.
+Dialogue: 0,0:03:38.42,0:03:39.42,Q0,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:03:40.21,0:03:41.79,Q0,,0,0,0,,Gracias.
+Dialogue: 0,0:03:44.08,0:03:46.38,Q0,,0,0,0,,¡Oh no! ¡Perdóname!
+Dialogue: 0,0:03:46.75,0:03:47.96,Q0,,0,0,0,,No te preocupes.
+Dialogue: 0,0:03:48.67,0:03:50.00,Q0,,0,0,0,,No te voy a hacer daño.
+Dialogue: 0,0:03:54.96,0:03:56.42,Q0,,0,0,0,,Mira esto.
+Dialogue: 0,0:03:55.67,0:03:56.63,Q1,,0,0,0,,Asqueroso.
+Dialogue: 0,0:03:56.42,0:03:58.29,Q0,,0,0,0,,¿Elfos y humanos? ¿En serio?
+Dialogue: 0,0:04:01.08,0:04:01.75,Q0,,0,0,0,,¿Ves?
+Dialogue: 0,0:04:03.21,0:04:08.25,Q0,,0,0,0,,Esta elfa se ensució las rodillas solo para arrodillarse y abrazarme...
+Dialogue: 0,0:04:09.00,0:04:10.42,Q0,,0,0,0,,¿Estoy soñando?
+Dialogue: 0,0:04:11.33,0:04:12.63,Q0,,0,0,0,,No, estás despierto.
+Dialogue: 0,0:04:14.21,0:04:15.25,Q0,,0,0,0,,Esto es real.
+Dialogue: 0,0:04:15.92,0:04:18.58,Q0,,0,0,0,,Pertenecemos a la Alianza de Tribus.
+Dialogue: 0,0:04:19.08,0:04:21.17,Q0,,0,0,0,,"¿Alianza de Tribus?"
+Dialogue: 0,0:04:21.38,0:04:26.04,Q0,,0,0,0,,Exacto. Es el nombre de nuestro grupo que representa a las nueve razas creadas por la Diosa.
+Dialogue: 0,0:04:26.67,0:04:30.08,Q0,,0,0,0,,Soy un beastfolk, como puedes ver. Me llamo Garou.
+Dialogue: 0,0:04:30.50,0:04:32.75,Q0,,0,0,0,,Yo soy Sasha y soy elfa.
+Dialogue: 0,0:04:33.50,0:04:35.25,Q0,,0,0,0,,También está Drago, el dragonuto.
+Dialogue: 0,0:04:35.67,0:04:37.63,Q0,,0,0,0,,Diablo, el demonkin.
+Dialogue: 0,0:04:37.83,0:04:39.17,Q0,,0,0,0,,Oboro, el onifolk.
+Dialogue: 0,0:04:39.63,0:04:41.25,Q0,,0,0,0,,Naano, el enano.
+Dialogue: 0,0:04:41.96,0:04:43.50,Q0,,0,0,0,,Sionne, elfa oscura.
+Dialogue: 0,0:04:44.13,0:04:46.00,Q0,,0,0,0,,Santor, el centauro.
+Dialogue: 0,0:04:46.42,0:04:53.08,Q0,,0,0,0,,Y ahora solo nos falta un humano. ¡Entonces la Alianza de Tribus será el equipo perfecto de aventureros!
+Dialogue: 0,0:04:53.42,0:04:56.46,Q0,,0,0,0,,Formamos este grupo por una causa noble.
+Dialogue: 0,0:04:56.71,0:05:01.33,Q0,,0,0,0,,Queremos acabar con la discriminación racial y crear un mundo justo para todos.
+Dialogue: 0,0:05:01.88,0:05:04.17,Q0,,0,0,0,,¿Un mundo justo sin discriminación?
+Dialogue: 0,0:05:04.54,0:05:07.25,Q0,,0,0,0,,Necesitamos a alguien como tú para unirse a nosotros.
+Dialogue: 0,0:05:08.08,0:05:10.54,Q0,,0,0,0,,¿D-de verdad? ¿Me necesitan?
+Dialogue: 0,0:05:13.63,0:05:16.21,Q0,,0,0,0,,Te damos la bienvenida a la Alianza de Tribus.
+Dialogue: 0,0:05:18.67,0:05:19.54,Q0,,0,0,0,,¡Gracias!
+Dialogue: 0,0:05:35.71,0:05:37.08,Q0,,0,0,0,,¿Estás bien, Light?
+Dialogue: 0,0:05:37.92,0:05:38.50,Q0,,0,0,0,,¡Agáchate!
+Dialogue: 0,0:05:43.00,0:05:44.92,Q0,,0,0,0,,¡Joder, no puedo apartar los ojos de ti ni un puto segundo!
+Dialogue: 0,0:05:45.17,0:05:46.88,Q0,,0,0,0,,¡No te alejes tanto, Light!
+Dialogue: 0,0:05:47.33,0:05:48.29,Q0,,0,0,0,,Perdón.
+Dialogue: 0,0:05:48.54,0:05:52.50,Q0,,0,0,0,,Estamos en la mazmorra más grande y dura del mundo, ¡el Abismo!
+Dialogue: 0,0:05:53.00,0:05:55.67,Q0,,0,0,0,,Si algo te toca aquí, mueres al instante.
+Dialogue: 0,0:05:56.04,0:05:57.00,Q0,,0,0,0,,Perdón.
+Dialogue: 0,0:05:57.29,0:05:58.17,Q0,,0,0,0,,Joder.
+Dialogue: 0,0:05:58.54,0:06:00.21,Q0,,0,0,0,,Vamos. Déjame asegurarme que no estés herido.
+Dialogue: 0,0:06:00.21,0:06:02.29,Q0,,0,0,0,,Ahí va otra vez, calentando a Light otra vez.
+Dialogue: 0,0:06:02.46,0:06:03.63,Q0,,0,0,0,,¿No es lindo?
+Dialogue: 0,0:06:03.83,0:06:08.25,Q0,,0,0,0,,Sasha no puede evitarlo con Light. Toda la sangre se le va directo a las mejillas.
+Dialogue: 0,0:06:10.63,0:06:14.13,Q0,,0,0,0,,¡T-tú lo entiendes mal! ¡No es a Light a quien le preocupo!
+Dialogue: 0,0:06:14.50,0:06:20.08,Q0,,0,0,0,,¡Solo no quiero que la Alianza de Tribus pierda su imagen por perder a un miembro!
+Dialogue: 0,0:06:20.38,0:06:22.54,Q0,,0,0,0,,Ajá, claro. Nadie se traga esa mierda.
+Dialogue: 0,0:06:22.54,0:06:23.54,Q0,,0,0,0,,De acuerdo.
+Dialogue: 0,0:06:23.54,0:06:24.88,Q0,,0,0,0,,¡Ay, por favor!
+Dialogue: 0,0:06:25.75,0:06:26.75,Q0,,0,0,0,,No le des tantas vueltas.
+Dialogue: 0,0:06:28.29,0:06:30.88,Q0,,0,0,0,,Me encanta el té que nos haces.
+Dialogue: 0,0:06:32.25,0:06:33.63,Q0,,0,0,0,,Ya haces bastante.
+Dialogue: 0,0:06:35.96,0:06:38.38,Q0,,0,0,0,,Vamos. Tenemos un largo camino por delante.
+Dialogue: 0,0:06:38.38,0:06:39.08,Q0,,0,0,0,,¡Claro!
+Dialogue: 0,0:06:48.92,0:06:51.17,Q0,,0,0,0,,Parece que esa es la única entrada y salida.
+Dialogue: 0,0:06:51.88,0:06:54.38,Q0,,0,0,0,,Bien. Entonces este es un buen lugar.
+Dialogue: 0,0:07:00.21,0:07:02.88,Q0,,0,0,0,,¿Hora de un descanso? ¡Preparo el té!
+Dialogue: 0,0:07:06.71,0:07:10.29,Q0,,0,0,0,,Perdón, ¿pueden esperar un poco? Ya casi lo tengo...
+Dialogue: 0,0:07:10.29,0:07:11.75,Q0,,0,0,0,,No hará falta.
+Dialogue: 0,0:07:12.79,0:07:16.21,Q0,,0,0,0,,Light. Te expulso del grupo.
+Dialogue: 0,0:07:16.33,0:07:17.04,Q0,,0,0,0,,¿Qué?
+Dialogue: 0,0:07:17.92,0:07:19.38,Q0,,0,0,0,,¿No me escuchaste?
+Dialogue: 0,0:07:19.83,0:07:23.04,Q0,,0,0,0,,Dije que te estoy echando del puto grupo.
+Dialogue: 0,0:07:23.63,0:07:27.04,Q0,,0,0,0,,¿Expulsar? ¿Qué? No entiendo.
+Dialogue: 0,0:07:27.29,0:07:29.38,Q0,,0,0,0,,¡Estamos echándote la mierda de este grupo!
+Dialogue: 0,0:07:29.67,0:07:31.04,Q0,,0,0,0,,¿Tienes piedras en los oídos o qué?
+Dialogue: 0,0:07:31.21,0:07:34.46,Q0,,0,0,0,,P-pero, ¿por qué? ¿Qué hice?
+Dialogue: 0,0:07:34.63,0:07:37.63,Q0,,0,0,0,,¿No se entiende? Porque ya no sirves para nada.
+Dialogue: 0,0:07:37.88,0:07:39.88,Q0,,0,0,0,,¿Qué tan difícil es de entender?
+Dialogue: 0,0:07:39.88,0:07:43.33,Q0,,0,0,0,,Este crío es tan jodidamente estúpido que me saca de quicio.
+Dialogue: 0,0:07:44.50,0:07:48.25,Q0,,0,0,0,,No sé si la ineptitud de Light es por falta de neuronas
+Dialogue: 0,0:07:48.50,0:07:50.83,Q0,,0,0,0,,o si simplemente es algo típico de los humanos.
+Dialogue: 0,0:07:51.08,0:07:54.71,Q0,,0,0,0,,Gracias a los dioses. Por fin podemos librarnos de este maldito imbécil.
+Dialogue: 0,0:07:54.83,0:07:57.13,Q0,,0,0,0,,Los humanos apestan a mierda.
+Dialogue: 0,0:07:57.13,0:07:59.58,Q0,,0,0,0,,¡Casi no aguanto ni respirar cerca de él!
+Dialogue: 0,0:07:59.58,0:08:00.54,Q0,,0,0,0,,De acuerdo.
+Dialogue: 0,0:08:01.58,0:08:02.67,Q0,,0,0,0,,¿Estás de joda, verdad?
+Dialogue: 0,0:08:03.25,0:08:04.92,Q0,,0,0,0,,¿Esto es una especie de broma?
+Dialogue: 0,0:08:05.92,0:08:09.83,Q0,,0,0,0,,¿Crees que tenemos tiempo libre para venir aquí hasta abajo solo para hacer una broma?
+Dialogue: 0,0:08:10.25,0:08:13.00,Q0,,0,0,0,,No lo entiendo. ¡Antes fuiste tan amable conmigo!
+Dialogue: 0,0:08:13.25,0:08:14.96,Q0,,0,0,0,,¡Estábamos fingiendo, imbécil!
+Dialogue: 0,0:08:15.04,0:08:17.67,Q0,,0,0,0,,¡Porque queríamos tenerte en nuestro puto grupo!
+Dialogue: 0,0:08:18.08,0:08:19.88,Q0,,0,0,0,,¿Pero para qué?
+Dialogue: 0,0:08:20.42,0:08:22.17,Q0,,0,0,0,,Tiene que ver con tu Don.
+Dialogue: 0,0:08:22.54,0:08:25.58,Q0,,0,0,0,,¿Eh? ¿Don? ¿Quieres decir mi Gacha Ilimitado?
+Dialogue: 0,0:08:25.83,0:08:29.13,Q0,,0,0,0,,Los superiores se fijaron en tu raro Don
+Dialogue: 0,0:08:29.13,0:08:31.21,Q0,,0,0,0,,y sospecharon que podrías ser un Maestro.
+Dialogue: 0,0:08:31.67,0:08:36.92,Q0,,0,0,0,,Por eso te invitaron a la Alianza de Tribus para vigilarte de cerca.
+Dialogue: 0,0:08:36.92,0:08:38.79,Q0,,0,0,0,,Pero eso no tiene sentido.
+Dialogue: 0,0:08:39.29,0:08:44.46,Q0,,0,0,0,,Quiero decir, ya sabes lo inútil que es mi Gacha Ilimitado. ¡Es un Don de mierda que no sirve para nada!
+Dialogue: 0,0:08:44.83,0:08:46.92,Q0,,0,0,0,,Sí, ¡tu Don es una mierda!
+Dialogue: 0,0:08:47.33,0:08:49.17,Q0,,0,0,0,,Y tus stats son los de un humano común y corriente.
+Dialogue: 0,0:08:49.50,0:08:53.04,Q0,,0,0,0,,Así que los jefazos decidieron que no puedes ser el Maestro.
+Dialogue: 0,0:08:53.29,0:08:55.63,Q0,,0,0,0,,¡O sea que ahora solo eres peso muerto!
+Dialogue: 0,0:08:55.88,0:08:59.63,Q0,,0,0,0,,Honestamente, hubiera sido mejor si los superiores lo hubieran decidido antes.
+Dialogue: 0,0:08:59.96,0:09:02.08,Q0,,0,0,0,,Estaba claro desde el principio.
+Dialogue: 0,0:09:02.42,0:09:04.17,Q0,,0,0,0,,¡Qué alivio para mí!
+Dialogue: 0,0:09:04.17,0:09:10.13,Q0,,0,0,0,,Aunque eso signifique matar a un Maestro, solo pensar en tener que casar con uno inferior me da asco.
+Dialogue: 0,0:09:10.29,0:09:13.46,Q0,,0,0,0,,¡Fue un desmadre verte arrastrándote para mantener esa posibilidad!
+Dialogue: 0,0:09:13.67,0:09:17.75,Q0,,0,0,0,,"¿Maestro?" "¿Jefazos?" ¿De qué chingados hablan?
+Dialogue: 0,0:09:18.38,0:09:20.17,Q0,,0,0,0,,Se les escapó mucha información.
+Dialogue: 0,0:09:20.38,0:09:24.54,Q0,,0,0,0,,No importa. Porque este mocoso no va a durar mucho tiempo hablando.
+Dialogue: 0,0:09:24.71,0:09:25.75,Q0,,0,0,0,,Claro que no.
+Dialogue: 0,0:09:26.33,0:09:28.67,Q0,,0,0,0,,Termínenlo antes de que lleguen otros aventureros.
+Dialogue: 0,0:09:30.46,0:09:32.04,Q0,,0,0,0,,¿Terminarlo...?
+Dialogue: 0,0:09:32.96,0:09:35.21,Q0,,0,0,0,,Recibimos órdenes específicas.
+Dialogue: 0,0:09:36.17,0:09:41.00,Q0,,0,0,0,,"Corten de raíz cualquier problema potencial. No lo dejen vivir."
+Dialogue: 0,0:09:41.63,0:09:43.88,Q0,,0,0,0,,Así que vamos a borrarte de la existencia.
+Dialogue: 0,0:09:45.17,0:09:48.50,Q0,,0,0,0,,¡Muy bien! ¡Que empiece esta mierda!
+Dialogue: 0,0:10:10.29,0:10:14.67,Q0,,0,0,0,,Corre si quieres, pero vas a acabar hecho mierda para algún monstruo del Abismo.
+Dialogue: 0,0:10:14.83,0:10:17.71,Q0,,0,0,0,,Bueno, claro, siempre que te dejemos escapar.
+Dialogue: 0,0:10:23.38,0:10:27.38,Q0,,0,0,0,,¡Ah, sí! Esto es lo que más me gusta de cazar humanos.
+Dialogue: 0,0:10:27.92,0:10:31.33,Q0,,0,0,0,,Estoy contigo. Los gritos son música celestial para mis oídos.
+Dialogue: 0,0:10:31.33,0:10:32.92,Q0,,0,0,0,,Totalmente de acuerdo.
+Dialogue: 0,0:10:33.04,0:10:35.21,Q0,,0,0,0,,¡Queremos oírte llorar más fuerte, Light!
+Dialogue: 0,0:10:43.54,0:10:45.08,Q0,,0,0,0,,¡Vamos! ¡Dale más!
+Dialogue: 0,0:10:45.08,0:10:46.58,Q0,,0,0,0,,Ya basta.
+Dialogue: 0,0:10:46.83,0:10:47.67,Q0,,0,0,0,,¿Eh?
+Dialogue: 0,0:10:47.79,0:10:49.67,Q0,,0,0,0,,¡Pero acá es donde empieza la verdadera diversión!
+Dialogue: 0,0:10:50.00,0:10:53.92,Q0,,0,0,0,,Ya acordamos que la historia es que murió en un ataque sorpresa de un monstruo,
+Dialogue: 0,0:10:54.17,0:10:57.21,Q0,,0,0,0,,¡Así que dejen de hacerle heridas que lo contradigan!
+Dialogue: 0,0:10:57.63,0:10:59.63,Q0,,0,0,0,,Sí, sí, como digas.
+Dialogue: 0,0:11:00.33,0:11:03.33,Q0,,0,0,0,,Hiciste un show bastante entretenido para un mocoso de mierda.
+Dialogue: 0,0:11:03.79,0:11:06.25,Q0,,0,0,0,,Así que seré buena onda y te mataré rápido.
+Dialogue: 0,0:11:06.63,0:11:07.67,Q0,,0,0,0,,¿Vale, Light?
+Dialogue: 0,0:11:12.96,0:11:14.75,Q0,,0,0,0,,¡No, por favor, no!
+Dialogue: 0,0:11:14.75,0:11:16.63,Q0,,0,0,0,,¡No quiero morir! ¡No quiero morir!
+Dialogue: 0,0:11:16.63,0:11:18.46,Q0,,0,0,0,,¿No sabes portarte bien?
+Dialogue: 0,0:11:18.75,0:11:20.50,Q0,,0,0,0,,Eso solo me dan más ganas de molerte a golpes.
+Dialogue: 0,0:11:20.75,0:11:23.00,Q0,,0,0,0,,¡Deja de tentar a la suerte, Light!
+Dialogue: 0,0:11:24.00,0:11:25.58,Q0,,0,0,0,,¿Por qué me está pasando esto?
+Dialogue: 0,0:11:26.25,0:11:28.33,Q0,,0,0,0,,¿Por qué tengo que morir?
+Dialogue: 0,0:11:29.13,0:11:30.29,Q0,,0,0,0,,Quiero vivir...
+Dialogue: 0,0:11:31.04,0:11:32.63,Q0,,0,0,0,,¡QUIERO VIVIR!
+Dialogue: 0,0:11:37.21,0:11:38.33,Q0,,0,0,0,,¿Una trampa de teletransporte?
+Dialogue: 0,0:11:38.63,0:11:39.92,Q0,,0,0,0,,¡No lo dejes escapar, Garou!
+Dialogue: 0,0:11:58.71,0:11:59.96,Q0,,0,0,0,,Estoy vivo...
+Dialogue: 0,0:12:00.88,0:12:05.04,Q0,,0,0,0,,Activé una trampa de teletransporte. Supongo que me mandó a otra parte de la mazmorra, ¿no?
+Dialogue: 0,0:12:06.21,0:12:07.83,Q0,,0,0,0,,No es que eso cambie algo.
+Dialogue: 0,0:12:08.21,0:12:12.17,Q0,,0,0,0,,Porque igual voy a morir en cuanto me cruce con uno de esos monstruos locos que hay aquí abajo.
+Dialogue: 0,0:12:13.13,0:12:17.75,Q0,,0,0,0,,Papá, mamá, Els, Yume...
+Dialogue: 0,0:12:18.08,0:12:19.17,Q0,,0,0,0,,¡Los extraño!
+Dialogue: 0,0:12:20.00,0:12:23.08,Q0,,0,0,0,,¿Por qué pasó esto? ¿Qué hice?
+Dialogue: 0,0:12:24.17,0:12:25.08,Q0,,0,0,0,,¡No es justo!
+Dialogue: 0,0:12:26.29,0:12:28.21,Q0,,0,0,0,,Me trataron tan bien.
+Dialogue: 0,0:12:28.75,0:12:30.63,Q0,,0,0,0,,Me mostraron tanta bondad.
+Dialogue: 0,0:12:31.25,0:12:35.83,Q0,,0,0,0,,Los apreciaba, los respetaba, creía en ellos.
+Dialogue: 0,0:12:36.58,0:12:37.71,Q0,,0,0,0,,Era tan feliz.
+Dialogue: 0,0:12:39.63,0:12:40.46,Q0,,0,0,0,,Y sin embargo...
+Dialogue: 0,0:12:40.92,0:12:42.63,Q0,,0,0,0,,¡Todo fue mentira!
+Dialogue: 0,0:12:42.96,0:12:44.71,Q0,,0,0,0,,¡Una farsa! ¡Un engaño!
+Dialogue: 0,0:12:45.63,0:12:49.00,Q0,,0,0,0,,Me engañaron para que entrara a la expedición de la mazmorra y luego intentaron matarme.
+Dialogue: 0,0:12:49.29,0:12:52.29,Q0,,0,0,0,,¡Me trataron como basura! ¡Con desprecio en sus caras!
+Dialogue: 0,0:12:52.92,0:12:54.33,Q0,,0,0,0,,¿Qué demonios es esa mierda de "Maestro"?
+Dialogue: 0,0:12:54.71,0:12:57.58,Q0,,0,0,0,,¿Tenían órdenes? ¿Por eso intentaron matarme?
+Dialogue: 0,0:12:57.96,0:12:59.04,Q0,,0,0,0,,¡Al carajo eso!
+Dialogue: 0,0:12:59.79,0:13:01.13,Q0,,0,0,0,,Los voy a matar a todos.
+Dialogue: 0,0:13:01.92,0:13:04.00,Q0,,0,0,0,,No voy a morir aquí, joder.
+Dialogue: 0,0:13:05.25,0:13:06.75,Q0,,0,0,0,,¡Todos van a pagar!
+Dialogue: 0,0:13:07.29,0:13:09.29,Q0,,0,0,0,,¡Juro que les arrancaré las tripas!
+Dialogue: 0,0:13:19.08,0:13:20.42,Q0,,0,0,0,,¿Nivel 1000?
+Dialogue: 0,0:13:21.25,0:13:23.04,Q0,,0,0,0,,¿Cómo diablos es eso posible?
+Dialogue: 0,0:13:23.42,0:13:26.92,Q0,,0,0,0,,Este es el tipo de monstruo que solo escuchas en las leyendas.
+Dialogue: 0,0:13:28.04,0:13:30.67,Q0,,0,0,0,,Mierda, ¿me teletransportaron...
+Dialogue: 0,0:13:31.46,0:13:33.21,Q0,,0,0,0,,al fondo más oscuro del Abismo?
+Dialogue: 0,0:13:43.58,0:13:44.88,Q0,,0,0,0,,No puedo morir todavía.
+Dialogue: 0,0:13:45.50,0:13:46.71,Q0,,0,0,0,,No quiero.
+Dialogue: 0,0:13:47.17,0:13:49.38,Q0,,0,0,0,,¿Pero cómo voy a pelear contra esto?
+Dialogue: 0,0:13:50.00,0:13:53.33,Q0,,0,0,0,,Lo único que tengo es mi Don, el Gacha Ilimitado.
+Dialogue: 0,0:13:57.63,0:13:59.54,Q0,,0,0,0,,No volveré a ver a mi familia...
+Dialogue: 0,0:13:59.96,0:14:02.38,Q0,,0,0,0,,Desechado como basura en este agujero infernal...
+Dialogue: 0,0:14:02.92,0:14:04.79,Q0,,0,0,0,,Nunca vengaré a esos bastardos...
+Dialogue: 0,0:14:05.92,0:14:07.08,Q0,,0,0,0,,¡AL CARAJO ESO!
+Dialogue: 0,0:14:15.54,0:14:17.17,Q0,,0,0,0,,¿Qué está pasando?
+Dialogue: 0,0:14:23.08,0:14:25.38,Q0,,0,0,0,,No tengo piedad para quienes amenacen a mi amo.
+Dialogue: 0,0:14:25.92,0:14:28.29,Q0,,0,0,0,,Ni siquiera para un cachorrito como este.
+Dialogue: 0,0:15:33.67,0:15:35.04,Q0,,0,0,0,,Mis más sinceras disculpas.
+Dialogue: 0,0:15:35.63,0:15:41.88,Q0,,0,0,0,,No pude soportar ver tu rostro hermoso y tu piel perlada tan mal herida.
+Dialogue: 0,0:15:42.38,0:15:45.08,Q0,,0,0,0,,Así que me encargué personalmente de cuidarte.
+Dialogue: 0,0:15:45.38,0:15:46.17,Q0,,0,0,0,,¿Eh?
+Dialogue: 0,0:15:46.42,0:15:48.33,Q0,,0,0,0,,¡Wow! ¡Ya no me duele!
+Dialogue: 0,0:15:48.83,0:15:51.04,Q0,,0,0,0,,Espera, ¿pero cómo? ¡El dolor desapareció!
+Dialogue: 0,0:15:51.38,0:15:52.04,Q0,,0,0,0,,Amo.
+Dialogue: 0,0:15:52.50,0:15:54.79,Q0,,0,0,0,,¿Eh? ¿Me hablas a mí?
+Dialogue: 0,0:15:55.17,0:15:55.75,Q0,,0,0,0,,Sí.
+Dialogue: 0,0:15:56.13,0:16:00.96,Q0,,0,0,0,,¿Me concederías el honor de oír tu nombre con esa voz tan hermosa?
+Dialogue: 0,0:16:01.46,0:16:03.50,Q0,,0,0,0,,M-mi nombre es Light.
+Dialogue: 0,0:16:04.88,0:16:06.21,Q0,,0,0,0,,Amo Light...
+Dialogue: 0,0:16:06.67,0:16:08.71,Q0,,0,0,0,,¡Amo Light! ¡Amo Light!
+Dialogue: 0,0:16:09.21,0:16:12.38,Q0,,0,0,0,,Ese nombre suena majestuoso y celestial al oído.
+Dialogue: 0,0:16:14.29,0:16:17.54,Q0,,0,0,0,,Según el código de honor de una sirvienta,
+Dialogue: 0,0:16:17.54,0:16:21.46,Q0,,0,0,0,,estoy en deber de servir a mi amo,
+Dialogue: 0,0:16:22.42,0:16:26.54,Q0,,0,0,0,,y vivir para ellos, comprometida hasta la muerte.
+Dialogue: 0,0:16:27.17,0:16:29.71,Q0,,0,0,0,,Y así, Amo Light,
+Dialogue: 0,0:16:29.71,0:16:33.58,Q0,,0,0,0,,te juro absoluta lealtad.
+Dialogue: 0,0:16:33.58,0:16:35.50,Q0,,0,0,0,,O-okay, pero, ¿quién eres exactamente...?
+Dialogue: 0,0:16:36.00,0:16:37.08,Q0,,0,0,0,,Amo Light. ¿Puedo interpretar eso como permiso para decir mi nombre?
+Dialogue: 0,0:16:34.00,0:16:35.50,Q0,,0,0,0,,¿Eh? O-oh, claro.
+Dialogue: 0,0:16:37.96,0:16:44.17,Q0,,0,0,0,,Mi nivel es 9999. Soy conocida como Mei, la Sirvienta Incansable.
+Dialogue: 0,0:16:45.04,0:16:50.58,Q0,,0,0,0,,Soy una carta Súper Ultra Rara que salió de tu Gacha Ilimitado, Amo Light.
+Dialogue: 0,0:16:50.96,0:16:56.21,Q0,,0,0,0,,¿Súper Ultra Rara? ¿Nivel 9999?
+Dialogue: 0,0:16:56.88,0:16:58.63,Q0,,0,0,0,,¿Una carta de mi Gacha Ilimitado?
+Dialogue: 0,0:16:58.92,0:17:01.21,Q0,,0,0,0,,Como pájaros en el cielo volando al unísono,
+Dialogue: 0,0:17:01.67,0:17:04.46,Q0,,0,0,0,,como árboles en la tierra cuyas ramas se entrelazan,
+Dialogue: 0,0:17:04.92,0:17:07.63,Q0,,0,0,0,,permaneceré ligada a ti incluso más allá de la tumba.
+Dialogue: 0,0:17:07.79,0:17:11.96,Q0,,0,0,0,,¡Eso es imposible! Mi Gacha Ilimitado es básicamente inútil.
+Dialogue: 0,0:17:12.21,0:17:15.46,Q0,,0,0,0,,No puede ser que alguien tan increíble como tú haya salido de ahí, señorita.
+Dialogue: 0,0:17:15.83,0:17:20.21,Q0,,0,0,0,,Soy solo una sirvienta, Amo. Por favor, llámame simplemente "Mei."
+Dialogue: 0,0:17:20.54,0:17:22.04,Q0,,0,0,0,,No, no puedo.
+Dialogue: 0,0:17:23.38,0:17:24.50,Q0,,0,0,0,,Te lo suplico.
+Dialogue: 0,0:17:26.13,0:17:27.38,Q0,,0,0,0,,Mei...
+Dialogue: 0,0:17:27.83,0:17:29.17,Q0,,0,0,0,,¡Gracias!
+Dialogue: 0,0:17:29.54,0:17:33.54,Q0,,0,0,0,,Ya que estamos, ¿me concederías otra de mis humildes peticiones?
+Dialogue: 0,0:17:34.08,0:17:34.88,Q0,,0,0,0,,Claro.
+Dialogue: 0,0:17:35.50,0:17:39.00,Q0,,0,0,0,,¿Puedo usar mi habilidad de Evaluación para revisar los detalles esenciales de tu Gacha Ilimitado, Amo Light?
+Dialogue: 0,0:17:42.21,0:17:44.42,Q0,,0,0,0,,¿Evaluación? En serio, señorita—
+Dialogue: 0,0:17:45.79,0:17:48.50,Q0,,0,0,0,,¿Evaluación es realmente tu Don, Mei?
+Dialogue: 0,0:17:48.83,0:17:52.33,Q0,,0,0,0,,Es una habilidad innata, para ser exactos.
+Dialogue: 0,0:17:52.50,0:17:53.96,Q0,,0,0,0,,¿Habilidades innatas?
+Dialogue: 0,0:17:54.17,0:17:56.88,Q0,,0,0,0,,Es inconcebible que tu Don sea inútil, Amo Light.
+Dialogue: 0,0:17:57.17,0:17:58.58,Q0,,0,0,0,,Por favor, déjame evaluarlo.
+Dialogue: 0,0:17:59.21,0:18:00.33,Q0,,0,0,0,,Está bien.
+Dialogue: 0,0:18:04.96,0:18:07.63,Q0,,0,0,0,,Simplemente increíble, Amo Light.
+Dialogue: 0,0:18:08.04,0:18:10.17,Q0,,0,0,0,,Tus habilidades están ocultas bajo una pesada capa de Ocultamiento.
+Dialogue: 0,0:18:10.42,0:18:14.71,Q0,,0,0,0,,Es imposible que alguien que no esté a mi nivel siquiera vea los detalles.
+Dialogue: 0,0:18:17.46,0:18:18.29,Q0,,0,0,0,,Amo Light.
+Dialogue: 0,0:18:18.71,0:18:21.58,Q0,,0,0,0,,Tu Gacha Ilimitado está lejos de ser inútil.
+Dialogue: 0,0:18:21.96,0:18:23.42,Q0,,0,0,0,,¿Eh? ¿Qué quieres decir?
+Dialogue: 0,0:18:23.79,0:18:27.00,Q0,,0,0,0,,Tu Don, el Gacha Ilimitado,
+Dialogue: 0,0:18:27.29,0:18:31.83,Q0,,0,0,0,,puede ser activado infinitas veces.
+Dialogue: 0,0:18:32.50,0:18:38.63,Q0,,0,0,0,,Las probabilidades y rarezas de las cartas que salen varían según la densidad de maná del entorno.
+Dialogue: 0,0:18:38.63,0:18:42.75,Q0,,0,0,0,,Las rarezas de más alto a más bajo son: Extra, Súper Ultra Rara, Ultra Rara, SSS Rara,
+Dialogue: 0,0:18:42.75,0:18:44.79,Q0,,0,0,0,,SS Rara, S Rara, Rara, Normal y Error.
+Dialogue: 0,0:18:45.21,0:18:46.17,Q0,,0,0,0,,¿Densidad de maná?
+Dialogue: 0,0:18:46.58,0:18:50.00,Q0,,0,0,0,,El maná es una energía que fluye por todo el mundo.
+Dialogue: 0,0:18:50.58,0:18:53.71,Q0,,0,0,0,,Pero su densidad es más baja en la superficie,
+Dialogue: 0,0:18:53.71,0:18:58.21,Q0,,0,0,0,,por lo que las chances de sacar una carta Súper Ultra Rara como yo son casi nulas.
+Dialogue: 0,0:18:58.88,0:19:01.46,Q0,,0,0,0,,Pero abajo, en las profundidades de la mazmorra,
+Dialogue: 0,0:19:01.46,0:19:04.21,Q0,,0,0,0,,el maná abunda y por eso tienes muchas más probabilidades de sacar una carta rara.
+Dialogue: 0,0:19:05.38,0:19:07.75,Q0,,0,0,0,,Tu valentía es admirable, Amo Light.
+Dialogue: 0,0:19:08.13,0:19:11.13,Q0,,0,0,0,,Viajar hasta el fondo de la mazmorra solo para sacar el máximo provecho a tu Gacha Ilimitado,
+Dialogue: 0,0:19:11.13,0:19:15.96,Q0,,0,0,0,,¡y encima sacar mi carta de manera tan especial!
+Dialogue: 0,0:19:18.21,0:19:24.04,Q0,,0,0,0,,Dicho esto, encontrarte con alguno de los monstruos podría ser fatal con tus stats actuales.
+Dialogue: 0,0:19:24.04,0:19:27.71,Q0,,0,0,0,,Pero no temas. Estaré contigo en todo momento a partir de ahora.
+Dialogue: 0,0:19:27.71,0:19:28.79,Q0,,0,0,0,,Estás equivocado.
+Dialogue: 0,0:19:30.17,0:19:33.58,Q0,,0,0,0,,Nunca podría enfrentar el Abismo solo.
+Dialogue: 0,0:19:34.71,0:19:36.25,Q0,,0,0,0,,Estaba con un grupo...
+Dialogue: 0,0:19:37.08,0:19:38.58,Q0,,0,0,0,,¡pero me traicionaron!
+Dialogue: 0,0:19:39.08,0:19:40.96,Q0,,0,0,0,,¡Me cortaron y me dispararon con flechas!
+Dialogue: 0,0:19:41.38,0:19:44.33,Q0,,0,0,0,,Estuve a punto de morir por la mano de mis propios amigos.
+Dialogue: 0,0:19:44.71,0:19:47.96,Q0,,0,0,0,,Decían que mi Don era una mierda, que era un humano patético.
+Dialogue: 0,0:19:48.42,0:19:51.13,Q0,,0,0,0,,Todo lo que quería era mantener a mi familia...
+Dialogue: 0,0:19:51.29,0:19:53.04,Q0,,0,0,0,,¿Cómo pueden tratarme así solo por ser humano?
+Dialogue: 0,0:19:53.04,0:19:56.21,Q0,,0,0,0,,El dolor era insoportable, me dolía un chingo.
+Dialogue: 0,0:19:56.79,0:20:00.33,Q0,,0,0,0,,Todo ese cuento de "acabar con la discriminación y crear un mundo justo" era pura mierda.
+Dialogue: 0,0:20:00.71,0:20:03.13,Q0,,0,0,0,,Solo querían hacerme mierda.
+Dialogue: 0,0:20:04.88,0:20:07.46,Q0,,0,0,0,,Es una locura. Un segundo son bien buenos...
+Dialogue: 0,0:20:07.79,0:20:10.58,Q0,,0,0,0,,y al siguiente fanáticos homicidas.
+Dialogue: 0,0:20:11.08,0:20:14.46,Q0,,0,0,0,,¡Van a pagar! No descansaré hasta que les caiga lo que merecen.
+Dialogue: 0,0:20:14.67,0:20:16.04,Q0,,0,0,0,,¡Esos bastardos!
+Dialogue: 0,0:20:23.58,0:20:25.46,Q0,,0,0,0,,Lo siento, Amo Light.
+Dialogue: 0,0:20:25.79,0:20:29.38,Q0,,0,0,0,,Una sirvienta como yo nunca podrá entender la magnitud de tu sufrimiento.
+Dialogue: 0,0:20:29.92,0:20:33.04,Q0,,0,0,0,,Pero ten por seguro que, con mi poder a tu disposición,
+Dialogue: 0,0:20:33.21,0:20:36.00,Q0,,0,0,0,,hacer justicia divina a tus enemigos será coser y cantar.
+Dialogue: 0,0:20:38.21,0:20:39.79,Q0,,0,0,0,,Por favor, da la orden.
+Dialogue: 0,0:20:40.13,0:20:44.83,Q0,,0,0,0,,Por honor de sirvienta, cazaré a estos infames traidores con máxima rapidez
+Dialogue: 0,0:20:45.13,0:20:47.38,Q0,,0,0,0,,y traeré sus cabezas en picas ante ti.
+Dialogue: 0,0:20:48.58,0:20:49.88,Q0,,0,0,0,,¡E-espera, Mei!
+Dialogue: 0,0:20:50.33,0:20:51.50,Q0,,0,0,0,,¡No puedes hacer eso!
+Dialogue: 0,0:20:51.92,0:20:54.33,Q0,,0,0,0,,Sé que tienes un buen corazón, Amo Light.
+Dialogue: 0,0:20:54.50,0:20:55.92,Q0,,0,0,0,,Pero no merecen piedad.
+Dialogue: 0,0:20:56.67,0:20:57.83,Q0,,0,0,0,,No es eso.
+Dialogue: 0,0:21:00.42,0:21:02.96,Q0,,0,0,0,,Confié en ellos y me engañaron.
+Dialogue: 0,0:21:03.21,0:21:06.54,Q0,,0,0,0,,Casi muero después de que me molieron a palos y me dejaron en este agujero infernal.
+Dialogue: 0,0:21:07.25,0:21:09.13,Q0,,0,0,0,,Pero fue solo porque era débil.
+Dialogue: 0,0:21:09.83,0:21:11.38,Q0,,0,0,0,,Así que necesito ponerme fuerte.
+Dialogue: 0,0:21:11.83,0:21:14.08,Q0,,0,0,0,,Tal vez sea imposible para un simple humano como yo,
+Dialogue: 0,0:21:14.46,0:21:17.00,Q0,,0,0,0,,pero quiero vengarme con mis propias manos.
+Dialogue: 0,0:21:17.50,0:21:20.25,Q0,,0,0,0,,Haré que todos sufran. A todos ellos.
+Dialogue: 0,0:21:22.46,0:21:24.88,Q0,,0,0,0,,¿Crees que solo es un sueño imposible, Mei?
+Dialogue: 0,0:21:26.17,0:21:26.96,Q0,,0,0,0,,¿Mei?
+Dialogue: 0,0:21:28.67,0:21:31.13,Q0,,0,0,0,,Tu deseo es mi deseo, Amo Light.
+Dialogue: 0,0:21:31.63,0:21:34.04,Q0,,0,0,0,,Si buscas venganza personal,
+Dialogue: 0,0:21:34.38,0:21:37.33,Q0,,0,0,0,,entonces, por honor de sirvienta, te ayudaré a lograrlo.
+Dialogue: 0,0:21:38.17,0:21:41.67,Q0,,0,0,0,,Creo en tu potencial por sobre todas las cosas, Amo Light.
+Dialogue: 0,0:21:44.00,0:21:45.63,Q0,,0,0,0,,¡Gracias, Mei!
+Dialogue: 0,0:21:47.50,0:21:49.29,Q0,,0,0,0,,Me honran tus palabras.
+Dialogue: 0,0:21:50.67,0:21:54.96,Q0,,0,0,0,,Y con eso, volví a tirar mi Gacha Ilimitado dentro del Abismo.
+Dialogue: 0,0:21:58.42,0:22:01.42,Q0,,0,0,0,,Para establecer un reino que marque mi camino hacia la venganza.
+Dialogue: 0,0:22:05.13,0:22:08.67,Q0,,0,0,0,,Las profundidades negras fueron bañadas por una luz brillante...
+Dialogue: 0,0:22:09.33,0:22:13.08,Q0,,0,0,0,,y se convirtió en la primera página de mi gran historia de venganza.
+Dialogue: 0,0:22:16.88,0:22:20.83,Q2,,0,0,0,,{\pos(281.6,172.8)}{\an7}EPISODIO 1
+Dialogue: 0,0:22:16.88,0:22:20.83,Q3,,0,0,0,,{\pos(345.6,295.2)}{\an7}Traición y Salvación
+Dialogue: 0,0:22:21.75,0:22:24.67,Q4,,0,0,0,,El sendero que se seca
+Dialogue: 0,0:22:24.96,0:22:27.83,Q4,,0,0,0,,Y el cielo misterioso
+Dialogue: 0,0:22:28.13,0:22:30.79,Q4,,0,0,0,,Se unen como guía
+Dialogue: 0,0:22:30.79,0:22:38.75,Q4,,0,0,0,,En la hora de la muerte
+Dialogue: 0,0:22:40.58,0:22:43.38,Q4,,0,0,0,,El destino se teje a mano
+Dialogue: 0,0:22:43.79,0:22:46.75,Q4,,0,0,0,,Es una neblina de mentiras incontables
+Dialogue: 0,0:22:46.75,0:22:49.58,Q4,,0,0,0,,De repente llegan susurros
+Dialogue: 0,0:22:49.58,0:22:52.96,Q4,,0,0,0,,Las falsedades de los pecadores
+Dialogue: 0,0:22:53.21,0:22:56.25,Q4,,0,0,0,,¿Qué preguntan?
+Dialogue: 0,0:22:56.46,0:22:59.67,Q4,,0,0,0,,¿Dónde está la confianza?
+Dialogue: 0,0:22:59.67,0:23:02.54,Q4,,0,0,0,,Mundos conectados
+Dialogue: 0,0:23:02.54,0:23:07.71,Q4,,0,0,0,,Por lágrimas que fluyen
+Dialogue: 0,0:23:08.29,0:23:10.08,Q4,,0,0,0,,El sonido de la soledad
+Dialogue: 0,0:23:10.08,0:23:13.50,Q4,,0,0,0,,Debería cambiar
+Dialogue: 0,0:23:13.50,0:23:16.33,Q4,,0,0,0,,Si tomáramos manos
+Dialogue: 0,0:23:16.33,0:23:17.88,Q4,,0,0,0,,Ahora pelea sin descanso
+Dialogue: 0,0:23:17.88,0:23:21.21,Q4,,0,0,0,,Por alcanzarte
+Dialogue: 0,0:23:21.21,0:23:22.75,Q4,,0,0,0,,El ritmo simplemente baila
+Dialogue: 0,0:23:22.75,0:23:27.25,Q4,,0,0,0,,No resistas
+Dialogue: 0,0:23:27.25,0:23:29.04,Q4,,0,0,0,,La vida ya
+Dialogue: 0,0:23:29.04,0:23:30.71,Q4,,0,0,0,,Se escapó de las manos
+Dialogue: 0,0:23:30.71,0:23:38.58,Q4,,0,0,0,,De estas manos que arrebataron la concha

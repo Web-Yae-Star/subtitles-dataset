@@ -1,0 +1,177 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.47,0:00:17.07,Default,,0,0,0,,Botan la leal y lujuriosa Kunoichi
+Dialogue: 0,0:00:26.09,0:00:31.40,Default,,0,0,0,,He venido a la mansión de mi tío a\Nrecoger el dinero que ganó mi ninja.
+Dialogue: 0,0:00:31.73,0:00:33.18,Default,,0,0,0,,Soy un amo muy patético.
+Dialogue: 0,0:00:36.56,0:00:40.71,Default,,0,0,0,,¡Tenía muchas ganas de verlo, Señor Kazuhiko!
+Dialogue: 0,0:00:40.91,0:00:41.84,Default,,0,0,0,,¡Botan!
+Dialogue: 0,0:00:44.49,0:00:46.47,Default,,0,0,0,,¡Me alegra verlo sano y salvo!
+Dialogue: 0,0:00:47.00,0:00:48.96,Default,,0,0,0,,Ha pasado mucho tiempo, Botan.
+Dialogue: 0,0:00:49.62,0:00:51.69,Default,,0,0,0,,M-Me alegra verte por fin.
+Dialogue: 0,0:00:52.80,0:01:00.04,Default,,0,0,0,,Pero, esas ropas que llevas son muy atrevidas.
+Dialogue: 0,0:01:00.47,0:01:04.38,Default,,0,0,0,,E-Estas ropas me las dio tu tío.
+Dialogue: 0,0:01:04.58,0:01:06.58,Default,,0,0,0,,No es algo que yo haya escogido usar.
+Dialogue: 0,0:01:09.78,0:01:13.89,Default,,0,0,0,,¿No es de su agrado, mi Señor...?
+Dialogue: 0,0:01:14.87,0:01:17.24,Default,,0,0,0,,E-Eso no es lo que...
+Dialogue: 0,0:01:22.87,0:01:24.07,Default,,0,0,0,,¿Un silbato?
+Dialogue: 0,0:01:24.79,0:01:28.07,Default,,0,0,0,,Perdón, te interrumpí\Nmientras estabas en una misión.
+Dialogue: 0,0:01:28.69,0:01:31.36,Default,,0,0,0,,Descuide, yo también me disculpo.
+Dialogue: 0,0:01:33.91,0:01:35.36,Default,,0,0,0,,Mi Señor...
+Dialogue: 0,0:01:36.36,0:01:40.76,Default,,0,0,0,,Sin importar el lugar o la\Nhora, siempre seré su ninja.
+Dialogue: 0,0:01:41.61,0:01:44.47,Default,,0,0,0,,Ya me voy, mi Señor.
+Dialogue: 0,0:01:45.35,0:01:46.27,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:01:46.91,0:01:48.76,Default,,0,0,0,,Rezaré por tu bien en la misión.
+Dialogue: 0,0:01:49.62,0:01:51.91,Default,,0,0,0,,¡Buena suerte, Botan!
+Dialogue: 0,0:02:14.80,0:02:16.29,Default,,0,0,0,,Señor tío...
+Dialogue: 0,0:02:16.98,0:02:23.43,Default,,0,0,0,,Si me llamas cada día para follarme,\Nafectará mi trabajo de patrullaje.
+Dialogue: 0,0:02:24.13,0:02:28.00,Default,,0,0,0,,¿Crees que por eso es que te llamo aquí?
+Dialogue: 0,0:02:28.24,0:02:29.38,Default,,0,0,0,,Y por cierto...
+Dialogue: 0,0:02:31.18,0:02:34.93,Default,,0,0,0,,No soy "señor tío", soy tu "amo".
+Dialogue: 0,0:02:43.17,0:02:44.67,Default,,0,0,0,,Además...
+Dialogue: 0,0:02:46.53,0:02:49.58,Default,,0,0,0,,No parece que esto te desagrade, ¿no es así?
+Dialogue: 0,0:03:17.91,0:03:23.80,Default,,0,0,0,,No tengo ninguna otra opción...
+Dialogue: 0,0:03:30.62,0:03:36.44,Default,,0,0,0,,Contrataste bandidos y atacaste en el\Nmomento indicado usando medicina extranjera.
+Dialogue: 0,0:03:37.00,0:03:41.49,Default,,0,0,0,,Aunque sea el tío de mi Señor, esto es inaceptable.
+Dialogue: 0,0:03:41.89,0:03:43.60,Default,,0,0,0,,Los guardias no se quedarán de brazos cruzados.
+Dialogue: 0,0:03:45.84,0:03:49.96,Default,,0,0,0,,¿Crees que mis guardias se levantarían contra mí?
+Dialogue: 0,0:03:50.56,0:03:56.42,Default,,0,0,0,,Sin mí, ¿qué crees que le pasará a\Nla mansión y al señor al que sirves?
+Dialogue: 0,0:03:58.13,0:04:04.73,Default,,0,0,0,,Por supuesto, depende de mí decidir\Nsi apoyo a la mansión o a ustedes.
+Dialogue: 0,0:04:04.80,0:04:08.71,Default,,0,0,0,,L-Le ruego que me perdone.
+Dialogue: 0,0:04:09.36,0:04:13.20,Default,,0,0,0,,No parece que tenga oportunidad de ir en su contra.
+Dialogue: 0,0:04:14.09,0:04:15.58,Default,,0,0,0,,Es bueno que lo entiendas.
+Dialogue: 0,0:04:16.36,0:04:24.51,Default,,0,0,0,,Tranquila, no te abandonaría ni te separaría\Nde quien amas, aunque ese sea mi sobrino.
+Dialogue: 0,0:04:26.11,0:04:29.16,Default,,0,0,0,,¿Sabe de la relación entre mi Señor y yo?
+Dialogue: 0,0:04:29.74,0:04:35.87,Default,,0,0,0,,La verdad es que, todo lo que quiero es a ti, Botan.
+Dialogue: 0,0:04:36.80,0:04:41.80,Default,,0,0,0,,P-Para tu mala suerte, mi\Ncorazón ya pertenece a alguien más.
+Dialogue: 0,0:04:42.07,0:04:46.84,Default,,0,0,0,,Ya te dije que no tengo intención\Nde causar problemas abiertamente.
+Dialogue: 0,0:04:47.34,0:04:51.47,Default,,0,0,0,,Puedes estar tranquila. Te\Nrecompensaré como es debido.
+Dialogue: 0,0:04:52.36,0:04:54.29,Default,,0,0,0,,Qué sorpresa.
+Dialogue: 0,0:04:54.71,0:04:57.09,Default,,0,0,0,,Parece que en verdad solo desea mi cuerpo.
+Dialogue: 0,0:04:57.82,0:05:02.78,Default,,0,0,0,,Entonces, para salvar a la\Nmansión de la ruina, tendré que...
+Dialogue: 0,0:05:04.38,0:05:07.69,Default,,0,0,0,,Si promete mantenerlo en secreto de mi Señor...
+Dialogue: 0,0:05:08.08,0:05:10.33,Default,,0,0,0,,¿Oh? ¿De verdad?
+Dialogue: 0,0:05:10.87,0:05:16.16,Default,,0,0,0,,Entonces, la próxima vez te daré una\Nbienvenida adecuada cuando cruces la entrada.
+Dialogue: 0,0:05:16.90,0:05:19.82,Default,,0,0,0,,Entendido...
+Dialogue: 0,0:05:20.47,0:05:24.82,Default,,0,0,0,,Haga lo que quiera con este cuerpo.
+Dialogue: 0,0:05:26.22,0:05:30.44,Default,,0,0,0,,Pensar que este sacrficio\Nharía que todo se resuelva...
+Dialogue: 0,0:05:32.32,0:05:35.96,Default,,0,0,0,,...fue el error que cometí.
+Dialogue: 0,0:05:39.04,0:05:43.22,Default,,0,0,0,,Mi determinación no era nada para él.
+Dialogue: 0,0:05:43.40,0:05:45.73,Default,,0,0,0,,Ya que sabe cómo tratar con mujeres.
+Dialogue: 0,0:05:50.42,0:05:54.13,Default,,0,0,0,,¿Oh? Ya estás bien mojada.
+Dialogue: 0,0:05:54.53,0:05:59.33,Default,,0,0,0,,Mira, estos jugos lascivos no dejan de salir.
+Dialogue: 0,0:06:00.13,0:06:01.84,Default,,0,0,0,,T-Te equivocas...
+Dialogue: 0,0:06:02.40,0:06:03.62,Default,,0,0,0,,Esto no...
+Dialogue: 0,0:06:11.69,0:06:15.87,Default,,0,0,0,,Ese fue un buen orgasmos, ¿te gustó mi lengua?
+Dialogue: 0,0:06:16.69,0:06:21.29,Default,,0,0,0,,Si vamos a hacerlo, ¿por\Nqué no empiezas de una vez?
+Dialogue: 0,0:06:22.19,0:06:23.56,Default,,0,0,0,,¡Esto es humillante!
+Dialogue: 0,0:06:23.69,0:06:26.38,Default,,0,0,0,,Siempre me usa como si fuera su juguete.
+Dialogue: 0,0:06:29.09,0:06:31.00,Default,,0,0,0,,Ya comprendo.
+Dialogue: 0,0:06:31.25,0:06:35.27,Default,,0,0,0,,Kazuhiko no ha sido capaz\Nde satisfacerte de esta manera.
+Dialogue: 0,0:06:35.41,0:06:37.11,Default,,0,0,0,,Pobre muchacho.
+Dialogue: 0,0:06:37.40,0:06:42.07,Default,,0,0,0,,Es patético que no sea capaz\Nde satisfacer a una sola mujer.
+Dialogue: 0,0:06:42.13,0:06:46.07,Default,,0,0,0,,No permitiré que insultes a mi Señor.
+Dialogue: 0,0:06:47.31,0:06:51.60,Default,,0,0,0,,Eso es, Botan. Esa actitud\Ntuya es la que me vuelve loco.
+Dialogue: 0,0:06:53.02,0:06:58.62,Default,,0,0,0,,Esa mezcla de orgullo y\Nbelleza es lo que me pone así...
+Dialogue: 0,0:06:59.20,0:07:02.27,Default,,0,0,0,,Oye, no me acerques eso...
+Dialogue: 0,0:07:02.71,0:07:05.77,Default,,0,0,0,,Está más grande y más duro que antes. Vamos, mira.
+Dialogue: 0,0:07:07.18,0:07:09.38,Default,,0,0,0,,Realmente está excitado.
+Dialogue: 0,0:07:20.00,0:07:24.67,Default,,0,0,0,,¿Qué ocurre? Tu vagina está temblando.
+Dialogue: 0,0:07:24.98,0:07:28.74,Default,,0,0,0,,¿Con solo meterla tuviste un orgasmo?
+Dialogue: 0,0:07:30.40,0:07:34.56,Default,,0,0,0,,En un instante llegó a mi lugar sensible.
+Dialogue: 0,0:07:35.46,0:07:39.09,Default,,0,0,0,,Pero no hay problema, puedo soportar esto.
+Dialogue: 0,0:07:42.98,0:07:46.73,Default,,0,0,0,,¡No tendré un orgasmo con nadie más que mi Señor!
+Dialogue: 0,0:07:57.51,0:08:00.27,Default,,0,0,0,,Este es tu punto débil, ¿no? ¡Toma esto!
+Dialogue: 0,0:08:00.40,0:08:03.18,Default,,0,0,0,,¡Está bien, puedes gemir todo lo que quieras!
+Dialogue: 0,0:08:36.79,0:08:40.27,Default,,0,0,0,,Estoy por venirme. ¡Aquí voy, Botan!
+Dialogue: 0,0:08:43.67,0:08:46.16,Default,,0,0,0,,Tío, soy yo, Kazuhiko.
+Dialogue: 0,0:08:47.22,0:08:48.84,Default,,0,0,0,,Está bien, entra.
+Dialogue: 0,0:08:49.53,0:08:50.60,Default,,0,0,0,,¿Mi Señor?
+Dialogue: 0,0:08:50.73,0:08:51.80,Default,,0,0,0,,Esto es malo.
+Dialogue: 0,0:08:52.16,0:08:53.82,Default,,0,0,0,,¿Por qué está aquí?
+Dialogue: 0,0:08:55.53,0:08:59.00,Default,,0,0,0,,Este tipo no para, no puede ser...
+Dialogue: 0,0:08:59.56,0:09:01.13,Default,,0,0,0,,¡Mi Señor!
+Dialogue: 0,0:09:07.27,0:09:11.02,Default,,0,0,0,,Gracias por invitarme, tío.
+Dialogue: 0,0:09:11.51,0:09:14.09,Default,,0,0,0,,Llegas justo a tiempo, Kazuhiko.
+Dialogue: 0,0:09:32.93,0:09:36.67,Default,,0,0,0,,Bueno, dejo a Botan a su cuidado.
+Dialogue: 0,0:09:36.84,0:09:37.71,Default,,0,0,0,,Descuida.
+Dialogue: 0,0:09:45.51,0:09:46.76,Default,,0,0,0,,Yo la cuido.
+Dialogue: 0,0:09:49.18,0:09:53.47,Default,,0,0,0,,Entrenaré a Botan para que sea el\Ntipo de ninja pervertido que me gusta.
+Dialogue: 0,0:10:03.02,0:10:05.51,Default,,0,0,0,,Eso de verdad me asustó.
+Dialogue: 0,0:10:05.76,0:10:10.04,Default,,0,0,0,,Había olvidado que lo llamé\Npara entregarle el dinero.
+Dialogue: 0,0:10:17.14,0:10:22.78,Default,,0,0,0,,Sin embargo, ese Kazuhiko\Nsiempre anda preocupado por ti.
+Dialogue: 0,0:10:23.02,0:10:24.49,Default,,0,0,0,,Eso me pone celoso.
+Dialogue: 0,0:10:29.70,0:10:31.52,Default,,0,0,0,,No puedo pensar con claridad.
+Dialogue: 0,0:10:43.73,0:10:48.56,Default,,0,0,0,,Permito ser profanada por el bien de él...
+Dialogue: 0,0:10:49.18,0:10:52.82,Default,,0,0,0,,Pero aún así, esto se siente bien...
+Dialogue: 0,0:10:55.93,0:10:57.69,Default,,0,0,0,,Ya fue suficiente, ¿no?
+Dialogue: 0,0:10:58.40,0:11:03.47,Default,,0,0,0,,Bueno, ahora regresaré a mi trabajo.
+Dialogue: 0,0:11:09.20,0:11:13.71,Default,,0,0,0,,Ese pequeño orgasmos parece\Nque no fue suficiente para ti.
+Dialogue: 0,0:11:14.60,0:11:18.62,Default,,0,0,0,,Bien, como tu amo, debo hacerte sentir bien.
+Dialogue: 0,0:11:26.44,0:11:29.04,Default,,0,0,0,,Yo solamente...
+Dialogue: 0,0:11:29.09,0:11:34.42,Default,,0,0,0,,...estaba cumpliendo\Nórdenes, porque soy una ninja...
+Dialogue: 0,0:11:38.69,0:11:41.56,Default,,0,0,0,,Estás más apretada.
+Dialogue: 0,0:11:41.78,0:11:44.44,Default,,0,0,0,,¿Estás sintiendo placer, Botan?
+Dialogue: 0,0:11:45.99,0:11:50.76,Default,,0,0,0,,Este pequeño cuerpo está muy deseoso por mi verga.
+Dialogue: 0,0:11:52.31,0:11:56.62,Default,,0,0,0,,N-No diga esas tonterías...
+Dialogue: 0,0:12:01.16,0:12:02.91,Default,,0,0,0,,Yo...
+Dialogue: 0,0:12:03.73,0:12:07.76,Default,,0,0,0,,Solo me alabas para que te haga sentir placer.
+Dialogue: 0,0:12:08.91,0:12:12.93,Default,,0,0,0,,¡Eso no es cierto! ¡Yo no quiero esto!
+Dialogue: 0,0:12:15.64,0:12:18.80,Default,,0,0,0,,Estoy soportando esto por el bien de mi Señor...
+Dialogue: 0,0:12:18.96,0:12:23.73,Default,,0,0,0,,¡Mi corazón jamás cederá ante nadie!
+Dialogue: 0,0:12:31.18,0:12:34.29,Default,,0,0,0,,¡Aunque se sienta bien...
+Dialogue: 0,0:12:34.36,0:12:37.87,Default,,0,0,0,,...voy a resistir!
+Dialogue: 0,0:13:00.27,0:13:03.07,Default,,0,0,0,,Tus gemidos son más dulces ahora.
+Dialogue: 0,0:13:12.13,0:13:15.18,Default,,0,0,0,,Tus pezones también están hinchados.
+Dialogue: 0,0:13:22.24,0:13:24.53,Default,,0,0,0,,Se siente bien, ¿no es así?
+Dialogue: 0,0:13:24.67,0:13:26.87,Default,,0,0,0,,¡Sé honesta!
+Dialogue: 0,0:13:38.49,0:13:41.07,Default,,0,0,0,,No... No puedo más...
+Dialogue: 0,0:13:41.40,0:13:44.31,Default,,0,0,0,,Todo lo que soporté...
+Dialogue: 0,0:13:44.42,0:13:46.47,Default,,0,0,0,,¡Esto se siente bien!
+Dialogue: 0,0:14:00.40,0:14:04.20,Default,,0,0,0,,¡Su magnífico glande está dando en\Nmi punto sensible con mucha precisión!
+Dialogue: 0,0:14:09.89,0:14:12.36,Default,,0,0,0,,Toma... Toma esto...
+Dialogue: 0,0:14:12.96,0:14:16.69,Default,,0,0,0,,Este placer irresistible...
+Dialogue: 0,0:14:17.27,0:14:19.36,Default,,0,0,0,,¡No puedo soportar esto!
+Dialogue: 0,0:14:19.56,0:14:21.87,Default,,0,0,0,,¡Su pene es tan increíble que no lo puedo resistir!
+Dialogue: 0,0:14:41.47,0:14:45.82,Default,,0,0,0,,Ahora estoy moviendo mis\Ncaderas por voluntad propia...
+Dialogue: 0,0:14:46.89,0:14:52.51,Default,,0,0,0,,Mi Señor... le ruego que... me perdone.
+Dialogue: 0,0:14:58.00,0:15:01.49,Default,,0,0,0,,¿Sigues pensando en tu Señor?
+Dialogue: 0,0:15:04.76,0:15:06.98,Default,,0,0,0,,Eso arruina el ambiente.
+Dialogue: 0,0:15:07.22,0:15:09.20,Default,,0,0,0,,Lo dejaremos aquí por hoy...
+Dialogue: 0,0:15:09.27,0:15:10.91,Default,,0,0,0,,¡No! ¡Espe...!
+Dialogue: 0,0:15:11.38,0:15:13.44,Default,,0,0,0,,¡¿Cómo es que todo terminó así?!
+Dialogue: 0,0:15:16.73,0:15:19.62,Default,,0,0,0,,¿Pasó algo?
+Dialogue: 0,0:15:20.72,0:15:23.60,Default,,0,0,0,,No... Esto está bien...
+Dialogue: 0,0:15:24.22,0:15:25.16,Default,,0,0,0,,De esta manera...
+Dialogue: 0,0:15:29.80,0:15:34.02,Default,,0,0,0,,¿Eh? ¿Pero qué estoy haciendo?
+Dialogue: 0,0:16:18.70,0:16:20.84,Default,,0,0,0,,¡Eso es, Botan!
+Dialogue: 0,0:16:21.00,0:16:25.36,Default,,0,0,0,,Tu pequeña vagina de ninja\Nhambrienta de sexo me tiene loco.
+Dialogue: 0,0:16:31.72,0:16:33.80,Default,,0,0,0,,¡Hora de tu recompensa, Botan!
+Dialogue: 0,0:16:34.09,0:16:37.27,Default,,0,0,0,,¡Acéptala en lo más profundo de tu interior!
+Dialogue: 0,0:16:45.22,0:16:48.00,Default,,0,0,0,,¡Estoy muy agradecida de recibir...
+Dialogue: 0,0:16:48.82,0:16:52.80,Default,,0,0,0,,...el semen de mi querido amo!
+Dialogue: 0,0:16:57.00,0:16:59.04,Default,,0,0,0,,Estoy satisfecho, Botan.
+Dialogue: 0,0:16:59.42,0:17:02.64,Default,,0,0,0,,Tienes la lujuria de una mujer\Nen un cuerpo tan pequeño.
+Dialogue: 0,0:17:02.80,0:17:08.96,Default,,0,0,0,,Y me agrada esa lealtad de\Nninja hacia la voluntad de su amo.
+Dialogue: 0,0:17:13.80,0:17:19.87,Default,,0,0,0,,Si sucumbo ante este placer, no\Npodré regresar a como era antes.
+Dialogue: 0,0:17:21.69,0:17:25.69,Default,,0,0,0,,Mi Señor, quiero verte.
+Dialogue: 0,0:17:33.92,0:17:36.93,Default,,0,0,0,,Ah, por cierto Botan.
+Dialogue: 0,0:17:37.78,0:17:41.64,Default,,0,0,0,,¿Podrías encontrar una habitación\Nlibre adecuada en la mansión?
+Dialogue: 0,0:17:42.29,0:17:45.31,Default,,0,0,0,,Necesitamos decidir dónde se quedará Kazuhiko.
+Dialogue: 0,0:17:45.49,0:17:48.91,Default,,0,0,0,,Mi Se... ¿Ese muchacho se quedará aquí?
+Dialogue: 0,0:17:49.64,0:17:52.53,Default,,0,0,0,,¿Qué significa esto, amo?
+Dialogue: 0,0:17:53.29,0:17:55.49,Default,,0,0,0,,¿Mm? ¿No te lo había dicho?
+Dialogue: 0,0:17:55.82,0:17:58.58,Default,,0,0,0,,Kazuhiko se quedará aquí un tiempo.
+Dialogue: 0,0:17:58.84,0:18:01.31,Default,,0,0,0,,Es por eso que lo invité.
+Dialogue: 0,0:18:03.64,0:18:05.82,Default,,0,0,0,,Esta es una oportunidad inesperada.
+Dialogue: 0,0:18:06.27,0:18:09.18,Default,,0,0,0,,¡Podré ver a mi Señor!

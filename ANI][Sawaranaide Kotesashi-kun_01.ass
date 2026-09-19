@@ -1,0 +1,223 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FF007B,&H64000000,&H64000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.50,0:00:05.80,Default,,0,0,0,,Aroma, relájate, por favor.
+Dialogue: 0,0:00:05.88,0:00:07.68,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:00:07.76,0:00:11.76,Default,,0,0,0,,Pero apresúrate y hazlo.
+Dialogue: 0,0:00:26.36,0:00:27.99,Default,,0,0,0,,Qué dolor.
+Dialogue: 0,0:00:28.07,0:00:29.36,Default,,0,0,0,,¿Está bien?
+Dialogue: 0,0:00:29.49,0:00:32.07,Default,,0,0,0,,Me empezó a doler la espalda de la nada.
+Dialogue: 0,0:00:32.49,0:00:35.20,Default,,0,0,0,,Disculpe. Voy a tocarla un poco.
+Dialogue: 0,0:00:38.92,0:00:40.96,Default,,0,0,0,,Oye, ¿qué haces?
+Dialogue: 0,0:00:41.04,0:00:43.38,Default,,0,0,0,,¿Eh? ¿Ya no me duele?
+Dialogue: 0,0:00:43.46,0:00:44.75,Default,,0,0,0,,Gracias, chico.
+Dialogue: 0,0:00:48.17,0:00:49.76,Default,,0,0,0,,Edificios altos.
+Dialogue: 0,0:00:50.26,0:00:51.93,Default,,0,0,0,,Mucha gente.
+Dialogue: 0,0:00:52.68,0:00:54.89,Default,,0,0,0,,Esculturas extrañas.
+Dialogue: 0,0:00:55.26,0:00:56.93,Default,,0,0,0,,Llegué a la gran ciudad.
+Dialogue: 0,0:00:57.43,0:01:00.60,Default,,0,0,0,,Pronto seré estudiante de la Preparatoria Seiwa.
+Dialogue: 0,0:01:01.81,0:01:05.94,Default,,0,0,0,,Es una escuela cuyos equipos\Ndominan los deportes a nivel nacional.
+Dialogue: 0,0:01:06.48,0:01:11.16,Default,,0,0,0,,En especial, hay muchas\Nmujeres que poseen un gran talento.
+Dialogue: 0,0:01:12.28,0:01:14.45,Default,,0,0,0,,Aunque yo no soy un deportista.
+Dialogue: 0,0:01:15.79,0:01:18.54,Default,,0,0,0,,¿Será la dirección correcta de la residencia?
+Dialogue: 0,0:01:19.20,0:01:21.33,Default,,0,0,0,,Seré el administrador del edificio.
+Dialogue: 0,0:01:21.42,0:01:23.67,Default,,0,0,0,,Me viene muy bien tener trabajo con techo.
+Dialogue: 0,0:01:23.96,0:01:27.42,Default,,0,0,0,,Como soy pobre, debo ganar\Ndinero para la colegiatura.
+Dialogue: 0,0:01:28.13,0:01:30.30,Default,,0,0,0,,DORMITORIO MOMIJI -Se ve viejo y descuidado.
+Dialogue: 0,0:01:30.42,0:01:33.47,Default,,0,0,0,,Un amigo de papá me ofreció este empleo.
+Dialogue: 0,0:01:34.05,0:01:37.93,Default,,0,0,0,,Pero todo sea por mi sueño.\NNo debo ser quisquilloso.
+Dialogue: 0,0:01:38.56,0:01:41.56,Default,,0,0,0,,¡Buenas tardes! ¡Con permiso!
+Dialogue: 0,0:01:42.35,0:01:43.77,Default,,0,0,0,,¿No hay nadie?
+Dialogue: 0,0:01:44.86,0:01:46.69,Default,,0,0,0,,¿Hay alguien en casa?
+Dialogue: 0,0:01:48.61,0:01:50.95,Default,,0,0,0,,Perdón, ¿hay alguien en casa…?
+Dialogue: 0,0:01:58.24,0:02:00.71,Default,,0,0,0,,¡No es lo que parece! ¡Es un error!
+Dialogue: 0,0:02:00.83,0:02:02.71,Default,,0,0,0,,¡Pervertido!
+Dialogue: 0,0:02:02.83,0:02:05.21,Default,,0,0,0,,¡Lo siento mucho!
+Dialogue: 0,0:02:05.29,0:02:07.25,Default,,0,0,0,,¡Alto ahí!
+Dialogue: 0,0:02:10.01,0:02:11.42,Default,,0,0,0,,Ay, ay, ay…
+Dialogue: 0,0:02:11.97,0:02:14.97,Default,,0,0,0,,Eso me duele. ¿Qué rayos está pasando?
+Dialogue: 0,0:02:15.05,0:02:16.68,Default,,0,0,0,,Lo siento mucho.
+Dialogue: 0,0:02:17.51,0:02:20.73,Default,,0,0,0,,-¡Maldito intruso degenerado!\N-¡No, yo solo…!
+Dialogue: 0,0:02:20.93,0:02:23.19,Default,,0,0,0,,¡No me importa!
+Dialogue: 0,0:02:23.94,0:02:26.90,Default,,0,0,0,,¿Qué? ¿Este fisgón será el administrador?
+Dialogue: 0,0:02:26.98,0:02:30.44,Default,,0,0,0,,Fue un malentendido. Cálmate, Aroma.
+Dialogue: 0,0:02:30.53,0:02:34.03,Default,,0,0,0,,El administrador anterior renunció\Ny no sabíamos qué hacer, ¿no?
+Dialogue: 0,0:02:34.11,0:02:35.61,Default,,0,0,0,,Nos conviene, ¿cierto?
+Dialogue: 0,0:02:35.70,0:02:37.83,Default,,0,0,0,,No. No lo quiero aquí.
+Dialogue: 0,0:02:39.04,0:02:42.50,Default,,0,0,0,,Por cierto, aún no te has presentado, ¿verdad?
+Dialogue: 0,0:02:43.08,0:02:45.08,Default,,0,0,0,,Me llamo Koyo Kotesashi.
+Dialogue: 0,0:02:45.17,0:02:48.38,Default,,0,0,0,,Esta primavera ingreso a\Nprimero de la Preparatoria Seiwa.
+Dialogue: 0,0:02:48.46,0:02:51.59,Default,,0,0,0,,Trabajaré aquí a partir de\Nhoy para pagar la colegiatura.
+Dialogue: 0,0:02:51.67,0:02:54.68,Default,,0,0,0,,¡No soy ningún pervertido!
+Dialogue: 0,0:02:55.13,0:02:57.51,Default,,0,0,0,,Perdón por el malentendido.
+Dialogue: 0,0:02:57.60,0:03:01.52,Default,,0,0,0,,Me llamo Miyuki Hongo. Tercer\Naño de la Preparatoria Seiwa.
+Dialogue: 0,0:03:01.60,0:03:02.93,Default,,0,0,0,,Encantada.
+Dialogue: 0,0:03:03.43,0:03:06.19,Default,,0,0,0,,¿Hongo? He oído ese apellido antes.
+Dialogue: 0,0:03:07.77,0:03:11.36,Default,,0,0,0,,¡¿Hongo, la que está en el\Nequipo nacional de Japón?!
+Dialogue: 0,0:03:11.44,0:03:13.61,Default,,0,0,0,,He visto reportajes sobre ti en la tele.
+Dialogue: 0,0:03:13.69,0:03:15.91,Default,,0,0,0,,Es increíble conocer a alguien tan famosa.
+Dialogue: 0,0:03:16.03,0:03:18.70,Default,,0,0,0,,Sí, soy esa Hongo.
+Dialogue: 0,0:03:18.78,0:03:21.66,Default,,0,0,0,,Vamos, Aroma, preséntate tú también.
+Dialogue: 0,0:03:21.95,0:03:23.79,Default,,0,0,0,,-No quiero.\N-No seas así.
+Dialogue: 0,0:03:24.25,0:03:26.21,Default,,0,0,0,,Se llama Aroma Kusunoki.
+Dialogue: 0,0:03:26.21,0:03:28.63,Default,,0,0,0,,Está en primero como tú y practica básquet.
+Dialogue: 0,0:03:28.71,0:03:31.88,Default,,0,0,0,,Vive aquí desde que asistía a la Secundaria Seiwa.
+Dialogue: 0,0:03:31.96,0:03:36.55,Default,,0,0,0,,Ganó el campeonato los tres\Naños y la eligieron como MVP.
+Dialogue: 0,0:03:37.18,0:03:39.76,Default,,0,0,0,,Miyuki, no hables de más.
+Dialogue: 0,0:03:39.85,0:03:43.18,Default,,0,0,0,,Como sea, no acepto que\Neste tipo sea el administrador.
+Dialogue: 0,0:03:43.27,0:03:44.60,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:03:49.31,0:03:53.19,Default,,0,0,0,,Lo siento. Por lo general, es\Nuna chica muy dulce y tierna.
+Dialogue: 0,0:03:53.36,0:03:56.28,Default,,0,0,0,,Le caí mal a alguien tan genial…
+Dialogue: 0,0:03:56.65,0:03:58.49,Default,,0,0,0,,No puede ser.
+Dialogue: 0,0:03:59.20,0:04:02.62,Default,,0,0,0,,Últimamente, está de mal humor porque no mejora.
+Dialogue: 0,0:04:02.70,0:04:04.33,Default,,0,0,0,,No te lo tomes a pecho.
+Dialogue: 0,0:04:04.41,0:04:07.92,Default,,0,0,0,,Las demás chicas de la\Nresidencia fueron a entrenar,
+Dialogue: 0,0:04:08.00,0:04:10.13,Default,,0,0,0,,pero no tardarán en volver.
+Dialogue: 0,0:04:12.09,0:04:13.88,Default,,0,0,0,,Ay…
+Dialogue: 0,0:04:15.46,0:04:16.63,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:04:16.72,0:04:20.18,Default,,0,0,0,,Pisé mal en la escalera.\NCreo que me torcí el tobillo.
+Dialogue: 0,0:04:20.26,0:04:23.06,Default,,0,0,0,,-Traeré al doctor.\N-Gracias.
+Dialogue: 0,0:04:23.51,0:04:24.85,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:04:25.06,0:04:27.73,Default,,0,0,0,,No, estoy de lo peor.
+Dialogue: 0,0:04:28.19,0:04:30.48,Default,,0,0,0,,-Es por tu culpa.\N-Permíteme revisarte.
+Dialogue: 0,0:04:31.23,0:04:32.36,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:04:35.73,0:04:38.36,Default,,0,0,0,,¡Sus manos son maravillosas!
+Dialogue: 0,0:04:38.86,0:04:42.53,Default,,0,0,0,,Bien. Parece que no te lesionaste\Ncuando te caíste de la escalera.
+Dialogue: 0,0:04:42.62,0:04:44.62,Default,,0,0,0,,-¿En serio?\N-Sí.
+Dialogue: 0,0:04:44.99,0:04:47.08,Default,,0,0,0,,Entonces, suéltame de una vez.
+Dialogue: 0,0:04:47.16,0:04:49.25,Default,,0,0,0,,Deja de tocarme.
+Dialogue: 0,0:04:49.37,0:04:52.38,Default,,0,0,0,,Lo siento. Pero déjame decirte una cosa.
+Dialogue: 0,0:04:52.46,0:04:53.63,Default,,0,0,0,,¿Qué cosa?
+Dialogue: 0,0:04:53.79,0:04:57.55,Default,,0,0,0,,A este paso, algún día no\Npodrás jugar más al básquet.
+Dialogue: 0,0:04:59.30,0:05:01.93,Default,,0,0,0,,Mis padres son un quiropráctico y una masajista.
+Dialogue: 0,0:05:02.30,0:05:04.85,Default,,0,0,0,,Crecí viendo su trabajo de cerca.
+Dialogue: 0,0:05:05.39,0:05:10.39,Default,,0,0,0,,No tengo una licencia, pero\Nsé mucho del cuerpo humano.
+Dialogue: 0,0:05:10.48,0:05:12.40,Default,,0,0,0,,¿Y eso qué?
+Dialogue: 0,0:05:12.98,0:05:16.40,Default,,0,0,0,,Mi sueño es ser un médico deportivo.
+Dialogue: 0,0:05:16.82,0:05:20.61,Default,,0,0,0,,No puedo ignorar tu estado\Nsi eres una jugadora exitosa.
+Dialogue: 0,0:05:22.03,0:05:25.53,Default,,0,0,0,,Cuando revisé tu pierna, me dio la impresión
+Dialogue: 0,0:05:25.62,0:05:28.20,Default,,0,0,0,,de que ahora debes sentir pesado el cuerpo.
+Dialogue: 0,0:05:28.29,0:05:30.37,Default,,0,0,0,,Ahora que lo mencionas…
+Dialogue: 0,0:05:32.50,0:05:35.42,Default,,0,0,0,,Oigan, ¿por qué estoy en la cama?
+Dialogue: 0,0:05:35.63,0:05:37.67,Default,,0,0,0,,Tienes fatiga acumulada.
+Dialogue: 0,0:05:37.88,0:05:39.55,Default,,0,0,0,,¿Qué quieres que haga?
+Dialogue: 0,0:05:39.63,0:05:43.72,Default,,0,0,0,,En la preparatoria sube el nivel,\Nasí que tengo que entrenar más.
+Dialogue: 0,0:05:43.80,0:05:45.10,Default,,0,0,0,,Ya veo.
+Dialogue: 0,0:05:45.18,0:05:47.56,Default,,0,0,0,,Te revisaré teniendo eso en cuenta.
+Dialogue: 0,0:05:47.81,0:05:50.06,Default,,0,0,0,,Primero te examinaré la cadera.
+Dialogue: 0,0:05:51.06,0:05:53.48,Default,,0,0,0,,Se siente bastante deforme.
+Dialogue: 0,0:05:53.56,0:05:55.31,Default,,0,0,0,,Oye, no me toques ahí.
+Dialogue: 0,0:05:55.40,0:05:56.65,Default,,0,0,0,,¿Qué sucede?
+Dialogue: 0,0:05:56.73,0:05:59.28,Default,,0,0,0,,Me tocaste en un lugar indebido.
+Dialogue: 0,0:05:59.36,0:06:00.82,Default,,0,0,0,,¿Lugar indebido?
+Dialogue: 0,0:06:01.40,0:06:05.32,Default,,0,0,0,,Mi diagnóstico es que todos\Ntus músculos están tiesos.
+Dialogue: 0,0:06:05.45,0:06:07.58,Default,,0,0,0,,Si lo ignoras, sufrirás una lesión grave.
+Dialogue: 0,0:06:08.66,0:06:10.66,Default,,0,0,0,,¿Supo todo eso en un instante?
+Dialogue: 0,0:06:10.87,0:06:13.67,Default,,0,0,0,,-Perdón. Me estoy entrometiendo.\N-Aguarda.
+Dialogue: 0,0:06:14.96,0:06:18.59,Default,,0,0,0,,No creo que vaya a mejorar pidiéndoselo a este,
+Dialogue: 0,0:06:19.26,0:06:20.71,Default,,0,0,0,,pero si tan solo existiera
+Dialogue: 0,0:06:21.13,0:06:24.47,Default,,0,0,0,,la posibilidad de cambiar mi situación actual…
+Dialogue: 0,0:06:26.14,0:06:29.22,Default,,0,0,0,,Espero que sea verdad que mejoraré si me tratas.
+Dialogue: 0,0:06:29.31,0:06:30.81,Default,,0,0,0,,Déjalo en mis manos.
+Dialogue: 0,0:06:30.89,0:06:33.94,Default,,0,0,0,,Te dejaré como nueva, Aroma.
+Dialogue: 0,0:06:34.02,0:06:36.40,Default,,0,0,0,,Sin embargo, dolerá un poco, ¿eh?
+Dialogue: 0,0:06:36.90,0:06:38.44,Default,,0,0,0,,Puedo con eso y más.
+Dialogue: 0,0:06:39.02,0:06:41.90,Default,,0,0,0,,Primero revisaré las articulaciones de la cadera.
+Dialogue: 0,0:06:42.74,0:06:46.62,Default,,0,0,0,,Sí, siento una chispa cuando me toca.
+Dialogue: 0,0:06:46.82,0:06:49.45,Default,,0,0,0,,Primero le iremos dando vueltas.
+Dialogue: 0,0:06:50.16,0:06:53.66,Default,,0,0,0,,Así sabremos dónde se atasca.
+Dialogue: 0,0:06:54.12,0:06:56.00,Default,,0,0,0,,Luego la extenderemos.
+Dialogue: 0,0:06:56.50,0:06:57.92,Default,,0,0,0,,Y la doblaremos.
+Dialogue: 0,0:06:58.92,0:07:03.09,Default,,0,0,0,,¿Qué te parece? Debes notarla\Nmás suave y relajada que antes.
+Dialogue: 0,0:07:03.17,0:07:04.97,Default,,0,0,0,,Sí.
+Dialogue: 0,0:07:05.55,0:07:08.51,Default,,0,0,0,,En los deportes, es muy importante la flexibilidad
+Dialogue: 0,0:07:08.60,0:07:11.60,Default,,0,0,0,,de las articulaciones y el\Nrefuerzo de sus músculos.
+Dialogue: 0,0:07:12.43,0:07:16.69,Default,,0,0,0,,Si tienes la cadera rígida, eso te resta potencia.
+Dialogue: 0,0:07:16.98,0:07:20.32,Default,,0,0,0,,También disminuye el desempeño\Ne incrementa las lesiones.
+Dialogue: 0,0:07:21.57,0:07:23.94,Default,,0,0,0,,Ahora extenderemos el reverso del muslo.
+Dialogue: 0,0:07:24.03,0:07:29.07,Default,,0,0,0,,Le colocaré mi peso para ir\Nacercando la rodilla al pecho con fuerza.
+Dialogue: 0,0:07:30.66,0:07:33.37,Default,,0,0,0,,Me sorprende lo tiesa que estás, Aroma.
+Dialogue: 0,0:07:33.66,0:07:35.83,Default,,0,0,0,,¿De verdad eres una atleta?
+Dialogue: 0,0:07:35.91,0:07:38.42,Default,,0,0,0,,¿Qué te importa?
+Dialogue: 0,0:07:38.50,0:07:40.17,Default,,0,0,0,,Hacia fuera.
+Dialogue: 0,0:07:40.42,0:07:41.92,Default,,0,0,0,,Hacia dentro.
+Dialogue: 0,0:07:42.38,0:07:44.92,Default,,0,0,0,,La parte externa está más dura.
+Dialogue: 0,0:07:45.01,0:07:48.93,Default,,0,0,0,,Es importante entrenar mucho,\Npero hay que cuidar bien el cuerpo.
+Dialogue: 0,0:07:49.59,0:07:52.60,Default,,0,0,0,,Dicen que es importante descansar, ¿no?
+Dialogue: 0,0:07:52.68,0:07:54.77,Default,,0,0,0,,Lo sé muy bien.
+Dialogue: 0,0:07:55.31,0:07:56.64,Default,,0,0,0,,Pero…
+Dialogue: 0,0:07:56.73,0:07:59.36,Default,,0,0,0,,Solo me está estirando los músculos.
+Dialogue: 0,0:08:00.31,0:08:02.86,Default,,0,0,0,,¿Por qué se siente tan bien?
+Dialogue: 0,0:08:03.69,0:08:07.11,Default,,0,0,0,,Si no me aguanto, voy a empezar a gemir.
+Dialogue: 0,0:08:08.36,0:08:11.58,Default,,0,0,0,,Pero él lo está haciendo con tanta seriedad.
+Dialogue: 0,0:08:12.16,0:08:15.45,Default,,0,0,0,,Aún está tiesa. La estimularé un poco más, ¿sí?
+Dialogue: 0,0:08:15.54,0:08:18.67,Default,,0,0,0,,No, no lo hagas. Si me tocas ahí,
+Dialogue: 0,0:08:21.09,0:08:23.38,Default,,0,0,0,,¡ya no podré resistirme!
+Dialogue: 0,0:08:27.09,0:08:29.89,Default,,0,0,0,,Listo. Terminé el tratamiento.
+Dialogue: 0,0:08:29.97,0:08:32.14,Default,,0,0,0,,Levántate poco a poco, por favor.
+Dialogue: 0,0:08:34.97,0:08:38.23,Default,,0,0,0,,Hoy ajusté la cadera y el reverso de los muslos.
+Dialogue: 0,0:08:38.39,0:08:39.69,Default,,0,0,0,,¿Qué te parece?
+Dialogue: 0,0:08:39.77,0:08:41.98,Default,,0,0,0,,Siento la cadera más ligera.
+Dialogue: 0,0:08:42.06,0:08:43.61,Default,,0,0,0,,Me alegra que te agrade.
+Dialogue: 0,0:08:44.40,0:08:48.49,Default,,0,0,0,,Me siento más ligera gracias a ti. Te lo agradezco.
+Dialogue: 0,0:08:48.57,0:08:51.12,Default,,0,0,0,,Pero no quiero reducir mi entrenamiento.
+Dialogue: 0,0:08:51.20,0:08:54.74,Default,,0,0,0,,Debo practicar más para\Nseguir el ritmo de la preparatoria.
+Dialogue: 0,0:08:54.99,0:08:58.41,Default,,0,0,0,,Creo que me malinterpretaste.
+Dialogue: 0,0:08:58.50,0:09:01.46,Default,,0,0,0,,Nunca te recomendé que entrenaras menos.
+Dialogue: 0,0:09:02.46,0:09:06.00,Default,,0,0,0,,¿No me dejarías cuidar de tu cuerpo, por favor?
+Dialogue: 0,0:09:06.42,0:09:10.47,Default,,0,0,0,,Si dejas que te trate, podrás\Npracticar más sin lesionarte.
+Dialogue: 0,0:09:11.59,0:09:13.85,Default,,0,0,0,,El enfriamiento y estiramiento al final.
+Dialogue: 0,0:09:14.31,0:09:16.18,Default,,0,0,0,,Revisión diaria de tu condición.
+Dialogue: 0,0:09:16.97,0:09:19.73,Default,,0,0,0,,Una alimentación que te\Nrecupere del desgaste diario.
+Dialogue: 0,0:09:20.27,0:09:23.36,Default,,0,0,0,,Hay muchas cosas que aún se pueden solucionar.
+Dialogue: 0,0:09:24.48,0:09:26.36,Default,,0,0,0,,No pasa nada. No desesperes.
+Dialogue: 0,0:09:26.69,0:09:29.40,Default,,0,0,0,,Podrás volverte mucho mejor, Aroma.
+Dialogue: 0,0:09:31.95,0:09:33.41,Default,,0,0,0,,Qué tipo tan raro.
+Dialogue: 0,0:09:35.08,0:09:37.24,Default,,0,0,0,,Oye, no me toques tan a la ligera.
+Dialogue: 0,0:09:37.33,0:09:38.91,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:09:39.08,0:09:43.67,Default,,0,0,0,,No me malinterpretes. Todavía\Nno he aceptado tu propuesta.
+Dialogue: 0,0:09:44.29,0:09:46.71,Default,,0,0,0,,Hola, Kotesashi.
+Dialogue: 0,0:09:46.80,0:09:49.84,Default,,0,0,0,,Parece que ya te hiciste muy\Nbuen amigo de Aroma, ¿eh?
+Dialogue: 0,0:09:50.51,0:09:53.22,Default,,0,0,0,,Miyuki, ¿quién es ese señor?
+Dialogue: 0,0:09:53.30,0:09:56.05,Default,,0,0,0,,Es el director de la Preparatoria Seiwa.
+Dialogue: 0,0:09:56.26,0:09:59.10,Default,,0,0,0,,¡¿El director?!
+Dialogue: 0,0:10:00.06,0:10:02.02,Default,,0,0,0,,Es hora de la presentación.
+Dialogue: 0,0:10:02.10,0:10:06.36,Default,,0,0,0,,Él es Kotesashi. A partir de\Nhoy, será el nuevo administrador.
+Dialogue: 0,0:10:06.44,0:10:08.57,Default,,0,0,0,,Lo dejo en sus manos, ¿sí?
+Dialogue: 0,0:10:08.86,0:10:11.57,Default,,0,0,0,,Ahora me encargaré de presentarlas.
+Dialogue: 0,0:10:11.65,0:10:14.70,Default,,0,0,0,,Soy Miyuki Hongo, estoy\Nen tercero y practico vóley.
+Dialogue: 0,0:10:14.78,0:10:17.33,Default,,0,0,0,,Soy la mayor de la residencia.
+Dialogue: 0,0:10:17.54,0:10:21.96,Default,,0,0,0,,Aroma Kusunoki. Está en\Nprimero como tú y juega al básquet.
+Dialogue: 0,0:10:22.12,0:10:25.96,Default,,0,0,0,,Izumi Sumiyoshi. Está en segundo y hace natación.
+Dialogue: 0,0:10:26.29,0:10:30.01,Default,,0,0,0,,Chiyo Sayamagaoka. Está en\Nsegundo y juega al ping-pong.
+Dialogue: 0,0:10:30.92,0:10:34.59,Default,,0,0,0,,Aoba Kitagahara. Una futbolista de primer año.
+Dialogue: 0,0:10:34.68,0:10:37.14,Default,,0,0,0,,Vivimos nosotras cinco en la residencia.
+Dialogue: 0,0:10:37.76,0:10:42.31,Default,,0,0,0,,Me llamo Koyo Kotesashi.\NMe da mucho gusto conocerlas…
+Dialogue: 0,0:10:48.23,0:10:49.90,Default,,0,0,0,,Me están mirando feo.
+Dialogue: 0,0:10:52.15,0:10:55.53,Default,,0,0,0,,Ten cuidado porque estas\Nchicas son un hueso duro de roer.
+Dialogue: 0,0:10:55.61,0:10:58.58,Default,,0,0,0,,El administrador anterior renunció el primer día.
+Dialogue: 0,0:10:59.24,0:11:02.20,Default,,0,0,0,,Si renuncias, olvídate de nuestro trato.
+Dialogue: 0,0:11:03.87,0:11:06.25,Default,,0,0,0,,¿Usted es amigo de mi papá y el director?
+Dialogue: 0,0:11:06.42,0:11:09.21,Default,,0,0,0,,Así es. ¿No te lo mencionó?
+Dialogue: 0,0:11:09.29,0:11:13.38,Default,,0,0,0,,A mí me contó que quieres estudiar\Nmedicina en la Universidad Seiwa.
+Dialogue: 0,0:11:13.47,0:11:16.76,Default,,0,0,0,,Y yo propuse que trabajaras aquí.
+Dialogue: 0,0:11:16.84,0:11:20.10,Default,,0,0,0,,Así que de eso se trataba. Muchas gracias.
+Dialogue: 0,0:11:21.27,0:11:24.52,Default,,0,0,0,,Oí que sacas buenas calificaciones.
+Dialogue: 0,0:11:24.81,0:11:28.27,Default,,0,0,0,,Pero no puedo darte un trato especial solo por eso.
+Dialogue: 0,0:11:28.36,0:11:30.40,Default,,0,0,0,,Entonces, ¿qué debo hacer?
+Dialogue: 0,0:11:30.48,0:11:33.69,Default,,0,0,0,,¡Se me ocurrió darte una misión!
+Dialogue: 0,0:11:33.78,0:11:36.70,Default,,0,0,0,,Cuida del cuerpo y corazón de las residentes
+Dialogue: 0,0:11:36.78,0:11:41.70,Default,,0,0,0,,para que todas se gradúen en perfecta forma.
+Dialogue: 0,0:11:42.20,0:11:48.71,Default,,0,0,0,,Si lo logras, te daré un pase\Nespecial a la escuela de medicina.
+Dialogue: 0,0:11:53.59,0:11:57.64,Default,,0,0,0,,¡¿De veras podré conseguirlo?!
+Dialogue: 0,0:11:58.14,0:11:59.97,Default,,0,0,0,,TRADUCCIÓN: ANTONIO VALDEZ

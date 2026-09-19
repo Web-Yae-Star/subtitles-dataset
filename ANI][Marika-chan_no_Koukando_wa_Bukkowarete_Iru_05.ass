@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,65,&H00FFFFFF,&H00FF0057,&H50000000,&HFF000000,0,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Haniyae,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,9,10,10,10,1
+Style: Haniyae - Center,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Haniyae - Izquierda,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:07:05.00,Haniyae,,40,40,0,,haniyae.net
+Dialogue: 0,0:09:00.00,0:15:00.00,Haniyae - Center,,40,40,0,,haniyae.net
+Dialogue: 0,0:18:00.00,0:22:00.00,Haniyae - Izquierda,,40,40,0,,haniyae.net
+Dialogue: 0,0:00:00.46,0:00:01.75,Default,,0,0,0,,Un día,
+Dialogue: 0,0:00:01.75,0:00:05.25,Default,,0,0,0,,de repente gané la habilidad de\Nver el nivel de afecto de las chicas hacia mí.
+Dialogue: 0,0:00:05.42,0:00:10.05,Default,,0,0,0,,Pero soy el único que puede\Nver estos medidores de amor.
+Dialogue: 0,0:00:10.05,0:00:13.68,Default,,0,0,0,,¡En nuestra próxima cita, estoy seguro de que mi\Nmedidor de amor con la amada Marika subirá!
+Dialogue: 0,0:00:18.47,0:00:20.48,Default,,0,0,0,,¡Mañana es día libre!
+Dialogue: 0,0:00:23.77,0:00:26.32,Default,,0,0,0,,¡Son tan monas!
+Dialogue: 0,0:00:26.36,0:00:29.69,Default,,0,0,0,,La propia Marika es bastante mona también.
+Dialogue: 0,0:00:29.74,0:00:31.86,Default,,0,0,0,,Pero esa pesada que siempre la acompaña\Nda bastante miedo.
+Dialogue: 0,0:00:32.03,0:00:35.28,Default,,0,0,0,,Su medidor de amor está roto hoy también.
+Dialogue: 0,0:00:35.53,0:00:38.54,Default,,0,0,0,,¡Pero aún tengo que trabajar\Nen subir ese dichoso medidor!
+Dialogue: 0,0:00:38.58,0:00:40.46,Default,,0,0,0,,¡Tengo que ser más proactivo!
+Dialogue: 0,0:00:42.04,0:00:44.46,Default,,0,0,0,,Vamos hacia allá.
+Dialogue: 0,0:00:45.67,0:00:46.79,Default,,0,0,0,,¡De acuerdo~!
+Dialogue: 0,0:00:53.05,0:00:56.14,Default,,0,0,0,,Atención. El espectáculo\Nde delfines comenzará pronto.
+Dialogue: 0,0:01:00.81,0:01:03.35,Default,,0,0,0,,¿Serán esos dos una pareja?
+Dialogue: 0,0:01:03.69,0:01:06.77,Default,,0,0,0,,¿Creen que nos darán un\Nespectáculo muy amoroso?
+Dialogue: 0,0:01:06.94,0:01:08.86,Default,,0,0,0,,¡Caramba, me alegro por ellos!
+Dialogue: 0,0:01:09.03,0:01:11.19,Default,,0,0,0,,¿Quieres darles su merecido?
+Dialogue: 0,0:01:24.58,0:01:25.63,Default,,0,0,0,,¡Ta-chán!
+Dialogue: 0,0:01:25.63,0:01:29.05,Default,,0,0,0,,Pensé que esto podría pasar, ¡así que traje\Ntoallas y ropa de cambio!
+Dialogue: 0,0:01:29.42,0:01:31.51,Default,,0,0,0,,¡Oh, muchas gracias!
+Dialogue: 0,0:01:32.42,0:01:34.18,Default,,0,0,0,,Espera, ¡esta es una camiseta de Kanata!
+Dialogue: 0,0:01:34.84,0:01:37.64,Default,,0,0,0,,Nos vemos allá cuando\Nterminemos de cambiarnos.
+Dialogue: 0,0:01:37.76,0:01:38.76,Default,,0,0,0,,¡Claro!
+Dialogue: 0,0:01:42.31,0:01:46.02,Default,,0,0,0,,Marika se está cambiando\Nal otro lado de esta pared~
+Dialogue: 0,0:01:46.06,0:01:49.11,Default,,0,0,0,,¡No, no! ¡No debería fantasear con eso!
+Dialogue: 0,0:01:55.28,0:01:57.66,Default,,0,0,0,,¿Eh? ¿Qué me ha pasado?
+Dialogue: 0,0:01:57.78,0:02:00.79,Default,,0,0,0,,¡Es hora del Bonus Especial de Kanata!
+Dialogue: 0,0:02:00.83,0:02:02.41,Default,,0,0,0,,¿Eh? ¿Qué eres tú?
+Dialogue: 0,0:02:04.54,0:02:06.58,Default,,0,0,0,,¡Soy el Hada Rosa,
+Dialogue: 0,0:02:06.63,0:02:12.01,Default,,0,0,0,,una leyenda urbana viviente entretejida en\Nla vida diaria de los chicos adolescentes!
+Dialogue: 0,0:02:12.05,0:02:14.18,Default,,0,0,0,,¿¡Bwah?! ¿¡El Hada Rosa?!
+Dialogue: 0,0:02:14.18,0:02:19.35,Default,,0,0,0,,En raras ocasiones, aparezco\Nante un chico que puede ver medidores de amor
+Dialogue: 0,0:02:19.35,0:02:21.72,Default,,0,0,0,,y le otorgo un pequeño milagro.
+Dialogue: 0,0:02:21.73,0:02:23.89,Default,,0,0,0,,¿Eh? Espera, ¿qué quieres decir?
+Dialogue: 0,0:02:23.94,0:02:25.73,Default,,0,0,0,,¡Observa!
+Dialogue: 0,0:02:28.02,0:02:30.82,Default,,0,0,0,,¡¿M-Marika?!
+Dialogue: 0,0:02:30.82,0:02:33.40,Default,,0,0,0,,Oh, este es un milagro travieso. Estoy tan...
+Dialogue: 0,0:02:33.45,0:02:35.40,Default,,0,0,0,,no, ¡no debo!
+Dialogue: 0,0:02:37.82,0:02:39.62,Default,,0,0,0,,En cuanto a mi falda...
+Dialogue: 0,0:02:39.70,0:02:41.91,Default,,0,0,0,,no tengo otra para cambiarme.
+Dialogue: 0,0:02:43.62,0:02:45.62,Default,,0,0,0,,Y mi ropa interior...
+Dialogue: 0,0:02:45.79,0:02:47.42,Default,,0,0,0,,¿qué hago?
+Dialogue: 0,0:02:50.80,0:02:53.05,Default,,0,0,0,,Listo. No puedo mostrarte más.
+Dialogue: 0,0:02:53.09,0:02:55.51,Default,,0,0,0,,¿Quéeé? ¡No es justo!
+Dialogue: 0,0:02:55.55,0:02:57.05,Default,,0,0,0,,¿Qué fue eso justo ahora?
+Dialogue: 0,0:02:57.09,0:03:01.93,Default,,0,0,0,,Una pequeña ensoñación fugaz por\Nconveniencia de los adultos~
+Dialogue: 0,0:03:01.93,0:03:03.27,Default,,0,0,0,,¡Nos vemos!
+Dialogue: 0,0:03:03.31,0:03:06.69,Default,,0,0,0,,Aww, ¿no puedo ver solo un poco más?
+Dialogue: 0,0:03:08.56,0:03:10.15,Default,,0,0,0,,Oh, Kanata...
+Dialogue: 0,0:03:12.90,0:03:14.44,Default,,0,0,0,,¡Lo siento, señor!
+Dialogue: 0,0:03:16.69,0:03:18.90,Default,,0,0,0,,¡Kanata! ¡Perdón por llegar tarde!
+Dialogue: 0,0:03:19.11,0:03:21.07,Default,,0,0,0,,¡Bienvenida, Marik... uh?
+Dialogue: 0,0:03:21.74,0:03:23.87,Default,,0,0,0,,Gracias por la toalla y la ropa.
+Dialogue: 0,0:03:23.87,0:03:25.70,Default,,0,0,0,,¡Fueron de gran ayuda!
+Dialogue: 0,0:03:25.78,0:03:28.91,Default,,0,0,0,,Ver a Marika\Nllevando mi propia camiseta...
+Dialogue: 0,0:03:29.16,0:03:30.91,Default,,0,0,0,,¡Es demasiado mono para palabras!
+Dialogue: 0,0:03:31.54,0:03:33.83,Default,,0,0,0,,La camiseta de Kanata~
+Dialogue: 0,0:03:37.00,0:03:38.92,Default,,0,0,0,,Toma, Marika.
+Dialogue: 0,0:03:39.51,0:03:40.51,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:03:40.72,0:03:42.51,Default,,0,0,0,,Oh, ¡esto es...!
+Dialogue: 0,0:03:43.39,0:03:46.14,Default,,0,0,0,,Bueno, parecías encontrar\Na las crías de foca muy monas, así que...
+Dialogue: 0,0:03:46.60,0:03:48.39,Default,,0,0,0,,¡Compré uno para mí también!
+Dialogue: 0,0:03:49.48,0:03:50.93,Default,,0,0,0,,¡Muchas gracias!
+Dialogue: 0,0:03:51.60,0:03:53.35,Default,,0,0,0,,¡Estoy tan feliz!
+Dialogue: 0,0:03:53.60,0:03:56.77,Default,,0,0,0,,Eres un hablador...
+Dialogue: 0,0:03:56.86,0:03:59.28,Default,,0,0,0,,¿Qué pasa con esa Hannya?
+Dialogue: 0,0:03:59.36,0:04:03.20,Default,,0,0,0,,Tú... hablas... suave...
+Dialogue: 0,0:04:04.91,0:04:07.41,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:04:07.41,0:04:10.91,Default,,0,0,0,,La Hannya ha sido llamada de vuelta al cielo.
+Dialogue: 0,0:04:12.50,0:04:14.54,Default,,0,0,0,,¿Qué demonios era esa cosa?
+Dialogue: 0,0:04:15.38,0:04:18.34,Default,,0,0,0,,Bueno, su medidor en sí ha\Nvuelto a la normalidad, al menos.
+Dialogue: 0,0:04:19.17,0:04:21.59,Default,,0,0,0,,¡Pero bueno, paso a paso!
+Dialogue: 0,0:04:22.22,0:04:26.43,Default,,0,0,0,,¡Muchas gracias por darme\Nese foca y tu camiseta!
+Dialogue: 0,0:04:26.51,0:04:28.31,Default,,0,0,0,,¿¡La camiseta también?!
+Dialogue: 0,0:04:29.77,0:04:31.43,Default,,0,0,0,,¡Buenos días, Kanata!
+Dialogue: 0,0:04:31.68,0:04:33.31,Default,,0,0,0,,Buenos días, Marika.
+Dialogue: 0,0:04:33.89,0:04:36.52,Default,,0,0,0,,El tiempo realmente vuela\Ncuando te diviertes.
+Dialogue: 0,0:04:36.73,0:04:37.73,Default,,0,0,0,,Seguro que sí.
+Dialogue: 0,0:04:37.86,0:04:39.73,Default,,0,0,0,,¡Además esa Hannya se fue!
+Dialogue: 0,0:04:39.78,0:04:42.32,Default,,0,0,0,,Se siente como que hemos\Nacortado la distancia entre nosotros.
+Dialogue: 0,0:04:46.16,0:04:49.25,Default,,0,0,0,,Nunca cambias, ¿verdad, Kanata?

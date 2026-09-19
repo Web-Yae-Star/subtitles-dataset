@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title: ToonsHub
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gilroy-Regular,60,&H00FFFFFF,&H00FF0057,&H50000000,&HFF000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Signs,Gilroy-Semibold,65,&H00FFFFFF,&H00FF0057,&H50000000,&HFF000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Haniyae,Gilroy-SemiBold,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,9,10,10,10,1
+Style: Haniyae - Center,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Haniyae - Izquierda,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:07:05.00,Haniyae,,40,40,0,,haniyae.net
+Dialogue: 0,0:09:00.00,0:15:00.00,Haniyae - Center,,40,40,0,,haniyae.net
+Dialogue: 0,0:18:00.00,0:22:00.00,Haniyae - Izquierda,,40,40,0,,haniyae.net
+Dialogue: 0,0:00:08.18,0:00:10.55,Default,,0,0,0,,{\an8}¡Miren, ya volvieron!
+Dialogue: 0,0:00:10.76,0:00:13.30,Default,,0,0,0,,¡Los tortolitos radiantes\Ny llenos de energía!
+Dialogue: 0,0:00:13.43,0:00:15.93,Default,,0,0,0,,Bueno... más bien...
+Dialogue: 0,0:00:20.44,0:00:22.36,Default,,0,0,0,,B-Bienvenidos.
+Dialogue: 0,0:00:22.40,0:00:23.44,Default,,0,0,0,,Sí...
+Dialogue: 0,0:00:23.52,0:00:24.82,Default,,0,0,0,,Buenos días.
+Dialogue: 0,0:00:25.19,0:00:27.57,Default,,0,0,0,,Y bien, ¿cómo estuvo su cita?
+Dialogue: 0,0:00:28.40,0:00:30.82,Default,,0,0,0,,Prácticamente no pasó nada...
+Dialogue: 0,0:00:31.03,0:00:33.45,Default,,0,0,0,,¿Por qué? ¿Acaso parece que pasó algo?
+Dialogue: 0,0:00:34.03,0:00:36.33,Default,,0,0,0,,Tengo resaca y me siento fatal...
+Dialogue: 0,0:00:38.91,0:00:41.46,Default,,0,0,0,,Y... Ya veo...
+Dialogue: 0,0:00:44.42,0:00:47.21,Default,,0,0,0,,¡¿En qué carajos estaba pensando?!
+Dialogue: 0,0:00:47.21,0:00:49.42,Default,,0,0,0,,Es mi hermana. ¡Mi hermana!
+Dialogue: 0,0:00:49.88,0:00:52.43,Default,,0,0,0,,Me está matando la cabeza...
+Dialogue: 0,0:00:53.55,0:00:56.85,Default,,0,0,0,,¿Pero siento como si algo bueno hubiera pasado?
+Dialogue: 0,0:00:57.56,0:00:59.81,Default,,0,0,0,,Fui de compras con Sota,
+Dialogue: 0,0:00:59.98,0:01:02.73,Default,,0,0,0,,cenamos, tomamos unos tragos...
+Dialogue: 0,0:01:02.94,0:01:04.35,Default,,0,0,0,,y luego...
+Dialogue: 0,0:01:04.52,0:01:05.65,Default,,0,0,0,,y luego...
+Dialogue: 0,0:01:06.03,0:01:07.73,Default,,0,0,0,,¿luego qué?
+Dialogue: 0,0:01:11.45,0:01:12.82,Default,,0,0,0,,Como ya dije,
+Dialogue: 0,0:01:13.24,0:01:15.58,Default,,0,0,0,,¡no me acuerdo de nada!
+Dialogue: 0,0:01:15.74,0:01:19.58,Default,,0,0,0,,Cuando desperté, Sota estaba\Nnoqueado y con sangre en la nariz.
+Dialogue: 0,0:01:20.08,0:01:22.58,Default,,0,0,0,,Ahora ya sabemos cuál es\Nel ataque especial de Kaoru.
+Dialogue: 0,0:01:22.75,0:01:24.04,Default,,0,0,0,,¡¿Qué se supone que significa eso?!
+Dialogue: 0,0:01:24.38,0:01:25.84,Default,,0,0,0,,Bueno, Kaoru.
+Dialogue: 0,0:01:26.59,0:01:29.21,Default,,0,0,0,,Es porque amas a Sota, ¿verdad?
+Dialogue: 0,0:01:33.22,0:01:34.01,Default,,0,0,0,,¡Llegan tarde!
+Dialogue: 0,0:01:34.55,0:01:36.80,Default,,0,0,0,,¡Nos vamos a quedar sin tiempo para practicar!
+Dialogue: 0,0:01:37.56,0:01:38.56,Default,,0,0,0,,No es...
+Dialogue: 0,0:01:38.72,0:01:40.77,Default,,0,0,0,,así.
+Dialogue: 0,0:01:40.98,0:01:42.64,Default,,0,0,0,,Además, él...
+Dialogue: 0,0:01:46.40,0:01:48.52,Default,,0,0,0,,Vaya, supongo que eso nos convierte en rivales.
+Dialogue: 0,0:01:50.74,0:01:54.20,Default,,0,0,0,,Y ahora, ¿por cuál de las dos\Ndebería apoyar, me pregunto?
+Dialogue: 0,0:01:54.53,0:01:57.33,Default,,0,0,0,,¡Dije que no es así!
+Dialogue: 0,0:01:57.87,0:01:58.74,Default,,0,0,0,,¡Llegaron tarde!
+Dialogue: 0,0:01:59.12,0:02:00.08,Default,,0,0,0,,Sí, mala nuestra por completo.
+Dialogue: 0,0:02:00.33,0:02:02.62,Default,,0,0,0,,Teníamos un montón de cosas que discutir.
+Dialogue: 0,0:02:03.12,0:02:05.46,Default,,0,0,0,,¡Oh, no, me tropecé!
+Dialogue: 0,0:02:06.50,0:02:08.46,Default,,0,0,0,,¡Yo te protejo, Sota!
+Dialogue: 0,0:02:08.63,0:02:10.21,Default,,0,0,0,,¡¿A qué viene ese traje de baño?!
+Dialogue: 0,0:02:10.51,0:02:12.84,Default,,0,0,0,,Me... Me quedé enredado en la red...
+Dialogue: 0,0:02:12.93,0:02:14.22,Default,,0,0,0,,¡Y un carajo lo hiciste!
+Dialogue: 0,0:02:14.26,0:02:15.22,Default,,0,0,0,,¡¿Cómo terminé aquí?!
+Dialogue: 0,0:02:15.64,0:02:17.97,Default,,0,0,0,,Eh, ¿qué estás haciendo?
+Dialogue: 0,0:02:19.14,0:02:21.81,Default,,0,0,0,,Mis enormes tetas necesitan un respiro\Nde vez en cuando.
+Dialogue: 0,0:02:23.31,0:02:25.65,Default,,0,0,0,,Señoritas, tienen que comportar—
+Dialogue: 0,0:02:27.94,0:02:29.86,Default,,0,0,0,,Oh, vaya.
+Dialogue: 0,0:02:29.90,0:02:32.11,Default,,0,0,0,,Parece que se me resbaló la mano~
+Dialogue: 0,0:02:32.19,0:02:34.32,Default,,0,0,0,,- ¡Cielos santos!\N- ¡¿Estás bien, Sota?!
+Dialogue: 0,0:02:34.57,0:02:36.32,Default,,0,0,0,,Creo que se está haciendo más grande.
+Dialogue: 0,0:02:36.41,0:02:38.78,Default,,0,0,0,,- Espera, ¡¿en serio?!\N- ¡Ya basta, chicos!
+Dialogue: 0,0:02:44.67,0:02:46.37,Default,,0,0,0,,Eh, ¿qué estás haciendo aquí?
+Dialogue: 0,0:02:46.54,0:02:48.75,Default,,0,0,0,,Es que... estaba preocupada ya que le pegué...
+Dialogue: 0,0:02:59.01,0:03:01.35,Default,,0,0,0,,¡¿Qué estás haciendo?!
+Dialogue: 0,0:03:02.64,0:03:04.56,Default,,0,0,0,,¡A-Ayano...!
+Dialogue: 0,0:03:17.41,0:03:18.99,Default,,0,0,0,,¿Es tu primera vez?
+Dialogue: 0,0:03:19.12,0:03:20.53,Default,,0,0,0,,¡S-Sí!
+Dialogue: 0,0:03:20.70,0:03:22.12,Default,,0,0,0,,¿Se siente bien?
+Dialogue: 0,0:03:22.70,0:03:25.54,Default,,0,0,0,,S-Sí... por decir lo menos...
+Dialogue: 0,0:03:26.25,0:03:27.25,Default,,0,0,0,,Ven aquí.
+Dialogue: 0,0:03:29.42,0:03:31.04,Default,,0,0,0,,Oh, ¿te refieres a esto?
+Dialogue: 0,0:03:40.01,0:03:41.89,Default,,0,0,0,,¡No puedo aguantar más!
+Dialogue: 0,0:04:34.61,0:04:36.65,Default,,0,0,0,,Oh, hola. ¿Quieres unirte?
+Dialogue: 0,0:04:37.24,0:04:38.90,Default,,0,0,0,,¡Absolutamente no!
+Dialogue: 0,0:04:38.95,0:04:43.74,Default,,0,0,0,,¡Las cosas que dices nunca parecen\Ncoincidir con las cosas que haces!
+Dialogue: 0,0:04:46.04,0:04:49.58,Default,,0,0,0,,A ver, estamos hablando de dos\Ncosas totalmente diferentes... ¿sabes?
+Dialogue: 0,0:04:51.63,0:04:53.84,Default,,0,0,0,,¡Eres en serio lo peor!
+Dialogue: 0,0:04:53.96,0:04:56.38,Default,,0,0,0,,¿Oho? ¿Como una especie de mujer malvada?
+Dialogue: 0,0:04:56.55,0:04:59.55,Default,,0,0,0,,¡No, simplemente eres lo peor!

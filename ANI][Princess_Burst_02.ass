@@ -1,0 +1,219 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.96,0:00:24.09,Default,,0,0,0,,¡Vaya! Princess se ha levantado!
+Dialogue: 0,0:00:27.83,0:00:32.16,Default,,0,0,0,,Maldito!\NTe destrozaré esa cara y tus testículos también!
+Dialogue: 0,0:00:32.76,0:00:36.03,Default,,0,0,0,,Por eso tienes el honor concebir a mi hijo.
+Dialogue: 0,0:00:36.36,0:00:37.33,Default,,0,0,0,,Ven a atacarme.
+Dialogue: 0,0:00:37.73,0:00:42.53,Default,,0,0,0,,¡No quiero tener a tu hijo!
+Dialogue: 0,0:00:42.69,0:00:44.16,Default,,0,0,0,,Idiota!
+Dialogue: 0,0:00:49.46,0:00:51.89,Default,,0,0,0,,¿Quién hubiera esperado una situación como esta?
+Dialogue: 0,0:00:52.13,0:00:54.09,Default,,0,0,0,,¡El combate se reanuda!
+Dialogue: 0,0:01:07.86,0:01:13.69,Default,,0,0,0,,Oh! ¡Como se esperaba, el pene de King\Nha entrado en la vagina de Princess!
+Dialogue: 0,0:01:15.06,0:01:18.19,Default,,0,0,0,,Te mataré! ¡Te mataré! ¡Te voy a matar!
+Dialogue: 0,0:01:21.19,0:01:25.99,Default,,0,0,0,,Aunque gritas diciendo que no quieres,\Ntu vagina me lo aprieta.
+Dialogue: 0,0:01:28.16,0:01:31.33,Default,,0,0,0,,¡Deseas tanto quedarte embarazada\Ncon mi hijo, ¿verdad?!
+Dialogue: 0,0:01:31.43,0:01:33.73,Default,,0,0,0,,¡Deja de joder!
+Dialogue: 0,0:01:37.00,0:01:40.36,Default,,0,0,0,,Voy a venirme! ¡Da a luz a mi hijo!
+Dialogue: 0,0:01:40.36,0:01:43.39,Default,,0,0,0,,¡Para!
+Dialogue: 0,0:01:59.33,0:02:04.16,Default,,0,0,0,,¡Princess... está KO después de recibir\Nmucho semen de King!
+Dialogue: 0,0:02:04.46,0:02:05.93,Default,,0,0,0,,¡No miren!
+Dialogue: 0,0:02:07.33,0:02:08.86,Default,,0,0,0,,¡No miren!
+Dialogue: 0,0:02:13.93,0:02:17.13,Default,,0,0,0,,Te voy... a matar...
+Dialogue: 0,0:02:28.76,0:02:30.76,Default,,0,0,0,,Yo lo hice... con King...
+Dialogue: 0,0:02:33.16,0:02:34.23,Default,,0,0,0,,¡Maldita sea!
+Dialogue: 0,0:02:34.93,0:02:36.36,Default,,0,0,0,,¿Ya te has despertado?
+Dialogue: 0,0:02:39.86,0:02:42.19,Default,,0,0,0,,Por qué haces esto?!
+Dialogue: 0,0:02:43.29,0:02:47.49,Default,,0,0,0,,El King que yo conozco no haría esto!
+Dialogue: 0,0:02:47.50,0:02:49.33,Default,,0,0,0,,Es muy bueno con la gente...
+Dialogue: 0,0:02:49.59,0:02:52.59,Default,,0,0,0,,Era mi héroe!
+Dialogue: 0,0:02:54.59,0:02:57.79,Default,,0,0,0,,Sabes, los humanos tenemos dos caras.
+Dialogue: 0,0:02:57.93,0:03:01.16,Default,,0,0,0,,Es cierto que soy un luchador que defiende la verdad...
+Dialogue: 0,0:03:01.33,0:03:04.23,Default,,0,0,0,,...que quiere ayudar a mucha gente derrotando al mal.
+Dialogue: 0,0:03:04.23,0:03:05.03,Default,,0,0,0,,Pero, verás...
+Dialogue: 0,0:03:05.79,0:03:08.96,Default,,0,0,0,,También quiero luchar contra mujeres fuertes como tú...
+Dialogue: 0,0:03:08.96,0:03:10.80,Default,,0,0,0,,...y violarlas hasta que den luz a mis hijos.
+Dialogue: 0,0:03:11.03,0:03:13.06,Default,,0,0,0,,También tengo ese lado.
+Dialogue: 0,0:03:13.36,0:03:14.83,Default,,0,0,0,,¡Está loco!
+Dialogue: 0,0:03:15.86,0:03:18.43,Default,,0,0,0,,Soy consciente que he sido malo contigo...
+Dialogue: 0,0:03:18.86,0:03:24.63,Default,,0,0,0,,Así que, al menos,\Nseguiré ayudando a tu familia en el orfanato.
+Dialogue: 0,0:03:25.13,0:03:27.96,Default,,0,0,0,,También cuidaré al hijo que tienes en tu vientre.
+Dialogue: 0,0:03:31.63,0:03:33.86,Default,,0,0,0,,¡No soy tu fábrica de hacer hijos!
+Dialogue: 0,0:03:34.16,0:03:37.66,Default,,0,0,0,,¡Aunque siempre te he respetado...!
+Dialogue: 0,0:03:38.13,0:03:40.73,Default,,0,0,0,,Tú habías...
+Dialogue: 0,0:03:42.56,0:03:44.79,Default,,0,0,0,,...iluminado mi vida!
+Dialogue: 0,0:03:45.79,0:03:48.69,Default,,0,0,0,,Tus palabras me hacen feliz!
+Dialogue: 0,0:03:51.90,0:03:54.33,Default,,0,0,0,,¡Me excitan!
+Dialogue: 0,0:03:56.90,0:04:00.53,Default,,0,0,0,,¡Ya basta! ¡Ya detente!
+Dialogue: 0,0:04:00.53,0:04:03.66,Default,,0,0,0,,Yuki, jeres una mujer, sabes!
+Dialogue: 0,0:04:03.66,0:04:04.86,Default,,0,0,0,,¡Una hembra!
+Dialogue: 0,0:04:05.16,0:04:08.63,Default,,0,0,0,,Eres una hembra que no podrá vencerme!
+Dialogue: 0,0:04:08.63,0:04:09.96,Default,,0,0,0,,C-Cállate!
+Dialogue: 0,0:04:14.53,0:04:18.59,Default,,0,0,0,,Pero sabrás,\Nuna madre debe ser fuerte.
+Dialogue: 0,0:04:18.73,0:04:24.06,Default,,0,0,0,,Solo tú eres digna de cuidar a mi hijo, Yuki!
+Dialogue: 0,0:04:24.16,0:04:29.36,Default,,0,0,0,,¡No bromees! ¡No quiero ser madre todavía!
+Dialogue: 0,0:04:30.60,0:04:33.30,Default,,0,0,0,,Eres una mujer resistente, eh?
+Dialogue: 0,0:04:34.69,0:04:36.83,Default,,0,0,0,,Te querré para toda la vida!
+Dialogue: 0,0:04:39.83,0:04:42.59,Default,,0,0,0,,Ah... Ya veo... Yo...
+Dialogue: 0,0:04:43.69,0:04:46.69,Default,,0,0,0,,Esto pasa porque soy débil.
+Dialogue: 0,0:04:47.73,0:04:53.13,Default,,0,0,0,,Esto pasa porque soy débil y siempre pierdo.
+Dialogue: 0,0:04:53.66,0:04:55.83,Default,,0,0,0,,Yuki, ivoy a venirme!
+Dialogue: 0,0:04:55.83,0:04:58.26,Default,,0,0,0,,Embarázate con mi hijo!
+Dialogue: 0,0:04:58.66,0:05:01.43,Default,,0,0,0,,¡Para! ¡Para!
+Dialogue: 0,0:05:17.53,0:05:19.53,Default,,0,0,0,,Ha vuelto a venirse...
+Dialogue: 0,0:05:20.03,0:05:23.66,Default,,0,0,0,,¿Será que ahora quedaré embarazada más fácilmente?
+Dialogue: 0,0:05:27.69,0:05:29.86,Default,,0,0,0,,Te amo, Yuki.
+Dialogue: 0,0:05:30.06,0:05:32.13,Default,,0,0,0,,Ten un hijo sano.
+Dialogue: 0,0:05:35.53,0:05:37.19,Default,,0,0,0,,Unos días después de eso...
+Dialogue: 0,0:05:37.63,0:05:41.03,Default,,0,0,0,,Día y noche, en la casa de King, yo...
+Dialogue: 0,0:05:41.26,0:05:43.99,Default,,0,0,0,,seguí siendo violada por King.
+Dialogue: 0,0:05:53.86,0:05:56.89,Default,,0,0,0,,Hace mucho que no voy al orfanato.
+Dialogue: 0,0:05:58.56,0:06:01.26,Default,,0,0,0,,Yuki! Dónde habías estado?
+Dialogue: 0,0:06:01.26,0:06:06.89,Default,,0,0,0,,Ah! ¡He estado en un torneo y\Nen un campamento de entrenamiento!
+Dialogue: 0,0:06:07.13,0:06:09.06,Default,,0,0,0,,Ah! Ah, si?
+Dialogue: 0,0:06:09.23,0:06:14.73,Default,,0,0,0,,Sí, gracias al dinero que has ganado,\Nhemos podido comprar muchas cosas!
+Dialogue: 0,0:06:15.29,0:06:20.83,Default,,0,0,0,,Dicen que quieren estudiar y ser médicos y pilotos!
+Dialogue: 0,0:06:22.29,0:06:25.06,Default,,0,0,0,,Ya veo. ¡Menos mal!
+Dialogue: 0,0:06:25.93,0:06:29.63,Default,,0,0,0,,Menos mal,\Nino me equivoqué con mi decisión!
+Dialogue: 0,0:06:29.63,0:06:31.39,Default,,0,0,0,,Yuki, ¿qué pasa?
+Dialogue: 0,0:06:31.39,0:06:33.86,Default,,0,0,0,,¡No, nada! No es nada.
+Dialogue: 0,0:06:33.86,0:06:36.23,Default,,0,0,0,,Pues, no te fuerces, bien?
+Dialogue: 0,0:06:38.36,0:06:39.46,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:06:42.16,0:06:48.83,Default,,0,0,0,,A partir de ahora, entrenaremos aquí\Npara desarrollar aun más tu talento.
+Dialogue: 0,0:06:49.36,0:06:50.99,Default,,0,0,0,,Eso es solo una excusa...
+Dialogue: 0,0:06:51.00,0:06:54.56,Default,,0,0,0,,En realidad, solo quieres tener sexo conmigo, verdad?
+Dialogue: 0,0:06:54.83,0:06:56.23,Default,,0,0,0,,No lo niego.
+Dialogue: 0,0:06:56.23,0:07:00.03,Default,,0,0,0,,Quizás podamos compartir amor más adelante.
+Dialogue: 0,0:07:00.03,0:07:02.29,Default,,0,0,0,,¿Qué amor? ¡Tonto!
+Dialogue: 0,0:07:02.29,0:07:04.33,Default,,0,0,0,,Es solo violencia unilateral!
+Dialogue: 0,0:07:04.33,0:07:07.23,Default,,0,0,0,,La violencia es solo una parte de mí.
+Dialogue: 0,0:07:07.43,0:07:12.63,Default,,0,0,0,,Te respeto como luchador y te amo como ser humano.
+Dialogue: 0,0:07:12.83,0:07:17.59,Default,,0,0,0,,Es un poco agobiante, pero\Nparece que él realmente me ama.
+Dialogue: 0,0:07:17.60,0:07:21.23,Default,,0,0,0,,Desde el principio, yo lo respetaba...
+Dialogue: 0,0:07:21.23,0:07:24.76,Default,,0,0,0,,Me encantaría que me entrenara personalmente...
+Dialogue: 0,0:07:24.89,0:07:28.23,Default,,0,0,0,,¡Pero no quiero ser madre todavía!
+Dialogue: 0,0:07:28.23,0:07:31.56,Default,,0,0,0,,No, primero tengo que centrarme\Nen las artes marciales.
+Dialogue: 0,0:07:31.56,0:07:32.73,Default,,0,0,0,,Decidido!
+Dialogue: 0,0:07:32.73,0:07:34.83,Default,,0,0,0,,No quiero que él me entrene...
+Dialogue: 0,0:07:34.83,0:07:37.53,Default,,0,0,0,,pero llegado a esto, lo haré con todo!
+Dialogue: 0,0:07:39.43,0:07:43.59,Default,,0,0,0,,Desde entonces, King me ha estado entrenando.
+Dialogue: 0,0:07:45.16,0:07:46.66,Default,,0,0,0,,Si, bien hecho.
+Dialogue: 0,0:07:46.83,0:07:49.89,Default,,0,0,0,,Esfuerzate poco a poco\Npara ser cada vez más fuerte.
+Dialogue: 0,0:07:50.00,0:07:51.63,Default,,0,0,0,,Ya lo sé.
+Dialogue: 0,0:07:52.93,0:07:55.96,Default,,0,0,0,,No me gusta esto.
+Dialogue: 0,0:07:55.96,0:07:59.73,Default,,0,0,0,,Eres tan quisquillosa delante\Nde los niños de tu familia en el orfanato?
+Dialogue: 0,0:07:59.73,0:08:01.59,Default,,0,0,0,,¡Maldición! ¡Ya lo sé!
+Dialogue: 0,0:08:03.03,0:08:04.69,Default,,0,0,0,,¡Esto está bueno!
+Dialogue: 0,0:08:04.89,0:08:07.49,Default,,0,0,0,,Lo he adaptado a tu gusto.
+Dialogue: 0,0:08:07.69,0:08:09.49,Default,,0,0,0,,No seas exigente con la comida.
+Dialogue: 0,0:08:17.13,0:08:18.83,Default,,0,0,0,,¡Ataca! ¡Ahí!
+Dialogue: 0,0:08:18.83,0:08:20.23,Default,,0,0,0,,¡Vamos! ¡Ahí!
+Dialogue: 0,0:08:20.23,0:08:23.43,Default,,0,0,0,,¡Ah! ¡Deberías haberlo pateado!
+Dialogue: 0,0:08:23.50,0:08:24.63,Default,,0,0,0,,¡Vamos! ¡Vamos!
+Dialogue: 0,0:08:26.79,0:08:28.59,Default,,0,0,0,,Eh? ¿Qué estás diciendo?
+Dialogue: 0,0:08:28.60,0:08:30.39,Default,,0,0,0,,Si él retrocede primero, entonces...
+Dialogue: 0,0:08:30.39,0:08:32.83,Default,,0,0,0,,...llevarlo al aire sería más emocionante, ¿no?
+Dialogue: 0,0:08:32.83,0:08:35.66,Default,,0,0,0,,Lo que dices es cierto, pero...
+Dialogue: 0,0:08:36.00,0:08:38.10,Default,,0,0,0,,¿Tu cerebro está dañado?
+Dialogue: 0,0:08:38.10,0:08:41.30,Default,,0,0,0,,Por tener demasiado sexo conmigo\Nse te jodió el cerebro?
+Dialogue: 0,0:08:48.23,0:08:51.66,Default,,0,0,0,,Es un violador de mierda...
+Dialogue: 0,0:08:52.50,0:08:55.53,Default,,0,0,0,,Pero su entrenamiento es realmente bueno.
+Dialogue: 0,0:08:57.66,0:09:03.86,Default,,0,0,0,,Siempre se ha ocupado de mi alimentación y\Nmi entrenamiento durante estos meses.
+Dialogue: 0,0:09:04.43,0:09:09.53,Default,,0,0,0,,Nunca ha sido rudo o violento\Ny realmente me ha cuidado.
+Dialogue: 0,0:09:09.83,0:09:14.43,Default,,0,0,0,,Excepto durante los combates,\Nes realmente una buena persona.
+Dialogue: 0,0:09:16.43,0:09:18.56,Default,,0,0,0,,He empezado a sentir...
+Dialogue: 0,0:09:19.93,0:09:24.70,Default,,0,0,0,,...que él me quiere.
+Dialogue: 0,0:09:25.23,0:09:27.49,Default,,0,0,0,,¿Qué es este sentimiento?
+Dialogue: 0,0:09:31.60,0:09:33.66,Default,,0,0,0,,Maldición! ¡Sueltame!
+Dialogue: 0,0:09:34.19,0:09:36.63,Default,,0,0,0,,Yuki, haz pis aquí.
+Dialogue: 0,0:09:36.96,0:09:38.33,Default,,0,0,0,,¿P-Pis?
+Dialogue: 0,0:09:38.40,0:09:40.03,Default,,0,0,0,,Si orinas ahí...
+Dialogue: 0,0:09:40.40,0:09:45.00,Default,,0,0,0,,Podremos saber si estás embarazada con mi hijo o no.
+Dialogue: 0,0:09:45.00,0:09:50.13,Default,,0,0,0,,Aunque esté me resista aquí,\Neventualmente mi vientre crecerá y será obvio.
+Dialogue: 0,0:09:50.63,0:09:51.53,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:09:54.93,0:09:57.63,Default,,0,0,0,,Esto sigue siendo vergonzoso!
+Dialogue: 0,0:09:59.63,0:10:02.03,Default,,0,0,0,,Oye! ¡Ya terminé! ¡Bájame!
+Dialogue: 0,0:10:02.03,0:10:04.53,Default,,0,0,0,,No, espera a que salgan los resultados.
+Dialogue: 0,0:10:05.19,0:10:06.43,Default,,0,0,0,,¡El resultado es...
+Dialogue: 0,0:10:06.63,0:10:09.53,Default,,0,0,0,,..es positivo! ¡Está embarazada!
+Dialogue: 0,0:10:09.53,0:10:10.90,Default,,0,0,0,,¿Es una broma, verdad?
+Dialogue: 0,0:10:10.90,0:10:12.73,Default,,0,0,0,,¡Se reanuda el combate!
+Dialogue: 0,0:10:13.69,0:10:17.23,Default,,0,0,0,,Yuki, jeres una mujer increíble!
+Dialogue: 0,0:10:17.23,0:10:19.63,Default,,0,0,0,,Eres más fuerte y linda que cualquier otra mujer!
+Dialogue: 0,0:10:19.63,0:10:22.29,Default,,0,0,0,,Tus palabras no me alegran!
+Dialogue: 0,0:10:22.66,0:10:26.83,Default,,0,0,0,,Te... odio!
+Dialogue: 0,0:10:27.86,0:10:30.26,Default,,0,0,0,,Te sigues siendo la fuerte, ¿eh?
+Dialogue: 0,0:10:30.26,0:10:35.06,Default,,0,0,0,,Cada vez que te derroto en un combate,\Nya no te resistes, ¿verdad?
+Dialogue: 0,0:10:35.06,0:10:36.30,Default,,0,0,0,,¡No!
+Dialogue: 0,0:10:37.00,0:10:42.00,Default,,0,0,0,,¡Tu vagina se aprieta más cuando\Nte violo delante del público!
+Dialogue: 0,0:10:42.00,0:10:44.26,Default,,0,0,0,,¡Eso no es cierto!
+Dialogue: 0,0:10:45.40,0:10:50.23,Default,,0,0,0,,¡No me beses! ¡Para! ¡Me voy a volver loca!
+Dialogue: 0,0:10:50.23,0:10:52.89,Default,,0,0,0,,Luchas con todas tus fuerzas y luego pierdes...
+Dialogue: 0,0:10:52.90,0:10:57.23,Default,,0,0,0,,Después de eso, te violo.\NTe da gusto eso, ¿verdad?
+Dialogue: 0,0:10:57.23,0:11:00.46,Default,,0,0,0,,¡No! ¡Yo no deseo esto!
+Dialogue: 0,0:11:00.83,0:11:05.16,Default,,0,0,0,,Sus besos son increíbles y se sienten bien!
+Dialogue: 0,0:11:05.53,0:11:08.70,Default,,0,0,0,,El conoce todos mis puntos sensibles.
+Dialogue: 0,0:11:08.96,0:11:13.80,Default,,0,0,0,,¡Haciéndome esto no debería\Nhacerme sentir bien y feliz!
+Dialogue: 0,0:11:13.96,0:11:17.29,Default,,0,0,0,,¡Pero mi cuerpo lo disfruta por sí solo!
+Dialogue: 0,0:11:17.29,0:11:20.63,Default,,0,0,0,,Te convertiré en la mujer más fuerte del mundo.
+Dialogue: 0,0:11:21.60,0:11:25.29,Default,,0,0,0,,¡Solo te amaré a ti de corazón!
+Dialogue: 0,0:11:25.29,0:11:26.73,Default,,0,0,0,,Basta!
+Dialogue: 0,0:11:26.73,0:11:31.09,Default,,0,0,0,,¿Por qué no nos llevamos bien,\Npor el bien de nuestro hijo que está por nacer?
+Dialogue: 0,0:11:31.53,0:11:34.53,Default,,0,0,0,,Me ha hecho tal cosa, pero...
+Dialogue: 0,0:11:34.93,0:11:40.53,Default,,0,0,0,,él me da amor a mí y a los niños del orfanato.\N***
+Dialogue: 0,0:11:40.69,0:11:44.19,Default,,0,0,0,,¡Ya no puedo más! ¡No! ¡Me voy a volver loca!
+Dialogue: 0,0:11:44.19,0:11:45.83,Default,,0,0,0,,¡Ya no puedo más!
+Dialogue: 0,0:11:45.83,0:11:49.99,Default,,0,0,0,,R-Realmente me convertiré en la mujer de este hombre...
+Dialogue: 0,0:11:50.69,0:11:51.83,Default,,0,0,0,,Yo...
+Dialogue: 0,0:11:52.10,0:11:54.30,Default,,0,0,0,,¡Yo también te quiero!
+Dialogue: 0,0:11:57.13,0:12:01.93,Default,,0,0,0,,Esas no son palabras\Nque saldrían de una mujer como yo!
+Dialogue: 0,0:12:02.10,0:12:05.93,Default,,0,0,0,,Me reconoce como luchadora a alguien como yo...
+Dialogue: 0,0:12:05.93,0:12:08.96,Default,,0,0,0,,y tiene sexo conmigo para que tenga su bebé.
+Dialogue: 0,0:12:08.96,0:12:12.79,Default,,0,0,0,,Tanto me quieres?
+Dialogue: 0,0:12:12.79,0:12:14.56,Default,,0,0,0,,Ya te lo dije, no?
+Dialogue: 0,0:12:14.69,0:12:17.93,Default,,0,0,0,,Te amo tanto que quiero tener un hijo contigo!
+Dialogue: 0,0:12:22.83,0:12:25.13,Default,,0,0,0,,Tienes que asumir la responsabilidad, bien?
+Dialogue: 0,0:12:25.13,0:12:27.19,Default,,0,0,0,,¡Te mataré si me engañas!
+Dialogue: 0,0:12:28.06,0:12:30.23,Default,,0,0,0,,¡Por supuesto! ¡Toma esto!
+Dialogue: 0,0:12:30.23,0:12:33.26,Default,,0,0,0,,S-Se siente bien! ¡Tu pene se siente rico!
+Dialogue: 0,0:12:33.26,0:12:37.33,Default,,0,0,0,,¡Penetra la vagina de esta mujer triste con más fuerza!
+Dialogue: 0,0:12:37.53,0:12:43.00,Default,,0,0,0,,Te seguiré follando así cada vez que pierdas,\Nhasta que te quedes embarazada con mi hijo!
+Dialogue: 0,0:12:43.00,0:12:46.96,Default,,0,0,0,,Si dices eso, ime dan ganas de querer un bebé!
+Dialogue: 0,0:12:49.10,0:12:53.03,Default,,0,0,0,,Q-Quiero la semilla de bebé de un hombre fuerte!
+Dialogue: 0,0:12:53.03,0:12:55.70,Default,,0,0,0,,¡Quiero luchar en serio y luego perder!
+Dialogue: 0,0:12:56.19,0:12:58.93,Default,,0,0,0,,¡Quiero que hagas un desastre mi vagina con tu pene!
+Dialogue: 0,0:12:58.93,0:13:03.10,Default,,0,0,0,,Tu deseo se ha cumplido, no?!\N¡Mujer pervertida!
+Dialogue: 0,0:13:04.00,0:13:08.13,Default,,0,0,0,,¡Muchas gracias! ¡Por favor, viólame otra vez!
+Dialogue: 0,0:13:08.13,0:13:10.33,Default,,0,0,0,,¡Hazme un desastre con tu pene!
+Dialogue: 0,0:13:10.33,0:13:14.96,Default,,0,0,0,,Si pierdo, ¡tendré un bebé en mi vientre!
+Dialogue: 0,0:13:20.83,0:13:25.79,Default,,0,0,0,,Yo, ahora mismo, me siento muy feliz.
+Dialogue: 0,0:13:26.79,0:13:28.33,Default,,0,0,0,,Estoy en casa!
+Dialogue: 0,0:13:28.60,0:13:33.10,Default,,0,0,0,,¡Vaya! Yuki! Hacía tiempo que no te veía,\Njestaba preocupada por ti...!
+Dialogue: 0,0:13:33.23,0:13:34.26,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:13:34.60,0:13:36.60,Default,,0,0,0,,¿Es posible que...?
+Dialogue: 0,0:13:36.79,0:13:39.73,Default,,0,0,0,,Son mis hijos y de King.
+Dialogue: 0,0:13:40.23,0:13:44.99,Default,,0,0,0,,Yo, ahora mismo, jestoy muy feliz!\N¡Voy a esforzarme aún más!
+Dialogue: 0,0:13:45.00,0:13:48.13,Default,,0,0,0,,Vaya, vaya.\NHazlo según lo planeado, bien?
+Dialogue: 0,0:13:50.36,0:13:52.69,Default,,0,0,0,,El encuentro de hoy entre...
+Dialogue: 0,0:13:53.90,0:13:55.36,Default,,0,0,0,,Princess contra King...
+Dialogue: 0,0:13:55.36,0:13:57.43,Default,,0,0,0,,está a punto de comenzar!
+Dialogue: 0,0:13:58.33,0:14:01.93,Default,,0,0,0,,¡Primero, esta persona, él es nuestro King!
+Dialogue: 0,0:14:02.73,0:14:06.93,Default,,0,0,0,,Y su oponente es su esposa.\NLa madre de cinco hijos...
+Dialogue: 0,0:14:06.93,0:14:09.93,Default,,0,0,0,,Princess Burst, Sakurano Yuki!
+Dialogue: 0,0:14:11.56,0:14:14.20,Default,,0,0,0,,¡Atácame con todas tus fuerzas!
+Dialogue: 0,0:14:14.96,0:14:19.70,Default,,0,0,0,,Entonces... si pierdo,\Niviólame y hazme un desastre!
+Dialogue: 0,0:14:19.90,0:14:22.90,Default,,0,0,0,,¡Pero no voy a perder, ¿entendido?!
+Dialogue: 0,0:14:45.40,0:14:48.00,Default,,0,0,0,,¡Comienza el combate!
+Dialogue: 0,0:14:51.63,0:14:56.46,Default,,0,0,0,,Con esto, Princess seguro que quedará\Nembarazada con el sexto hijo!
+Dialogue: 0,0:14:59.63,0:15:05.99,Default,,0,0,0,,Después de luchar con todas mis fuerzas, perder y\Nser violada hasta quedar embarazada...
+Dialogue: 0,0:15:06.56,0:15:10.03,Default,,0,0,0,,frealmente se siente de maravilla...!

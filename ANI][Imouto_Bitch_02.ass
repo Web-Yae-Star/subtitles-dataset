@@ -1,0 +1,172 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FF0057,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.69,0:00:09.61,Default,,0,0,0,,Ay no...
+Dialogue: 0,0:00:19.62,0:00:21.91,Default,,0,0,0,,No... ¡Se siente tan rico!
+Dialogue: 0,0:00:26.79,0:00:28.50,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:00:46.35,0:00:48.06,Default,,0,0,0,,Onii-chan...
+Dialogue: 0,0:00:53.95,0:00:57.97,Default,,0,0,0,,Imouto Bitch ni Shiboraretai❤ Quiero que mi hermana perra me exprima❤﻿
+Dialogue: 0,0:00:57.97,0:01:01.99,Default,,0,0,0,,Mi hermanita es una máquina de coger viviente❤~Sayaka es el juguete sexual personal de Onii-chan~﻿
+Dialogue: 0,0:01:05.21,0:01:06.75,Default,,0,0,0,,Es un agujero...
+Dialogue: 0,0:01:06.75,0:01:09.92,Default,,0,0,0,,Hay un agujero en la pared.
+Dialogue: 0,0:01:11.00,0:01:12.67,Default,,0,0,0,,¿Será una de sus bromas?
+Dialogue: 0,0:01:12.67,0:01:15.68,Default,,0,0,0,,Deja de mirarme así, pervertido.
+Dialogue: 0,0:01:15.68,0:01:17.93,Default,,0,0,0,,No lo creo...
+Dialogue: 0,0:01:19.64,0:01:22.52,Default,,0,0,0,,¿Ya llegó ella a casa?
+Dialogue: 0,0:01:23.73,0:01:28.02,Default,,0,0,0,,Sé que estoy por hacer algo bien pervertido.
+Dialogue: 0,0:01:32.86,0:01:34.86,Default,,0,0,0,,Llegó justo a tiempo.
+Dialogue: 0,0:01:39.16,0:01:43.16,Default,,0,0,0,,Nunca pensé que vería a mi hermana menor masturbándose.
+Dialogue: 0,0:01:44.54,0:01:47.50,Default,,0,0,0,,Sabía que... Esto no me basta...
+Dialogue: 0,0:01:52.63,0:01:53.96,Default,,0,0,0,,Sayaka...
+Dialogue: 0,0:01:53.96,0:01:56.22,Default,,0,0,0,,La concha desnuda de mi hermana...
+Dialogue: 0,0:01:59.72,0:02:03.22,Default,,0,0,0,,Esto está mal... No puedo parar mis dedos...
+Dialogue: 0,0:02:09.69,0:02:12.36,Default,,0,0,0,,Ya casi...
+Dialogue: 0,0:02:12.36,0:02:13.40,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:02:14.57,0:02:15.86,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:02:25.95,0:02:27.66,Default,,0,0,0,,Onii-chan...
+Dialogue: 0,0:02:28.87,0:02:33.59,Default,,0,0,0,,Nunca escuché lo que dijo ese día.
+Dialogue: 0,0:02:35.96,0:02:37.55,Default,,0,0,0,,Eres un cobarde.
+Dialogue: 0,0:02:41.47,0:02:45.22,Default,,0,0,0,,Sea como sea, esto es bien raro.
+Dialogue: 0,0:02:47.14,0:02:51.52,Default,,0,0,0,,Debería haber notado un agujero tan obvio.
+Dialogue: 0,0:02:53.19,0:02:57.15,Default,,0,0,0,,¿Será que se calentó tanto aun sabiendo que yo estaba espiando?
+Dialogue: 0,0:02:57.61,0:03:00.20,Default,,0,0,0,,No, no puede ser.
+Dialogue: 0,0:03:00.95,0:03:02.32,Default,,0,0,0,,Ya estoy en casa.
+Dialogue: 0,0:03:02.32,0:03:04.45,Default,,0,0,0,,Sayaka acaba de llegar.
+Dialogue: 0,0:03:04.45,0:03:06.33,Default,,0,0,0,,¿Qué hago ahora?
+Dialogue: 0,0:03:07.41,0:03:11.21,Default,,0,0,0,,¿Debería espiarla de nuevo mientras se toca?
+Dialogue: 0,0:03:21.76,0:03:23.59,Default,,0,0,0,,Así es como es...
+Dialogue: 0,0:03:24.76,0:03:29.23,Default,,0,0,0,,H-hay un hongo creciendo en la pared.
+Dialogue: 0,0:03:30.56,0:03:32.56,Default,,0,0,0,,Me dio hambre.
+Dialogue: 0,0:03:32.56,0:03:34.48,Default,,0,0,0,,Tal vez debería comérmelo.
+Dialogue: 0,0:03:39.36,0:03:41.78,Default,,0,0,0,,Esto es la verga de onii-chan.
+Dialogue: 0,0:03:43.53,0:03:45.74,Default,,0,0,0,,Por fin puedo mostrar quién realmente soy.
+Dialogue: 0,0:03:45.74,0:03:49.70,Default,,0,0,0,,Al fin tengo lo que quería gracias a este agujero.
+Dialogue: 0,0:03:50.41,0:03:51.41,Default,,0,0,0,,Mmm...
+Dialogue: 0,0:03:55.71,0:03:56.67,Default,,0,0,0,,Delicioso...
+Dialogue: 0,0:03:57.17,0:03:58.63,Default,,0,0,0,,¡Qué rico!
+Dialogue: 0,0:04:03.51,0:04:05.43,Default,,0,0,0,,Yo... ¡me vengo!
+Dialogue: 0,0:04:09.93,0:04:12.02,Default,,0,0,0,,Se siente calentito.
+Dialogue: 0,0:04:13.81,0:04:16.90,Default,,0,0,0,,Esto es semen de onii-chan.
+Dialogue: 0,0:04:16.90,0:04:21.03,Default,,0,0,0,,¡Más... quiero más!
+Dialogue: 0,0:04:24.53,0:04:29.54,Default,,0,0,0,,Me alegro de hacerlo venirse mientras disfruto de su verga.
+Dialogue: 0,0:04:29.54,0:04:31.79,Default,,0,0,0,,Te amo, onii-chan.
+Dialogue: 0,0:04:33.16,0:04:36.63,Default,,0,0,0,,He sido cruel solo porque me da vergüenza.
+Dialogue: 0,0:04:38.42,0:04:42.76,Default,,0,0,0,,Pero la verdad es que lo amo demasiado.
+Dialogue: 0,0:04:50.52,0:04:53.18,Default,,0,0,0,,Me vengo otra vez, Sayaka.
+Dialogue: 0,0:04:55.81,0:04:58.90,Default,,0,0,0,,¡Dámelo! ¡Sácamelo todo!
+Dialogue: 0,0:05:15.87,0:05:18.54,Default,,0,0,0,,Todavía quiero saborear más de eso...
+Dialogue: 0,0:05:40.48,0:05:42.98,Default,,0,0,0,,Hoy me esforcé bastante en el club.
+Dialogue: 0,0:05:42.98,0:05:45.86,Default,,0,0,0,,Tal vez me estire un poco en mi cuarto.
+Dialogue: 0,0:05:47.36,0:05:52.41,Default,,0,0,0,,Puedo usar la pared y estirarme bien.
+Dialogue: 0,0:05:55.83,0:05:58.71,Default,,0,0,0,,¿A eso se refería?
+Dialogue: 0,0:06:03.00,0:06:07.38,Default,,0,0,0,,Hoy está... justo bien...
+Dialogue: 0,0:06:07.84,0:06:10.72,Default,,0,0,0,,Eso dijo el horóscopo.
+Dialogue: 0,0:06:10.72,0:06:14.22,Default,,0,0,0,,Y también es día no fértil.
+Dialogue: 0,0:06:14.22,0:06:16.10,Default,,0,0,0,,Creo que a esto le dicen "día seguro".
+Dialogue: 0,0:06:19.52,0:06:22.23,Default,,0,0,0,,¡Hay un onahole en este lugar!
+Dialogue: 0,0:06:23.15,0:06:25.07,Default,,0,0,0,,¿O-Onahole?
+Dialogue: 0,0:06:27.07,0:06:30.66,Default,,0,0,0,,Qué suerte encontrar un onahole viviente aquí.
+Dialogue: 0,0:06:30.66,0:06:32.37,Default,,0,0,0,,Supongo que hay que probarlo.
+Dialogue: 0,0:06:45.00,0:06:47.97,Default,,0,0,0,,¡Este onahole está apretado!
+Dialogue: 0,0:06:50.43,0:06:53.76,Default,,0,0,0,,¿Eh? Me acordé de Sayaka.
+Dialogue: 0,0:06:53.76,0:06:56.56,Default,,0,0,0,,¿Ya habrá terminado de estirarse?
+Dialogue: 0,0:07:03.31,0:07:06.57,Default,,0,0,0,,Tan profundo... ¡Está entrando todo!
+Dialogue: 0,0:07:08.99,0:07:13.03,Default,,0,0,0,,¡Puedo sentir tu verga besando mi matriz!
+Dialogue: 0,0:07:13.03,0:07:15.79,Default,,0,0,0,,¡La concha se adapta totalmente a tu verga!
+Dialogue: 0,0:07:16.49,0:07:19.21,Default,,0,0,0,,¡Me estoy volviendo adicta al onahole!
+Dialogue: 0,0:07:20.96,0:07:22.83,Default,,0,0,0,,M-Más, métemela toda.
+Dialogue: 0,0:07:22.83,0:07:26.75,Default,,0,0,0,,¡Estira mi concha más, déjala bien floja!
+Dialogue: 0,0:07:32.30,0:07:36.43,Default,,0,0,0,,¡Deja mi concha con la forma de tu verga!
+Dialogue: 0,0:07:37.39,0:07:38.52,Default,,0,0,0,,¡Sayaka!
+Dialogue: 0,0:07:40.43,0:07:45.31,Default,,0,0,0,,¡Así mismo! ¡Llena de semen mi concha!
+Dialogue: 0,0:07:48.40,0:07:50.36,Default,,0,0,0,,¡Onii-chan!
+Dialogue: 0,0:07:54.16,0:07:58.45,Default,,0,0,0,,¡Hay tanto que me vas a reventar la concha!
+Dialogue: 0,0:08:00.04,0:08:01.62,Default,,0,0,0,,¡Me vas a destruir!
+Dialogue: 0,0:08:02.62,0:08:05.21,Default,,0,0,0,,Sayaka, estás sangrando...
+Dialogue: 0,0:08:05.84,0:08:10.30,Default,,0,0,0,,B-bueno... el sello de seguridad se rompió bien.
+Dialogue: 0,0:08:10.30,0:08:11.30,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:08:12.72,0:08:17.39,Default,,0,0,0,,Con esto, ya estás registrada como propietaria.
+Dialogue: 0,0:08:17.39,0:08:19.22,Default,,0,0,0,,Sayaka, tú...
+Dialogue: 0,0:08:20.27,0:08:24.44,Default,,0,0,0,,¡Onaholes recién estrenados son lo mejor!
+Dialogue: 0,0:08:27.06,0:08:32.65,Default,,0,0,0,,Quiero cuidar bien este onahole desde ahora.
+Dialogue: 0,0:08:36.28,0:08:37.78,Default,,0,0,0,,Onii-chan...
+Dialogue: 0,0:08:40.95,0:08:45.79,Default,,0,0,0,,Después de eso, seguí usando el onahole de mi hermana todos los días.
+Dialogue: 0,0:08:47.54,0:08:49.92,Default,,0,0,0,,¡Quiero que lo sientas más!
+Dialogue: 0,0:08:49.92,0:08:53.26,Default,,0,0,0,,¡Deslízate entre las tetas-onahole de tu hermanita!
+Dialogue: 0,0:08:54.05,0:08:56.84,Default,,0,0,0,,Como debe ser, un onahole viviente.
+Dialogue: 0,0:08:56.84,0:08:59.22,Default,,0,0,0,,También sirve para meterla entre las tetas.
+Dialogue: 0,0:08:59.68,0:09:04.14,Default,,0,0,0,,Está equipado con función de autoaprendizaje.
+Dialogue: 0,0:09:05.81,0:09:09.77,Default,,0,0,0,,¡Corre todas las veces que quieras!
+Dialogue: 0,0:09:11.86,0:09:15.65,Default,,0,0,0,,¡Lánzalo sobre mi concha de tetas!
+Dialogue: 0,0:09:16.24,0:09:17.24,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:09:22.12,0:09:26.58,Default,,0,0,0,,Se siente buenísimo cuando mi clítoris y tu verga dura se frotan juntos.
+Dialogue: 0,0:09:30.21,0:09:33.30,Default,,0,0,0,,Tengo tantas ganas de que me la metas.
+Dialogue: 0,0:09:33.30,0:09:35.55,Default,,0,0,0,,¡Ya no aguanto más!
+Dialogue: 0,0:09:36.63,0:09:42.06,Default,,0,0,0,,¡Ding-dong! ¡Preparativos para la metida listos!
+Dialogue: 0,0:09:43.64,0:09:47.23,Default,,0,0,0,,¡Oigan, ustedes dos! ¡La cena ya casi está!
+Dialogue: 0,0:09:47.23,0:09:49.44,Default,,0,0,0,,¡Espera—
+Dialogue: 0,0:09:54.11,0:09:55.44,Default,,0,0,0,,Ya entró.
+Dialogue: 0,0:09:59.78,0:10:03.04,Default,,0,0,0,,Oye, Sayaka. ¿Qué pasa?
+Dialogue: 0,0:10:04.25,0:10:07.04,Default,,0,0,0,,Espera, ¡ya me vengo!
+Dialogue: 0,0:10:07.04,0:10:09.50,Default,,0,0,0,,¡Ay no! ¡Me corro!
+Dialogue: 0,0:10:17.51,0:10:21.60,Default,,0,0,0,,Ay... bájense rápido a cenar.
+Dialogue: 0,0:10:22.76,0:10:24.68,Default,,0,0,0,,Vale...
+Dialogue: 0,0:10:28.94,0:10:31.65,Default,,0,0,0,,Espera, quiero contarte algo.
+Dialogue: 0,0:10:33.36,0:10:39.16,Default,,0,0,0,,Un chico de la escuela me confesó hoy.
+Dialogue: 0,0:10:39.61,0:10:42.37,Default,,0,0,0,,¿Ah sí? Bien por él.
+Dialogue: 0,0:10:42.37,0:10:46.33,Default,,0,0,0,,¿Solo eso? ¡Qué estúpida me siento contándote esto!
+Dialogue: 0,0:10:46.33,0:10:49.33,Default,,0,0,0,,Ay... ¡Hermano pervertido idiota!
+Dialogue: 0,0:10:53.79,0:10:55.38,Default,,0,0,0,,Onii-chan, mira...
+Dialogue: 0,0:10:57.30,0:11:00.76,Default,,0,0,0,,Hice tal cual dijiste.
+Dialogue: 0,0:11:00.76,0:11:03.80,Default,,0,0,0,,Hoy fui a la escuela sin usar panties.
+Dialogue: 0,0:11:04.56,0:11:05.56,Default,,0,0,0,,¿Ves?
+Dialogue: 0,0:11:06.85,0:11:10.73,Default,,0,0,0,,Estaba tan nerviosa con la confesión,
+Dialogue: 0,0:11:10.73,0:11:13.48,Default,,0,0,0,,pensé que iba a morirme de vergüenza.
+Dialogue: 0,0:11:14.73,0:11:19.61,Default,,0,0,0,,Hoy me vas a dejar la concha hecha mierda como premio, ¿verdad?
+Dialogue: 0,0:11:19.61,0:11:21.16,Default,,0,0,0,,Ya entendí.
+Dialogue: 0,0:11:23.37,0:11:26.99,Default,,0,0,0,,Verga... ¡quiero verga!
+Dialogue: 0,0:11:26.99,0:11:31.00,Default,,0,0,0,,Te voy a destruir tal y como querías.
+Dialogue: 0,0:11:34.84,0:11:37.42,Default,,0,0,0,,¡Aquí va la verga!
+Dialogue: 0,0:11:39.38,0:11:42.89,Default,,0,0,0,,¡Ya me corro sólo de sentirla entrar!
+Dialogue: 0,0:11:43.89,0:11:46.81,Default,,0,0,0,,¡Algo enorme viene!
+Dialogue: 0,0:11:46.81,0:11:49.39,Default,,0,0,0,,¡Extrañaba esta verga!
+Dialogue: 0,0:11:54.27,0:11:58.90,Default,,0,0,0,,Me quedé en blanco, ya no pienso en nada.
+Dialogue: 0,0:11:58.90,0:12:03.74,Default,,0,0,0,,¡Mi concha se siente increíble! ¡Me estoy volviendo loca!
+Dialogue: 0,0:12:04.66,0:12:07.28,Default,,0,0,0,,Ya te vienes desde hace rato, ¿no?
+Dialogue: 0,0:12:07.28,0:12:09.54,Default,,0,0,0,,¿Por venir a la escuela sin panties?
+Dialogue: 0,0:12:10.75,0:12:13.46,Default,,0,0,0,,Es que... se siente tan bien...
+Dialogue: 0,0:12:13.46,0:12:17.50,Default,,0,0,0,,Ya me vengo, toma toda mi leche.
+Dialogue: 0,0:12:19.42,0:12:21.63,Default,,0,0,0,,Estoy feliz.
+Dialogue: 0,0:12:22.30,0:12:23.72,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:12:27.30,0:12:28.97,Default,,0,0,0,,¡C-córrete!
+Dialogue: 0,0:12:34.65,0:12:38.61,Default,,0,0,0,,¡Estoy llena de semen!
+Dialogue: 0,0:12:40.94,0:12:45.16,Default,,0,0,0,,Se sintió tan rico que me hice pis.
+Dialogue: 0,0:12:47.37,0:12:51.08,Default,,0,0,0,,Estamos lejos de ser hermanos normales pero...
+Dialogue: 0,0:12:51.70,0:12:53.79,Default,,0,0,0,,¡soy tan feliz!
+Dialogue: 0,0:12:54.33,0:12:58.46,Default,,0,0,0,,Soy el juguete sexual de onii-chan,
+Dialogue: 0,0:12:58.46,0:13:01.67,Default,,0,0,0,,así que úsame con cariño,
+Dialogue: 0,0:13:01.67,0:13:03.72,Default,,0,0,0,,y ámame más.
+Dialogue: 0,0:13:06.09,0:13:08.47,Default,,0,0,0,,¡Por supuesto que lo haré!
+Dialogue: 0,0:13:15.27,0:13:19.48,Default,,0,0,0,,Tienes el cuerpo hecho para exprimir semen.
+Dialogue: 0,0:13:20.94,0:13:22.53,Default,,0,0,0,,No...
+Dialogue: 0,0:13:22.53,0:13:29.37,Default,,0,0,0,,¡Nací sólo para ser tu vertedero de leche!
+Dialogue: 0,0:13:29.37,0:13:33.91,Default,,0,0,0,,¡Vente en mí! ¡Sácalo todo!
+Dialogue: 0,0:13:34.20,0:13:36.42,Default,,0,0,0,,¡Ya no aguanto más!
+Dialogue: 0,0:13:36.42,0:13:37.79,Default,,0,0,0,,¡Voy a sacarlo!
+Dialogue: 0,0:13:39.34,0:13:42.25,Default,,0,0,0,,¡Vente! ¡Dámelo!
+Dialogue: 0,0:13:43.88,0:13:48.64,Default,,0,0,0,,¡Dame leche adentro! ¡Planta tu semilla bien profundo!
+Dialogue: 0,0:13:53.52,0:13:58.02,Default,,0,0,0,,Onii-chan, te amo... demasiado.
+Dialogue: 0,0:13:59.98,0:14:02.44,Default,,0,0,0,,¡Estoy llena de semillas de bebé!
+Dialogue: 0,0:14:03.28,0:14:06.57,Default,,0,0,0,,Onii-chan...
+Dialogue: 0,0:14:09.95,0:14:11.37,Default,,0,0,0,,Onii-chan...
+Dialogue: 0,0:14:13.20,0:14:14.83,Default,,0,0,0,,¡Te amo!

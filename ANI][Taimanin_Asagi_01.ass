@@ -1,0 +1,252 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H03FF006F,&H64000000,&H64000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.09,0:00:10.88,Default,,0,0,0,,¡M-M-Me vengo!
+Dialogue: 0,0:00:10.88,0:00:11.88,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:00:11.88,0:00:13.09,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:00:22.48,0:00:23.56,Default,,0,0,0,,D-Dámelo...
+Dialogue: 0,0:00:23.56,0:00:25.14,Default,,0,0,0,,D-Dame tu semen...
+Dialogue: 0,0:00:25.94,0:00:28.98,Default,,0,0,0,,Me vengo... ¡Me vengo!
+Dialogue: 0,0:00:30.36,0:00:31.65,Default,,0,0,0,,¡Está caliente!
+Dialogue: 0,0:00:31.65,0:00:33.03,Default,,0,0,0,,¡Mételo más!
+Dialogue: 0,0:00:33.95,0:00:35.74,Default,,0,0,0,,Así... Increíble...
+Dialogue: 0,0:01:15.95,0:01:16.90,Default,,0,0,0,,Asagi.
+Dialogue: 0,0:03:00.28,0:03:07.52,Default,,0,0,0,,Taimanin Asagi Vol. 01 Contraataque de Oboro
+Dialogue: 0,0:03:08.85,0:03:10.81,Default,,0,0,0,,La ciudad de demonios, Tokio.
+Dialogue: 0,0:03:10.81,0:03:14.35,Default,,0,0,0,,Un lugar donde conviven humanos y demonios.
+Dialogue: 0,0:03:14.36,0:03:17.35,Default,,0,0,0,,Existe una regla tácita,\Nseguida desde la antigüedad, de
+Dialogue: 0,0:03:17.36,0:03:20.35,Default,,0,0,0,,que los humanos y los\Ndemonios no interferirán entre sí.
+Dialogue: 0,0:03:20.36,0:03:24.07,Default,,0,0,0,,Pero, con el hombre cayendo al lado oscuro...
+Dialogue: 0,0:03:24.07,0:03:30.33,Default,,0,0,0,,Ahora hay sindicatos del crimen y corporaciones\Nforjadas por humanos y demonios juntos.
+Dialogue: 0,0:03:32.12,0:03:32.87,Default,,0,0,0,,No...
+Dialogue: 0,0:03:32.87,0:03:34.37,Default,,0,0,0,,¡No!
+Dialogue: 0,0:03:35.29,0:03:36.13,Default,,0,0,0,,Ayúdenme...
+Dialogue: 0,0:03:36.13,0:03:38.00,Default,,0,0,0,,Quien sea, por favor...
+Dialogue: 0,0:05:05.60,0:05:06.43,Default,,0,0,0,,A eso me refiero...
+Dialogue: 0,0:05:06.43,0:05:07.76,Default,,0,0,0,,Cielos...
+Dialogue: 0,0:05:10.72,0:05:14.15,Default,,0,0,0,,El día de ayer se encontraron\Nlos cuerpos de un hombre
+Dialogue: 0,0:05:14.16,0:05:17.59,Default,,0,0,0,,y una mujer jóvenes de\Nalrededor de unos veinte años.
+Dialogue: 0,0:05:18.60,0:05:21.64,Default,,0,0,0,,Se sospecha que estas muertes\Nestán relacionadas con la serie de
+Dialogue: 0,0:05:21.64,0:05:24.68,Default,,0,0,0,,asesinatos que han afectado a\NTokio en los meses más recientes...
+Dialogue: 0,0:05:27.03,0:05:28.70,Default,,0,0,0,,¿Nueve de los nuestros en un mes?
+Dialogue: 0,0:05:29.57,0:05:33.87,Default,,0,0,0,,Todos eran antidemonios experimentados.
+Dialogue: 0,0:05:33.87,0:05:36.29,Default,,0,0,0,,Igual a ti.
+Dialogue: 0,0:05:39.17,0:05:42.75,Default,,0,0,0,,Asagi... ¿Podrías regresar?
+Dialogue: 0,0:05:43.71,0:05:48.55,Default,,0,0,0,,Me gustaría que te encargaras de este asunto.
+Dialogue: 0,0:05:51.26,0:05:52.35,Default,,0,0,0,,¿Asagi?
+Dialogue: 0,0:05:52.85,0:05:54.14,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:05:57.23,0:06:00.98,Default,,0,0,0,,¿Acaso dejaste tu trabajo\Nde antidemonio por mi bien?
+Dialogue: 0,0:06:00.98,0:06:02.73,Default,,0,0,0,,No me arrepiento.
+Dialogue: 0,0:06:04.65,0:06:05.44,Default,,0,0,0,,Qué bueno.
+Dialogue: 0,0:06:06.94,0:06:09.65,Default,,0,0,0,,Nos vemos mañana en la noche en el restaurante.
+Dialogue: 0,0:06:09.95,0:06:11.66,Default,,0,0,0,,Hice reservación para dos.
+Dialogue: 0,0:06:11.66,0:06:14.37,Default,,0,0,0,,Cuando acabe con el trabajo iré de inmediato.
+Dialogue: 0,0:06:14.37,0:06:15.20,Default,,0,0,0,,Sí.
+Dialogue: 0,0:06:15.50,0:06:18.21,Default,,0,0,0,,En ese momento habrá algo que te daré.
+Dialogue: 0,0:06:27.92,0:06:29.88,Default,,0,0,0,,¡Onee-chan! ¡Onee-chan!
+Dialogue: 0,0:06:29.88,0:06:33.60,Default,,0,0,0,,¡Oye, oye! ¿Cómo te fue en tu cita con Sawaki?
+Dialogue: 0,0:06:37.93,0:06:40.44,Default,,0,0,0,,¿Qué pasa? ¿Te dejó?
+Dialogue: 0,0:06:40.81,0:06:41.90,Default,,0,0,0,,No.
+Dialogue: 0,0:06:43.92,0:06:45.11,Default,,0,0,0,,No lo vi...
+Dialogue: 0,0:06:56.41,0:06:59.70,Default,,0,0,0,,Sí, soy Sawaki, no puedo contestar en este momento.
+Dialogue: 0,0:06:59.71,0:07:03.33,Default,,0,0,0,,Si hay algo que necesita decirme,\Npor favor deje su nombre y mensaje...
+Dialogue: 0,0:07:03.63,0:07:06.34,Default,,0,0,0,,Esta es una organización criminal.
+Dialogue: 0,0:07:06.34,0:07:09.05,Default,,0,0,0,,Ese hombre probablemente ya ha sido capturado;
+Dialogue: 0,0:07:09.05,0:07:12.22,Default,,0,0,0,,Es posible que seas su próximo objetivo.
+Dialogue: 0,0:07:13.18,0:07:14.55,Default,,0,0,0,,¿Acaso...?
+Dialogue: 0,0:07:14.55,0:07:17.68,Default,,0,0,0,,Por mi culpa Kyousuke se vió involucrado.
+Dialogue: 0,0:07:17.68,0:07:18.64,Default,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:07:19.06,0:07:22.06,Default,,0,0,0,,Quizás te equivocaste de lugar y hora.
+Dialogue: 0,0:07:22.06,0:07:24.40,Default,,0,0,0,,Vamos, vete de una vez a la escuela.
+Dialogue: 0,0:07:24.40,0:07:26.44,Default,,0,0,0,,Sí, sí. Ya me voy.
+Dialogue: 0,0:07:26.44,0:07:27.48,Default,,0,0,0,,Que te vaya bien.
+Dialogue: 0,0:07:30.49,0:07:31.86,Default,,0,0,0,,Onee-chan...
+Dialogue: 0,0:07:32.91,0:07:35.49,Default,,0,0,0,,Parece que Sawaki vino a visitarte.
+Dialogue: 0,0:07:36.16,0:07:39.70,Default,,0,0,0,,El auto está allí, parece que ya fue al dojo.
+Dialogue: 0,0:07:40.16,0:07:41.20,Default,,0,0,0,,Que tengas suerte.
+Dialogue: 0,0:07:43.75,0:07:44.88,Default,,0,0,0,,¡Kyousuke!
+Dialogue: 0,0:07:46.38,0:07:47.59,Default,,0,0,0,,¿Qué te pasó ayer?
+Dialogue: 0,0:07:47.59,0:07:50.09,Default,,0,0,0,,Lo siento, olvidé mi teléfono.
+Dialogue: 0,0:07:50.09,0:07:53.18,Default,,0,0,0,,¡Tonto! Me hubieras llamado.
+Dialogue: 0,0:07:53.18,0:07:54.59,Default,,0,0,0,,Estaba preocupada de que algo te hubiera pasa....
+Dialogue: 0,0:07:56.10,0:07:58.14,Default,,0,0,0,,Finalmente llené mi pecho para decírtelo.
+Dialogue: 0,0:07:58.72,0:08:02.35,Default,,0,0,0,,Deberíamos tener un compromiso no solo de nombre...
+Dialogue: 0,0:08:02.89,0:08:03.94,Default,,0,0,0,,Kyousuke...
+Dialogue: 0,0:08:04.19,0:08:06.40,Default,,0,0,0,,Quiero que te cases conmigo.
+Dialogue: 0,0:08:11.69,0:08:12.86,Default,,0,0,0,,¡Asagi!
+Dialogue: 0,0:08:13.20,0:08:14.91,Default,,0,0,0,,Perdón por hacer que te preocuparas.
+Dialogue: 0,0:08:14.91,0:08:17.20,Default,,0,0,0,,No, estoy feliz.
+Dialogue: 0,0:08:17.66,0:08:21.95,Default,,0,0,0,,Estoy segura de que hay un youma.\NPuede que haya estado siguiendo a Kyousuke.
+Dialogue: 0,0:08:23.58,0:08:24.46,Default,,0,0,0,,¿Quién es?
+Dialogue: 0,0:08:30.17,0:08:31.13,Default,,0,0,0,,¿Oboro?
+Dialogue: 0,0:08:33.26,0:08:35.18,Default,,0,0,0,,Ha pasado mucho tiempo, Asagi.
+Dialogue: 0,0:08:35.18,0:08:37.93,Default,,0,0,0,,¿Qué...? Sigues con vida.
+Dialogue: 0,0:08:57.66,0:08:59.20,Default,,0,0,0,,¡Muere, Asagi!
+Dialogue: 0,0:09:23.68,0:09:25.52,Default,,0,0,0,,Estoy segura de que habías caído aquella vez.
+Dialogue: 0,0:09:25.52,0:09:27.23,Default,,0,0,0,,Quería verte.
+Dialogue: 0,0:09:27.23,0:09:29.56,Default,,0,0,0,,Así que usé un youma para mantenerme viva.
+Dialogue: 0,0:09:29.86,0:09:31.06,Default,,0,0,0,,¿Un youma, dices?
+Dialogue: 0,0:09:31.07,0:09:35.11,Default,,0,0,0,,Con ese poder, me encargué de\Naplastar a tus compañeros como a insectos.
+Dialogue: 0,0:09:35.49,0:09:37.53,Default,,0,0,0,,Con tal de hacerte aparecer.
+Dialogue: 0,0:09:37.53,0:09:40.49,Default,,0,0,0,,En ese caso, voy a derrotarte una vez más.
+Dialogue: 0,0:09:43.45,0:09:45.20,Default,,0,0,0,,¿Qué es lo que pasa?
+Dialogue: 0,0:09:46.91,0:09:48.29,Default,,0,0,0,,Mi cuerpo...
+Dialogue: 0,0:09:51.00,0:09:52.84,Default,,0,0,0,,¡Huye, Kyousuke!
+Dialogue: 0,0:09:54.59,0:09:56.30,Default,,0,0,0,,¿Todavía no te das cuenta, Asagi?
+Dialogue: 0,0:09:56.59,0:09:57.34,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:09:58.18,0:10:00.43,Default,,0,0,0,,Estás bajo el poder de mi técnica.
+Dialogue: 0,0:10:00.43,0:10:02.55,Default,,0,0,0,,Igual que ese hombre de ahí.
+Dialogue: 0,0:10:04.06,0:10:06.31,Default,,0,0,0,,Ven, Kyousuke.
+Dialogue: 0,0:10:07.18,0:10:08.56,Default,,0,0,0,,Esta es mi técnica ninja...
+Dialogue: 0,0:10:08.56,0:10:11.40,Default,,0,0,0,,Fue tu final en el momento que te pusiste el anillo.
+Dialogue: 0,0:10:11.40,0:10:13.48,Default,,0,0,0,,¡Kyousuke! ¡Kyousuke!
+Dialogue: 0,0:10:16.32,0:10:18.49,Default,,0,0,0,,Tu objetivo soy yo.
+Dialogue: 0,0:10:18.49,0:10:19.95,Default,,0,0,0,,Kyousuke no tiene nada que ver.
+Dialogue: 0,0:10:20.66,0:10:23.37,Default,,0,0,0,,A partir de ahora me pertenece.
+Dialogue: 0,0:10:23.66,0:10:26.45,Default,,0,0,0,,Este hombre no parece decir que "no".
+Dialogue: 0,0:10:26.91,0:10:27.87,Default,,0,0,0,,¡No puede ser!
+Dialogue: 0,0:10:32.13,0:10:34.38,Default,,0,0,0,,Parece estar lleno de vitalidad.
+Dialogue: 0,0:10:36.63,0:10:39.38,Default,,0,0,0,,Asagi, esta no es mi voluntad.
+Dialogue: 0,0:10:39.63,0:10:43.01,Default,,0,0,0,,¿Qué te parece? Asagi todavía no\Nha hecho algo como esto, ¿verdad?
+Dialogue: 0,0:10:43.01,0:10:44.14,Default,,0,0,0,,¡Kyousuke!
+Dialogue: 0,0:10:51.90,0:10:54.48,Default,,0,0,0,,¿Todavía no está duro?
+Dialogue: 0,0:10:54.48,0:10:57.61,Default,,0,0,0,,Maldición, es un pene sin vergüenza.
+Dialogue: 0,0:10:58.90,0:11:01.74,Default,,0,0,0,,Después de jugar con este pene tan lascivo...
+Dialogue: 0,0:11:01.74,0:11:04.70,Default,,0,0,0,,Yo también me comporto de forma lasciva.
+Dialogue: 0,0:11:07.20,0:11:09.75,Default,,0,0,0,,¿Qué tal? Ya estás por eyacular, ¿no es así?
+Dialogue: 0,0:11:11.17,0:11:12.83,Default,,0,0,0,,Oboro, m-maldita...
+Dialogue: 0,0:11:21.13,0:11:22.09,Default,,0,0,0,,¡Detente!
+Dialogue: 0,0:11:22.09,0:11:24.14,Default,,0,0,0,,No puedo parar, lo voy a meter.
+Dialogue: 0,0:11:27.60,0:11:30.52,Default,,0,0,0,,¡Entró! ¡El pene entró!
+Dialogue: 0,0:11:34.81,0:11:35.44,Default,,0,0,0,,Bueno...
+Dialogue: 0,0:11:35.44,0:11:36.65,Default,,0,0,0,,Su pene es bueno...
+Dialogue: 0,0:11:36.65,0:11:37.65,Default,,0,0,0,,¡Su pene es bueno!
+Dialogue: 0,0:11:41.82,0:11:43.74,Default,,0,0,0,,Adentro... Él está golpeando...
+Dialogue: 0,0:11:43.74,0:11:44.74,Default,,0,0,0,,Mi interior...
+Dialogue: 0,0:11:45.53,0:11:47.99,Default,,0,0,0,,¡No!
+Dialogue: 0,0:11:47.99,0:11:48.45,Default,,0,0,0,,Kyousu...
+Dialogue: 0,0:11:55.21,0:11:56.63,Default,,0,0,0,,¡Métela, métela!
+Dialogue: 0,0:11:58.88,0:12:01.34,Default,,0,0,0,,Increíble... Tu pene es increíble...
+Dialogue: 0,0:12:01.34,0:12:03.84,Default,,0,0,0,,No importa las veces que sean, eyacula adentro.
+Dialogue: 0,0:12:05.55,0:12:07.14,Default,,0,0,0,,Ver a Asagi de esta forma...
+Dialogue: 0,0:12:07.14,0:12:09.76,Default,,0,0,0,,Es como si fuera una puta, ¿no es así?
+Dialogue: 0,0:12:09.77,0:12:11.27,Default,,0,0,0,,Mientras Asagi les hace la felación...
+Dialogue: 0,0:12:11.27,0:12:12.89,Default,,0,0,0,,Pueden eyacular adentro.
+Dialogue: 0,0:12:13.31,0:12:14.85,Default,,0,0,0,,¡Dame tu semen!
+Dialogue: 0,0:12:18.02,0:12:20.11,Default,,0,0,0,,No me mires, Kyousuke...
+Dialogue: 0,0:12:20.61,0:12:21.32,Default,,0,0,0,,No...
+Dialogue: 0,0:12:23.70,0:12:25.86,Default,,0,0,0,,¿Y bien? Está muy lasciva, ¿no es así?
+Dialogue: 0,0:12:25.87,0:12:28.70,Default,,0,0,0,,Descarguen sus penes en esa ninja chupa vergas.
+Dialogue: 0,0:12:30.29,0:12:31.79,Default,,0,0,0,,¿Estás por venirte? Te vendrás, ¿no es así?
+Dialogue: 0,0:12:31.79,0:12:33.83,Default,,0,0,0,,¿Vas a eyacular por ver a esa ninja chupa vergas?
+Dialogue: 0,0:12:35.29,0:12:36.92,Default,,0,0,0,,Puedes venirte.
+Dialogue: 0,0:12:36.92,0:12:38.63,Default,,0,0,0,,Dentro de mi lasciva vagina.
+Dialogue: 0,0:12:40.30,0:12:41.50,Default,,0,0,0,,¡Dame un montón!
+Dialogue: 0,0:12:41.80,0:12:44.51,Default,,0,0,0,,¡Eyacula! ¡Hazlo adentro!
+Dialogue: 0,0:12:47.18,0:12:48.51,Default,,0,0,0,,D-Detente... No...
+Dialogue: 0,0:12:48.51,0:12:49.67,Default,,0,0,0,,¡No! ¡Dame tu semen!
+Dialogue: 0,0:12:50.81,0:12:52.35,Default,,0,0,0,,¡Dámelo adentro!
+Dialogue: 0,0:13:07.41,0:13:08.70,Default,,0,0,0,,Me vengo... ¡Yo también me vengo!
+Dialogue: 0,0:13:17.83,0:13:18.71,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:13:20.92,0:13:23.17,Default,,0,0,0,,Increíble... Está saliendo.
+Dialogue: 0,0:13:24.97,0:13:27.76,Default,,0,0,0,,E-En mi interior... Está saliendo en mi interior.
+Dialogue: 0,0:13:27.76,0:13:29.80,Default,,0,0,0,,Liberaste tu semen.
+Dialogue: 0,0:13:33.85,0:13:34.72,Default,,0,0,0,,Increíble.
+Dialogue: 0,0:13:41.86,0:13:44.28,Default,,0,0,0,,Asagi, este hombre no está del todo mal.
+Dialogue: 0,0:13:45.44,0:13:47.65,Default,,0,0,0,,Se vino adentro dos veces seguidas.
+Dialogue: 0,0:13:58.54,0:13:59.46,Default,,0,0,0,,Asagi...
+Dialogue: 0,0:14:00.21,0:14:01.13,Default,,0,0,0,,Asagi...
+Dialogue: 0,0:14:02.38,0:14:04.42,Default,,0,0,0,,¿Asagi, despierta!
+Dialogue: 0,0:14:07.93,0:14:10.34,Default,,0,0,0,,Kyousuke... Kyousuke...
+Dialogue: 0,0:14:10.34,0:14:13.93,Default,,0,0,0,,Asagi se volvió una mujer más lasciva que antes.
+Dialogue: 0,0:14:13.93,0:14:14.51,Default,,0,0,0,,Dámelo.
+Dialogue: 0,0:14:16.10,0:14:17.43,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:14:17.43,0:14:20.40,Default,,0,0,0,,Hazle muchas cosas lascivas a Asagi...
+Dialogue: 0,0:14:20.60,0:14:23.31,Default,,0,0,0,,Miserable... Eres muy miserable, Asagi.
+Dialogue: 0,0:14:24.40,0:14:28.36,Default,,0,0,0,,No hay ningún humano que haya logrado escapar de\Nesta prisión de carne sin tener su cuerpo alterado.
+Dialogue: 0,0:14:28.36,0:14:31.41,Default,,0,0,0,,Te convertirá en la puta máxima, Asagi.
+Dialogue: 0,0:14:32.95,0:14:35.29,Default,,0,0,0,,¿Funcionará según teníamos planeado?
+Dialogue: 0,0:14:35.29,0:14:39.46,Default,,0,0,0,,Las drogas están reescribiendo\Nsus células a nivel genético.
+Dialogue: 0,0:14:39.46,0:14:42.42,Default,,0,0,0,,Su sentido del tacto aumentará unas 3000 veces.
+Dialogue: 0,0:14:42.42,0:14:43.38,Default,,0,0,0,,Si fuera una mujer normal...
+Dialogue: 0,0:14:43.38,0:14:46.46,Default,,0,0,0,,El toque más suave la llevaría al orgasmo.
+Dialogue: 0,0:14:46.92,0:14:49.17,Default,,0,0,0,,Quiero verlo lo más pronto posible...
+Dialogue: 0,0:14:49.17,0:14:52.39,Default,,0,0,0,,La apariencia de Asagi siendo un\Nobjeto para darle placer a los hombres.
+Dialogue: 0,0:14:56.31,0:14:58.43,Default,,0,0,0,,Adentro... Acaba adentro, por favor.
+Dialogue: 0,0:14:58.43,0:15:00.64,Default,,0,0,0,,En el interior de Asagi...
+Dialogue: 0,0:15:05.52,0:15:07.32,Default,,0,0,0,,Está siendo rudo... Es muy vergonzoso.
+Dialogue: 0,0:15:08.94,0:15:10.65,Default,,0,0,0,,Asagi se romperá.
+Dialogue: 0,0:15:13.03,0:15:15.41,Default,,0,0,0,,Me gusta, me gusta... Lo amo...
+Dialogue: 0,0:15:16.68,0:15:18.56,Default,,0,0,0,,No... Esto es malo...
+Dialogue: 0,0:15:18.60,0:15:19.58,Default,,0,0,0,,Me voy a venir enseguida.
+Dialogue: 0,0:15:19.58,0:15:20.41,Default,,0,0,0,,Me vengo...
+Dialogue: 0,0:15:21.33,0:15:22.50,Default,,0,0,0,,Se siente muy bien.
+Dialogue: 0,0:15:27.25,0:15:29.21,Default,,0,0,0,,Por favor... Juntos...
+Dialogue: 0,0:15:29.21,0:15:30.80,Default,,0,0,0,,Juntos... ¡Juntos...!
+Dialogue: 0,0:15:34.97,0:15:36.47,Default,,0,0,0,,Corrámonos juntos...
+Dialogue: 0,0:15:36.47,0:15:37.72,Default,,0,0,0,,¡J-Juntos!
+Dialogue: 0,0:15:37.72,0:15:39.47,Default,,0,0,0,,Adentro... En mi útero...
+Dialogue: 0,0:15:39.48,0:15:41.98,Default,,0,0,0,,Libéralo todo adentro.
+Dialogue: 0,0:15:41.98,0:15:43.19,Default,,0,0,0,,¡Dámelo adentro!
+Dialogue: 0,0:15:45.61,0:15:46.69,Default,,0,0,0,,No... Adentro...
+Dialogue: 0,0:15:46.69,0:15:48.15,Default,,0,0,0,,¡Eyacula en mi interior!
+Dialogue: 0,0:16:00.37,0:16:01.58,Default,,0,0,0,,Te viniste...
+Dialogue: 0,0:16:01.58,0:16:02.87,Default,,0,0,0,,Adentro...
+Dialogue: 0,0:16:04.08,0:16:04.87,Default,,0,0,0,,Sí... Así...
+Dialogue: 0,0:16:27.19,0:16:30.27,Default,,0,0,0,,Tus días en este lugar han\Nsido muy divertidos, Asagi.
+Dialogue: 0,0:16:40.08,0:16:42.16,Default,,0,0,0,,Puedes correrte las veces que quieras, Asagi...
+Dialogue: 0,0:16:47.29,0:16:48.21,Default,,0,0,0,,¿Y bien?
+Dialogue: 0,0:16:48.21,0:16:50.88,Default,,0,0,0,,¿Qué se siente tener todo como una vagina?
+Dialogue: 0,0:17:01.89,0:17:03.81,Default,,0,0,0,,¿Qué te pasa, Asagi?
+Dialogue: 0,0:17:03.81,0:17:05.89,Default,,0,0,0,,¿Acaso te viniste?
+Dialogue: 0,0:17:09.02,0:17:11.32,Default,,0,0,0,,¡Maldita ninja pervertida!
+Dialogue: 0,0:17:12.44,0:17:13.61,Default,,0,0,0,,Está bien, ¿no es así?
+Dialogue: 0,0:17:13.61,0:17:15.61,Default,,0,0,0,,Se siente bien que te golpée, ¿no es así?
+Dialogue: 0,0:17:16.53,0:17:17.32,Default,,0,0,0,,¿Te viniste?
+Dialogue: 0,0:17:17.32,0:17:18.28,Default,,0,0,0,,¿De verdad lo hiciste?
+Dialogue: 0,0:17:18.28,0:17:19.49,Default,,0,0,0,,¿Tu vagina se vino?
+Dialogue: 0,0:17:20.20,0:17:21.36,Default,,0,0,0,,¡Córrete, cerda!
+Dialogue: 0,0:17:21.37,0:17:22.33,Default,,0,0,0,,¡Vamos, vamos!
+Dialogue: 0,0:17:22.33,0:17:23.66,Default,,0,0,0,,¡Eres solo una mujer vulgar!
+Dialogue: 0,0:17:31.46,0:17:33.55,Default,,0,0,0,,Ahora pueden hacer lo que quieran.
+Dialogue: 0,0:17:34.26,0:17:37.18,Default,,0,0,0,,¿En verdad no dejará hacer lo que querramos?
+Dialogue: 0,0:17:37.18,0:17:41.64,Default,,0,0,0,,Hasta que esta mujer vulgar haga\Nvenirse hasta el último de ustedes.
+Dialogue: 0,0:17:41.64,0:17:44.64,Default,,0,0,0,,Así que pueden liberar su semen tanto como quieran.
+Dialogue: 0,0:17:46.81,0:17:50.69,Default,,0,0,0,,¿Quién quisiera recibir su esperma?
+Dialogue: 0,0:18:06.33,0:18:08.00,Default,,0,0,0,,¡Lámelo hasta dejarlo limpio!
+Dialogue: 0,0:18:12.36,0:18:13.88,Default,,0,0,0,,Es increíble.
+Dialogue: 0,0:18:13.96,0:18:16.63,Default,,0,0,0,,Esta mujer en verdad que me excita.
+Dialogue: 0,0:18:22.96,0:18:26.64,Default,,0,0,0,,No puedo contenerme más, vamos trágalo.
+Dialogue: 0,0:18:33.23,0:18:35.94,Default,,0,0,0,,Quítate, ahora voy yo.
+Dialogue: 0,0:18:43.33,0:18:48.00,Default,,0,0,0,,Increíble... Puedo llegar a lo\Nmás profundo de su garganta.
+Dialogue: 0,0:19:01.84,0:19:03.34,Default,,0,0,0,,Está muy apretada.
+Dialogue: 0,0:19:11.19,0:19:12.35,Default,,0,0,0,,Me vengo.
+Dialogue: 0,0:19:24.49,0:19:28.58,Default,,0,0,0,,Pero vamos. Muéstrale tu cara a los orcos.
+Dialogue: 0,0:19:34.33,0:19:38.34,Default,,0,0,0,,Está bien, Asagi. Vas a dar\Na luz a los hijos de los orcos.
+Dialogue: 0,0:19:46.01,0:19:49.27,Default,,0,0,0,,Deberás exprimirlos mucho con tu vagina
+Dialogue: 0,0:19:51.52,0:19:53.23,Default,,0,0,0,,Deténganse, por favor...
+Dialogue: 0,0:19:57.02,0:19:57.86,Default,,0,0,0,,¡No!
+Dialogue: 0,0:19:57.86,0:19:59.36,Default,,0,0,0,,¡No! No quiero esto.
+Dialogue: 0,0:20:27.35,0:20:28.47,Default,,0,0,0,,No... ¡No!
+Dialogue: 0,0:20:41.74,0:20:43.65,Default,,0,0,0,,¡Increíble, me está succionando!
+Dialogue: 0,0:20:49.87,0:20:51.24,Default,,0,0,0,,Me vengo... ¡Me vengo!
+Dialogue: 0,0:21:30.78,0:21:32.33,Default,,0,0,0,,No... No...
+Dialogue: 0,0:21:34.91,0:21:36.25,Default,,0,0,0,,N-No... No...
+Dialogue: 0,0:21:58.10,0:21:58.98,Default,,0,0,0,,No...
+Dialogue: 0,0:22:02.11,0:22:04.32,Default,,0,0,0,,Me romperé... Voy a romperme...
+Dialogue: 0,0:22:25.38,0:22:26.96,Default,,0,0,0,,M-Me vengo...
+Dialogue: 0,0:22:26.97,0:22:28.38,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:22:35.27,0:22:39.19,Default,,0,0,0,,P-Por favor... Por favor... Por favor...
+Dialogue: 0,0:23:05.00,0:23:06.05,Default,,0,0,0,,M-Me vengo...
+Dialogue: 0,0:23:16.31,0:23:20.43,Default,,0,0,0,,No hay duda de que ahora los\Neventos de la Arena serán un éxito.
+Dialogue: 0,0:23:20.77,0:23:22.94,Default,,0,0,0,,Black-sama estará complacido.

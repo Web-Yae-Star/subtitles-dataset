@@ -1,0 +1,202 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.04,0:00:10.47,Default,,0,0,0,,Kou-kun...
+Dialogue: 0,0:00:10.47,0:00:12.99,Default,,0,0,0,,No hagas eso.
+Dialogue: 0,0:00:20.49,0:00:23.07,Default,,0,0,0,,Usaste una técnica secreta en mí, ¿verdad?
+Dialogue: 0,0:00:23.57,0:00:26.66,Default,,0,0,0,,Está al fondo... Está entrando hasta el fondo...
+Dialogue: 0,0:00:27.36,0:00:29.58,Default,,0,0,0,,Puedo sentir una sensación punzante...
+Dialogue: 0,0:00:32.98,0:00:34.93,Default,,0,0,0,,Mi cuerpo está caliente.
+Dialogue: 0,0:00:35.39,0:00:37.93,Default,,0,0,0,,Las espinas están cavando...
+Dialogue: 0,0:00:37.93,0:00:39.56,Default,,0,0,0,,No puedo con esto...
+Dialogue: 0,0:00:44.09,0:00:46.60,Default,,0,0,0,,No, si continúas...
+Dialogue: 0,0:00:47.86,0:00:51.48,Default,,0,0,0,,No... No quiero esto...
+Dialogue: 0,0:00:52.52,0:00:54.15,Default,,0,0,0,,¡Ahí no!
+Dialogue: 0,0:00:56.81,0:00:58.75,Default,,0,0,0,,Está sucio...
+Dialogue: 0,0:00:58.75,0:01:02.02,Default,,0,0,0,,¡N-No lo hagas ahí!
+Dialogue: 0,0:01:06.97,0:01:09.65,Default,,0,0,0,,No puede ser... Tu lengua...
+Dialogue: 0,0:01:09.65,0:01:12.61,Default,,0,0,0,,¡No la metas hasta el fondo!
+Dialogue: 0,0:01:20.36,0:01:22.60,Default,,0,0,0,,Se siente bien...
+Dialogue: 0,0:01:32.79,0:01:35.99,Default,,0,0,0,,¡Algo caliente está entrando!
+Dialogue: 0,0:01:37.98,0:01:41.45,Default,,0,0,0,,Kou-kun... ¡Ah! ¡Sí!
+Dialogue: 0,0:01:45.14,0:01:47.87,Default,,0,0,0,,¡Se siente muy bien!
+Dialogue: 0,0:01:47.87,0:01:51.33,Default,,0,0,0,,¡No puedo más! ¡Está entrando!
+Dialogue: 0,0:01:53.80,0:01:56.78,Default,,0,0,0,,Está entrando... Se está metiendo.
+Dialogue: 0,0:01:56.78,0:01:59.48,Default,,0,0,0,,¡Su pene está llegando hasta el fondo!
+Dialogue: 0,0:02:00.79,0:02:05.02,Default,,0,0,0,,Mételo... Mételo con más rudeza\Nen lo más profundo de mi interior.
+Dialogue: 0,0:02:05.02,0:02:08.30,Default,,0,0,0,,Más... ¡Métela con mucha más fuerza!
+Dialogue: 0,0:02:08.30,0:02:10.09,Default,,0,0,0,,Así...
+Dialogue: 0,0:02:10.09,0:02:12.73,Default,,0,0,0,,¡Sí, justo ahí! ¡Sí!
+Dialogue: 0,0:02:12.73,0:02:14.25,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:02:14.52,0:02:16.11,Default,,0,0,0,,¡Es muy grande!
+Dialogue: 0,0:02:17.85,0:02:21.16,Default,,0,0,0,,Adentro... Puedes acabar adentro.
+Dialogue: 0,0:02:23.01,0:02:26.02,Default,,0,0,0,,Adentro... ¡Eyacula adentro!
+Dialogue: 0,0:02:26.02,0:02:28.25,Default,,0,0,0,,¡Eyacula mucho adentro!
+Dialogue: 0,0:02:30.58,0:02:34.31,Default,,0,0,0,,¡Dame tu semen!
+Dialogue: 0,0:02:34.31,0:02:36.73,Default,,0,0,0,,¡Dámelo adentro!
+Dialogue: 0,0:02:36.73,0:02:39.66,Default,,0,0,0,,Mi cuerpo es bueno, ¿no?
+Dialogue: 0,0:02:40.84,0:02:43.24,Default,,0,0,0,,Puedes metérmela más.
+Dialogue: 0,0:02:46.06,0:02:47.60,Default,,0,0,0,,¡Destrózame!
+Dialogue: 0,0:02:47.60,0:02:51.99,Default,,0,0,0,,¡Rózame el interior, puedes destrozarme!
+Dialogue: 0,0:02:54.02,0:02:56.07,Default,,0,0,0,,Puedes venirte...
+Dialogue: 0,0:02:56.07,0:02:58.18,Default,,0,0,0,,¡Yo también me vengo!
+Dialogue: 0,0:02:59.89,0:03:01.82,Default,,0,0,0,,¡Me vengo! ¡Me vengo! ¡Me vengo!
+Dialogue: 0,0:03:05.33,0:03:07.83,Default,,0,0,0,,¡M-Me vengo!
+Dialogue: 0,0:03:11.44,0:03:14.08,Default,,0,0,0,,Puedo sentir en mi interior...
+Dialogue: 0,0:03:14.08,0:03:16.91,Default,,0,0,0,,Como la cosa de Kou-kun está palpitando...
+Dialogue: 0,0:03:16.91,0:03:19.91,Default,,0,0,0,,Su calidez se extiende...
+Dialogue: 0,0:03:23.51,0:03:27.52,Default,,0,0,0,,Se vino mucho en mi interior.
+Dialogue: 0,0:03:27.85,0:03:30.47,Default,,0,0,0,,Soy una cerda obscena.
+Dialogue: 0,0:03:30.47,0:03:35.27,Default,,0,0,0,,¡Quiero más dentro de mi indecente interior!
+Dialogue: 0,0:03:35.27,0:03:39.32,Default,,0,0,0,,¡Eyacula adentro! ¡Eyacula mucho!
+Dialogue: 0,0:03:40.31,0:03:42.03,Default,,0,0,0,,¡Más!
+Dialogue: 0,0:03:44.10,0:03:49.09,Default,,0,0,0,,¡Hazme sentir mucho más placer!
+Dialogue: 0,0:04:07.91,0:04:11.97,Default,,0,0,0,,Asagi... Parece que tuviste un buen sueño.
+Dialogue: 0,0:04:12.50,0:04:13.94,Default,,0,0,0,,¿Oboro?
+Dialogue: 0,0:04:18.44,0:04:21.37,Default,,0,0,0,,Ninja Anti-Demonios Asagi
+Dialogue: 0,0:04:21.38,0:04:24.31,Default,,0,0,0,,Marioneta Sexual Encarcelada
+Dialogue: 0,0:04:26.23,0:04:29.43,Default,,0,0,0,,Estás moviendo tus caderas con un juguete tan sucio.
+Dialogue: 0,0:04:31.96,0:04:34.71,Default,,0,0,0,,¡S-Se retuerce en mi interior!
+Dialogue: 0,0:04:34.71,0:04:38.08,Default,,0,0,0,,Vaya, pero que mujer tan puta eres.
+Dialogue: 0,0:04:38.08,0:04:41.13,Default,,0,0,0,,¡Tu repulsivo hedor llega hasta aquí!
+Dialogue: 0,0:04:46.77,0:04:50.08,Default,,0,0,0,,Realmente eres una cerda obscena.
+Dialogue: 0,0:04:50.08,0:04:53.78,Default,,0,0,0,,Te sientes tan bien a pesar\Nde no tener tu cerebro alterado.
+Dialogue: 0,0:04:53.78,0:04:55.90,Default,,0,0,0,,Que vergonzoso...
+Dialogue: 0,0:04:55.90,0:05:00.19,Default,,0,0,0,,Me pregunto qué pasará cuando te\Ninyectemos un afrodisíaco especial.
+Dialogue: 0,0:05:02.23,0:05:03.01,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:05:03.01,0:05:05.94,Default,,0,0,0,,Incluso derramaste tal cantidad.
+Dialogue: 0,0:05:05.94,0:05:08.97,Default,,0,0,0,,En verdad que te gusta esto...
+Dialogue: 0,0:05:12.20,0:05:14.96,Default,,0,0,0,,Voy a molestarte mucho más.
+Dialogue: 0,0:05:16.78,0:05:18.58,Default,,0,0,0,,Mucho más.
+Dialogue: 0,0:05:44.40,0:05:46.57,Default,,0,0,0,,Perdóname, por favor...
+Dialogue: 0,0:05:52.74,0:05:54.29,Default,,0,0,0,,Si esto sigue...
+Dialogue: 0,0:06:04.96,0:06:06.80,Default,,0,0,0,,¡Ingrid!
+Dialogue: 0,0:06:07.17,0:06:09.16,Default,,0,0,0,,¿Por qué tú...?
+Dialogue: 0,0:06:17.47,0:06:18.73,Default,,0,0,0,,¡Asagi!
+Dialogue: 0,0:06:19.78,0:06:21.46,Default,,0,0,0,,¡Esa puta!
+Dialogue: 0,0:06:21.46,0:06:24.53,Default,,0,0,0,,¡Ella arruinó mi plan!
+Dialogue: 0,0:07:15.99,0:07:17.88,Default,,0,0,0,,Te ves miserable...
+Dialogue: 0,0:07:17.88,0:07:20.61,Default,,0,0,0,,Así, Asagi. Eres increíble...
+Dialogue: 0,0:07:20.61,0:07:23.38,Default,,0,0,0,,Muéstrame más...
+Dialogue: 0,0:07:23.38,0:07:25.88,Default,,0,0,0,,Voy a molestarte más.
+Dialogue: 0,0:07:42.33,0:07:44.85,Default,,0,0,0,,Eso fue bastante intenso, Asagi.
+Dialogue: 0,0:07:44.85,0:07:49.10,Default,,0,0,0,,Eres una mujer miserable que vierte chorros...
+Dialogue: 0,0:07:49.10,0:07:51.78,Default,,0,0,0,,Cuando su ano y vagina son frotados.
+Dialogue: 0,0:07:52.44,0:07:54.28,Default,,0,0,0,,Qué patética.
+Dialogue: 0,0:08:23.51,0:08:26.19,Default,,0,0,0,,¿Y bien? Debe ser difícil para ti.
+Dialogue: 0,0:08:26.19,0:08:28.60,Default,,0,0,0,,No creo que lo sea.
+Dialogue: 0,0:08:29.38,0:08:31.69,Default,,0,0,0,,De hecho lo estás disfrutando, ¿no es así?
+Dialogue: 0,0:08:33.40,0:08:38.37,Default,,0,0,0,,Mira, estás a punto de ver un buen espectáculo.
+Dialogue: 0,0:08:38.76,0:08:43.12,Default,,0,0,0,,Tus queridas amigas, Sakura y Murasaki, están ahí.
+Dialogue: 0,0:08:43.12,0:08:44.48,Default,,0,0,0,,Sí...
+Dialogue: 0,0:08:44.48,0:08:49.13,Default,,0,0,0,,Ya están excitadas con el mismo\Nafrodisíaco especial que amas.
+Dialogue: 0,0:08:49.41,0:08:53.44,Default,,0,0,0,,Están a punto de jugar con esos tipos\Ninmundos del mundo de los demonios.
+Dialogue: 0,0:08:53.44,0:08:57.15,Default,,0,0,0,,Ahora comenzará un gran\Nespectáculo de entrenamiento con orcos.
+Dialogue: 0,0:08:57.15,0:09:02.48,Default,,0,0,0,,Asegúrate de ver como algo\Npreciado para ti es destrozado.
+Dialogue: 0,0:09:05.21,0:09:08.47,Default,,0,0,0,,Y darte cuenta de lo impotente\Nque eres al mismo tiempo...
+Dialogue: 0,0:09:08.93,0:09:10.02,Default,,0,0,0,,¡Cobarde!
+Dialogue: 0,0:09:10.02,0:09:12.76,Default,,0,0,0,,Asagi... Desde ahora...
+Dialogue: 0,0:09:12.76,0:09:17.44,Default,,0,0,0,,Tendrás muchos orcos y patanes como tus amos.
+Dialogue: 0,0:09:17.44,0:09:18.57,Default,,0,0,0,,Déjate de pendejadas.
+Dialogue: 0,0:09:19.29,0:09:21.83,Default,,0,0,0,,¡No, no!
+Dialogue: 0,0:09:25.09,0:09:27.03,Default,,0,0,0,,¿Qué me va a pasar?
+Dialogue: 0,0:09:28.10,0:09:31.97,Default,,0,0,0,,Sakura... Murasaki... No pierdan...
+Dialogue: 0,0:09:39.12,0:09:41.41,Default,,0,0,0,,Se está alojando lentamente en el interior.
+Dialogue: 0,0:09:41.41,0:09:43.48,Default,,0,0,0,,No me canso de esto.
+Dialogue: 0,0:09:48.28,0:09:51.37,Default,,0,0,0,,¡No juegues con mis preciados pechos!
+Dialogue: 0,0:09:55.51,0:09:58.77,Default,,0,0,0,,¿Qué? Mi cuerpo está sintiendo un hormigueo.
+Dialogue: 0,0:10:00.07,0:10:03.11,Default,,0,0,0,,El afrodisíaco es más fuerte esta vez.
+Dialogue: 0,0:10:03.11,0:10:05.89,Default,,0,0,0,,¡Esto te hará sentir muy bien!
+Dialogue: 0,0:10:06.44,0:10:09.00,Default,,0,0,0,,N-No te lo perdonaré.
+Dialogue: 0,0:10:09.45,0:10:14.55,Default,,0,0,0,,¡Absolutamente te cortaré con mi hacha en pedazos!
+Dialogue: 0,0:10:14.55,0:10:16.64,Default,,0,0,0,,No te perdonaré aunque te disculpes.
+Dialogue: 0,0:10:16.64,0:10:18.77,Default,,0,0,0,,¡Haré que todos se arrepientan de esto!
+Dialogue: 0,0:10:18.77,0:10:22.47,Default,,0,0,0,,Seguro que hablas en grande para\Nalguien que está completamente desnuda.
+Dialogue: 0,0:10:25.77,0:10:29.73,Default,,0,0,0,,¿Te estás excitando? Tus\Npezones están así de duros.
+Dialogue: 0,0:10:30.23,0:10:32.79,Default,,0,0,0,,¡Ay va! Todavía no estás embarazada...
+Dialogue: 0,0:10:32.79,0:10:35.09,Default,,0,0,0,,Pero tus pechos empezaron a soltar leche.
+Dialogue: 0,0:10:35.09,0:10:38.99,Default,,0,0,0,,¡No! ¡Mi orina se sale!
+Dialogue: 0,0:10:38.99,0:10:41.37,Default,,0,0,0,,¡Me pregunto si esto también lo hará!
+Dialogue: 0,0:10:46.80,0:10:48.37,Default,,0,0,0,,¡S-Se siente bien!
+Dialogue: 0,0:10:48.37,0:10:51.33,Default,,0,0,0,,¿Q-Qué...? ¿¡Qué está pasando!?
+Dialogue: 0,0:10:51.71,0:10:53.69,Default,,0,0,0,,¡Se sale! ¡Está saliendo!
+Dialogue: 0,0:10:53.69,0:10:58.36,Default,,0,0,0,,Qué sucio. ¡El afrodisíaco es tan\Nefectivo que hasta les hizo orinar!
+Dialogue: 0,0:10:58.36,0:10:59.88,Default,,0,0,0,,Son literalmente unas cerdas.
+Dialogue: 0,0:11:03.96,0:11:06.31,Default,,0,0,0,,Bueno, empecemos.
+Dialogue: 0,0:11:08.69,0:11:09.39,Default,,0,0,0,,No...
+Dialogue: 0,0:11:11.69,0:11:15.32,Default,,0,0,0,,¡Entró! ¡Está dentro!
+Dialogue: 0,0:11:18.76,0:11:21.38,Default,,0,0,0,,¿Q-Qué? ¿Qué? ¡¿Qué?!
+Dialogue: 0,0:11:21.38,0:11:23.41,Default,,0,0,0,,Me está frotando muy duro...
+Dialogue: 0,0:11:23.41,0:11:26.29,Default,,0,0,0,,¡Me está frotando demasiado el interior!
+Dialogue: 0,0:11:33.24,0:11:35.49,Default,,0,0,0,,Siento una sensación de hormigueo...
+Dialogue: 0,0:11:35.49,0:11:37.71,Default,,0,0,0,,¡Me siento bien por esa extraña droga!
+Dialogue: 0,0:11:39.19,0:11:41.36,Default,,0,0,0,,¿Q-Qué es esta sensación?
+Dialogue: 0,0:11:42.24,0:11:44.57,Default,,0,0,0,,¡Está caliente! ¡Su carne está caliente...!
+Dialogue: 0,0:11:44.57,0:11:47.01,Default,,0,0,0,,¡E-Está llegando hasta el fondo!
+Dialogue: 0,0:11:47.54,0:11:51.96,Default,,0,0,0,,¡No! Siento... ¡Siento que algo brota dentro de mí!
+Dialogue: 0,0:11:51.96,0:11:55.44,Default,,0,0,0,,¡Está caliente! ¡Mi útero está caliente!
+Dialogue: 0,0:11:55.44,0:11:59.02,Default,,0,0,0,,¡Su barra de carne me está\Nfrotando mucho el interior!
+Dialogue: 0,0:11:59.02,0:12:01.40,Default,,0,0,0,,¡Mis pezones no!
+Dialogue: 0,0:12:01.78,0:12:04.68,Default,,0,0,0,,N-No puedo más... ¡Detente!
+Dialogue: 0,0:12:15.54,0:12:17.13,Default,,0,0,0,,Por aquí también...
+Dialogue: 0,0:12:19.81,0:12:21.84,Default,,0,0,0,,La droga está surtiendo efecto.
+Dialogue: 0,0:12:21.84,0:12:24.46,Default,,0,0,0,,Todo mi cuerpo siente un hormigueo...
+Dialogue: 0,0:12:24.46,0:12:26.82,Default,,0,0,0,,¡La fricción del movimiento se siente bien!
+Dialogue: 0,0:12:26.82,0:12:29.33,Default,,0,0,0,,Mis pezones están duros y se sienten bien...
+Dialogue: 0,0:12:29.33,0:12:32.81,Default,,0,0,0,,¡Sucumbiré a esto en poco tiempo!
+Dialogue: 0,0:12:42.06,0:12:44.66,Default,,0,0,0,,¡No puedo tener suficiente de\Nsu barra de carne frotándome!
+Dialogue: 0,0:12:48.70,0:12:51.85,Default,,0,0,0,,Está palpitando... ¡Se va a venir!
+Dialogue: 0,0:12:53.29,0:12:56.88,Default,,0,0,0,,Me vengo... Me vengo... ¡Me vengo!
+Dialogue: 0,0:12:57.25,0:13:01.13,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:13:03.62,0:13:06.48,Default,,0,0,0,,No... No puedo más...
+Dialogue: 0,0:13:06.48,0:13:09.01,Default,,0,0,0,,¡Tanto mis pezones como mi vagina se sienten bien!
+Dialogue: 0,0:13:09.01,0:13:12.35,Default,,0,0,0,,¡No puedo soportarlo! ¡Ya no aguanto!
+Dialogue: 0,0:13:12.35,0:13:16.02,Default,,0,0,0,,¡Haz algo con esta sensación punzante!
+Dialogue: 0,0:13:16.02,0:13:19.07,Default,,0,0,0,,Todavía no, recién empezamos.
+Dialogue: 0,0:13:19.63,0:13:21.73,Default,,0,0,0,,Voy a seguir embistiéndote más.
+Dialogue: 0,0:13:21.99,0:13:25.66,Default,,0,0,0,,Sí... ¡Me gusta que lo hagan rudo!
+Dialogue: 0,0:13:27.35,0:13:29.04,Default,,0,0,0,,Entró como si estuviera acostumbrada.
+Dialogue: 0,0:13:29.04,0:13:31.89,Default,,0,0,0,,¡Es gruesa! M-Me partirá...
+Dialogue: 0,0:13:31.89,0:13:34.60,Default,,0,0,0,,¡Pero la sensación de hormigueo se siente genial!
+Dialogue: 0,0:13:36.55,0:13:39.20,Default,,0,0,0,,¿Qué le está pasando a mi cuerpo?
+Dialogue: 0,0:13:39.20,0:13:42.05,Default,,0,0,0,,¡No puedo dejar de sentir placer!
+Dialogue: 0,0:13:42.05,0:13:45.34,Default,,0,0,0,,¡Mi cuerpo no puede evitar anhelar el orgasmo!
+Dialogue: 0,0:13:50.13,0:13:54.27,Default,,0,0,0,,¡Puedo sentirlo! ¡Puedo sentir el\Nplacer en lo más profundo de mí!
+Dialogue: 0,0:13:55.27,0:13:58.83,Default,,0,0,0,,¡Eyacula de una vez en mi interior! ¡Eyacula!
+Dialogue: 0,0:14:03.12,0:14:04.88,Default,,0,0,0,,Está saliendo mucho...
+Dialogue: 0,0:14:04.88,0:14:09.22,Default,,0,0,0,,¡Están saliendo muchos\Nfluidos lascivos de mi cuerpo!
+Dialogue: 0,0:14:10.87,0:14:14.39,Default,,0,0,0,,¡Su cosa gruesa está llegando hasta mi garganta!
+Dialogue: 0,0:14:17.58,0:14:21.29,Default,,0,0,0,,Se desliza y se frota contra mi garganta...
+Dialogue: 0,0:14:25.06,0:14:26.97,Default,,0,0,0,,Estoy palpitando... ¡Sí!
+Dialogue: 0,0:14:30.70,0:14:34.72,Default,,0,0,0,,¡Está revolviendo la habitación\Nde mi bebé en mi vientre!
+Dialogue: 0,0:14:38.69,0:14:41.40,Default,,0,0,0,,¡Me vengo, me vengo! ¡Me vengo de nuevo!
+Dialogue: 0,0:14:47.55,0:14:52.02,Default,,0,0,0,,Está saliendo... Está saliendo mucho...
+Dialogue: 0,0:14:52.02,0:14:54.74,Default,,0,0,0,,Hay mucho del líquido apestoso...
+Dialogue: 0,0:14:54.74,0:14:56.95,Default,,0,0,0,,Se siente bien...
+Dialogue: 0,0:14:59.07,0:15:02.35,Default,,0,0,0,,Lo estoy tomando en la parte de atrás\Nde mi garganta y dentro de mi útero...
+Dialogue: 0,0:15:02.35,0:15:06.34,Default,,0,0,0,,Sí... Así... Se siente bien...
+Dialogue: 0,0:15:09.74,0:15:14.36,Default,,0,0,0,,Eyacula... ¡Eyacula de una vez en\Nel interior de mi útero y mi garganta!
+Dialogue: 0,0:15:14.36,0:15:16.81,Default,,0,0,0,,¡Ya viene! Viene... ¡Viene!
+Dialogue: 0,0:15:35.19,0:15:36.53,Default,,0,0,0,,Asagi...
+Dialogue: 0,0:15:38.14,0:15:41.18,Default,,0,0,0,,En este momento empieza el verdadero espectáculo.
+Dialogue: 0,0:15:43.22,0:15:43.92,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:15:44.20,0:15:47.67,Default,,0,0,0,,El pene de un orco mejorado\Nes increíble, ¿no es así?
+Dialogue: 0,0:15:48.70,0:15:51.97,Default,,0,0,0,,Será divertido ver como esa cosa se mete.
+Dialogue: 0,0:15:52.46,0:15:57.72,Default,,0,0,0,,¿Estirará demasiado una vagina hasta el\Npunto de hacer que sea incapaz de cerrarse?
+Dialogue: 0,0:15:59.95,0:16:01.76,Default,,0,0,0,,Detente...
+Dialogue: 0,0:16:01.76,0:16:04.99,Default,,0,0,0,,¿Eh? ¿Qué estás a estas alturas?
+Dialogue: 0,0:16:04.99,0:16:06.44,Default,,0,0,0,,Te lo pido, Oboro...
+Dialogue: 0,0:16:10.07,0:16:11.23,Default,,0,0,0,,Cierto...
+Dialogue: 0,0:16:11.23,0:16:14.70,Default,,0,0,0,,Entonces, ¿vas a tomar su lugar\Ncomo un contenedor de basura?
+Dialogue: 0,0:16:15.93,0:16:18.72,Default,,0,0,0,,S-Sí, por favor...
+Dialogue: 0,0:16:19.56,0:16:22.25,Default,,0,0,0,,Te amo, Asagi...

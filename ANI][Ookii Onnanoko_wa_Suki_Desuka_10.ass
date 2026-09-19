@@ -1,0 +1,86 @@
+﻿[Script Info]
+Title: ToonsHub
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gilroy Sans,62,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Signs,Gilroy Sans,62,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,20,0
+Style: Haniyae,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,9,10,10,10,1
+Style: Haniyae - Center,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Haniyae - Izquierda,Gilroy,27,&H3CFFFFFF,&H00FF004B,&HFFFFFFFF,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:07:05.00,Haniyae,,40,40,0,,haniyae.net
+Dialogue: 0,0:09:00.00,0:15:00.00,Haniyae - Center,,40,40,0,,haniyae.net
+Dialogue: 0,0:18:00.00,0:22:00.00,Haniyae - Izquierda,,40,40,0,,haniyae.net
+Dialogue: 0,0:00:17.52,0:00:20.52,Default,,0,0,0,,Amas a alguien con quien\Nno tienes permitido ir en serio...
+Dialogue: 0,0:00:22.23,0:00:24.86,Default,,0,0,0,,Y por eso no puedes dejarte\Nllevar en serio por nada.
+Dialogue: 0,0:00:27.90,0:00:31.24,Default,,0,0,0,,Basta. Por favor, no digas nada más.
+Dialogue: 0,0:00:35.29,0:00:36.95,Default,,0,0,0,,Sabes, Kaoru...
+Dialogue: 0,0:00:37.16,0:00:39.50,Default,,0,0,0,,Ah, ¿eh, qué?
+Dialogue: 0,0:00:39.54,0:00:42.92,Default,,0,0,0,,Este... bueno... sobre lo del otro día...
+Dialogue: 0,0:00:42.92,0:00:43.92,Default,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:00:43.96,0:00:44.96,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:00:45.00,0:00:46.63,Default,,0,0,0,,¿Cómo que a qué?
+Dialogue: 0,0:00:46.67,0:00:49.17,Default,,0,0,0,,Ah, mala mía. ¡No me acuerdo!
+Dialogue: 0,0:00:49.97,0:00:52.22,Default,,0,0,0,,Vas a fingir que no pasó nada, ¿eh?
+Dialogue: 0,0:00:54.22,0:00:55.56,Default,,0,0,0,,Ah, hola, capitana.
+Dialogue: 0,0:00:55.81,0:00:57.02,Default,,0,0,0,,¡Buenas!
+Dialogue: 0,0:00:57.10,0:00:58.85,Default,,0,0,0,,Creo que mejor me largo.
+Dialogue: 0,0:01:00.48,0:01:01.52,Default,,0,0,0,,Capitana.
+Dialogue: 0,0:01:02.86,0:01:05.15,Default,,0,0,0,,Cuida bien de Sota, ¿vale?
+Dialogue: 0,0:01:07.40,0:01:08.44,Default,,0,0,0,,Vaya, vaya...
+Dialogue: 0,0:01:08.44,0:01:10.82,Default,,0,0,0,,Ya me lo contaron Sakura y las demás.
+Dialogue: 0,0:01:11.66,0:01:14.32,Default,,0,0,0,,¿Por qué harías una cosa así?
+Dialogue: 0,0:01:14.58,0:01:17.83,Default,,0,0,0,,A ver, si simplemente hubiera dejado las cosas como estaban,\nse habrían quedado así para siempre, ¿sabes?
+Dialogue: 0,0:01:17.87,0:01:18.87,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:01:20.58,0:01:21.75,Default,,0,0,0,,Lo de ustedes dos.
+Dialogue: 0,0:01:24.75,0:01:28.00,Default,,0,0,0,,¿O sea que estás diciendo que él\nni siquiera se da cuenta por sí mismo?
+Dialogue: 0,0:01:28.09,0:01:32.22,Default,,0,0,0,,Exacto. Durante nuestra cita, se la pasó\nhablando de Kaoru todo el maldito tiempo.
+Dialogue: 0,0:01:32.72,0:01:37.51,Default,,0,0,0,,¡Lo mismo conmigo! En las aguas termales,\n¡todo era mi hermana esto, mi hermana aquello!
+Dialogue: 0,0:01:37.72,0:01:40.64,Default,,0,0,0,,A pesar de que no tiene idea\nde sus propios sentimientos...
+Dialogue: 0,0:01:40.73,0:01:42.27,Default,,0,0,0,,¡Lo único que sabe hacer es parlotear de eso!
+Dialogue: 0,0:01:43.65,0:01:45.44,Default,,0,0,0,,¡Ay, Sota! ¡¿Estás bien?!
+Dialogue: 0,0:01:45.48,0:01:46.81,Default,,0,0,0,,- ¡Oye, cuidado dónde tocas!\n- ¡Santo Dios!
+Dialogue: 0,0:01:46.86,0:01:47.86,Default,,0,0,0,,¿Cómo carajos te lastimaste así?
+Dialogue: 0,0:01:52.32,0:01:53.74,Default,,0,0,0,,¡Oye, hermana! ¡Regresa!
+Dialogue: 0,0:01:53.74,0:01:55.66,Default,,0,0,0,,¡Cállate! ¡No me sigas!
+Dialogue: 0,0:01:55.66,0:01:57.20,Default,,0,0,0,,¡Vamos, hermana, espérame!
+Dialogue: 0,0:01:57.24,0:01:59.20,Default,,0,0,0,,Déjame en paz. Deja de seguirme.
+Dialogue: 0,0:01:59.24,0:02:02.83,Default,,0,0,0,,En serio, ¿qué carajos te pasa?\n¿Es por lo que pasó con Ayano?
+Dialogue: 0,0:02:04.29,0:02:06.25,Default,,0,0,0,,E-Eso fue...
+Dialogue: 0,0:02:11.09,0:02:13.13,Default,,0,0,0,,¿Quieres que vayamos a una cita, hermana?
+Dialogue: 0,0:02:13.30,0:02:14.38,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:02:14.59,0:02:15.93,Default,,0,0,0,,Vamos a comprarte algo de ropa.
+Dialogue: 0,0:02:15.97,0:02:17.43,Default,,0,0,0,,No quiero que te pesques un resfriado.
+Dialogue: 0,0:02:18.51,0:02:19.72,Default,,0,0,0,,Además, llamas mucho la atención.
+Dialogue: 0,0:02:27.06,0:02:28.94,Default,,0,0,0,,¿Cómo... cómo me veo?
+Dialogue: 0,0:02:29.90,0:02:32.44,Default,,0,0,0,,Este... estás muy...
+Dialogue: 0,0:02:32.70,0:02:35.32,Default,,0,0,0,,muy hermosa.
+Dialogue: 0,0:02:36.45,0:02:39.45,Default,,0,0,0,,Y bien, ¿las cosas entre la capitana\ny tú van por buen camino?
+Dialogue: 0,0:02:39.62,0:02:41.49,Default,,0,0,0,,Mmm. Es complicado.
+Dialogue: 0,0:02:41.70,0:02:42.83,Default,,0,0,0,,¿Complicado?
+Dialogue: 0,0:02:42.87,0:02:46.12,Default,,0,0,0,,Me dijo que hay alguien\nque me gusta más que ella.
+Dialogue: 0,0:02:47.75,0:02:49.34,Default,,0,0,0,,¿Te refieres a... Ayano?
+Dialogue: 0,0:02:49.50,0:02:51.38,Default,,0,0,0,,Se refería a ti, hermana.
+Dialogue: 0,0:02:52.51,0:02:54.09,Default,,0,0,0,,Entonces, ¿lo tuyo con Ayano al final...?
+Dialogue: 0,0:02:54.13,0:02:55.43,Default,,0,0,0,,Ya, déjame en paz.
+Dialogue: 0,0:02:59.18,0:03:01.26,Default,,0,0,0,,¡Estoy JODIDAMENTE BORRACHA!
+Dialogue: 0,0:03:01.31,0:03:03.60,Default,,0,0,0,,Tomaste demasiado, hermana.
+Dialogue: 0,0:03:03.64,0:03:05.94,Default,,0,0,0,,¡No es mi culpa que estuviera tan delicioso!~
+Dialogue: 0,0:03:06.15,0:03:08.27,Default,,0,0,0,,Sí, sí, ahora regresemos al dormitorio.
+Dialogue: 0,0:03:08.27,0:03:10.52,Default,,0,0,0,,¡Ni hablar, estamos en una cita!
+Dialogue: 0,0:03:10.61,0:03:13.11,Default,,0,0,0,,- ¡Hay que quedarnos a pasar la noche!\n- ¡¿Qué?!
+Dialogue: 0,0:03:13.15,0:03:17.61,Default,,0,0,0,,¡Te quedaste en un hotel con Ayano e fuiste\na las aguas termales con la capitana!
+Dialogue: 0,0:03:17.66,0:03:20.12,Default,,0,0,0,,¡Porque tú misma me dijiste que lo hiciera!
+Dialogue: 0,0:03:35.55,0:03:37.72,Default,,0,0,0,,La habitación me da vueltas...
+Dialogue: 0,0:03:40.26,0:03:44.72,Default,,0,0,0,,Mira, Sota. Es el tipo de cuerpo\nque más te calienta...~
+Dialogue: 0,0:04:36.90,0:04:38.53,Default,,0,0,0,,¿Sota?
+Dialogue: 0,0:04:48.41,0:04:50.04,Default,,0,0,0,,Hermana...

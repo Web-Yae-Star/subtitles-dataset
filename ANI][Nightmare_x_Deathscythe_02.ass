@@ -1,0 +1,353 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FF0057,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.90,0:00:11.48,Default,,0,0,0,,¡Todo mi cuerpo está rebosante de poder nuevamente!
+Dialogue: 0,0:00:11.48,0:00:14.63,Default,,0,0,0,,Este es el poder del niño demonio... ¡Maravilloso!
+Dialogue: 0,0:00:14.63,0:00:16.80,Default,,0,0,0,,Apenas hemos comenzado.
+Dialogue: 0,0:00:16.80,0:00:20.42,Default,,0,0,0,,Si la niña con la sangre de\Nlos dioses de la muerte da a
+Dialogue: 0,0:00:20.42,0:00:24.03,Default,,0,0,0,,luz al próximo hijo, ¡nuestro\Npoder se hará aún más fuerte!
+Dialogue: 0,0:00:24.83,0:00:27.28,Default,,0,0,0,,Bueno, entonces, niña demonio...
+Dialogue: 0,0:00:27.28,0:00:31.80,Default,,0,0,0,,¡Muéstranos ese mismo poder ahora mismo!
+Dialogue: 0,0:00:37.64,0:00:41.06,Default,,0,0,0,,¿Por qué no puedo parar?
+Dialogue: 0,0:00:43.32,0:00:45.64,Default,,0,0,0,,No debería estar haciendo esto,
+Dialogue: 0,0:00:45.64,0:00:49.57,Default,,0,0,0,,pero siento que mi cuerpo arde...
+Dialogue: 0,0:00:51.37,0:00:54.58,Default,,0,0,0,,Cada vez me vuelvo más indecente...
+Dialogue: 0,0:00:57.03,0:01:00.87,Default,,0,0,0,,¡No! ¡P-Por favor ayúdame!
+Dialogue: 0,0:01:00.87,0:01:03.64,Default,,0,0,0,,Yuuka-oneechan... Setsuna-oneechan...
+Dialogue: 0,0:01:03.64,0:01:08.09,Default,,0,0,0,,¡Si esto continúa, perderé la cabeza!
+Dialogue: 0,0:01:12.05,0:01:12.09,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.09,0:01:12.13,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.13,0:01:12.17,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.17,0:01:12.21,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.21,0:01:12.26,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.26,0:01:12.30,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.30,0:01:12.34,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.34,0:01:12.38,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.38,0:01:12.42,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.42,0:01:12.46,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.46,0:01:12.51,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.51,0:01:12.55,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.55,0:01:12.59,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.59,0:01:12.63,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.63,0:01:12.67,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.67,0:01:12.71,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.71,0:01:12.76,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.76,0:01:12.80,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.80,0:01:12.84,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:12.84,0:01:20.76,Default,,0,0,0,,Resonancia de la Rebelión Volumen Final
+Dialogue: 0,0:01:53.37,0:01:56.59,Default,,0,0,0,,Las hermanas Shindou, las exorcistas errantes.
+Dialogue: 0,0:01:56.59,0:02:01.49,Default,,0,0,0,,Son un grupo abominable que aplastó\Nvarias de nuestras ramas de culto.
+Dialogue: 0,0:02:01.49,0:02:05.68,Default,,0,0,0,,Parece que te cuidaron muy bien\Nen la tienda de Hironuma antes.
+Dialogue: 0,0:02:05.68,0:02:08.84,Default,,0,0,0,,¿No es esto suficiente? ¡Deja\Nya de hacer cosas horribles!
+Dialogue: 0,0:02:08.84,0:02:12.65,Default,,0,0,0,,¡Te lo ruego! ¡Deja ir a Setsuna y Rinne-chan!
+Dialogue: 0,0:02:12.65,0:02:14.82,Default,,0,0,0,,No me importa lo que me pase, así que...
+Dialogue: 0,0:02:15.53,0:02:16.88,Default,,0,0,0,,¡Onee-chan!
+Dialogue: 0,0:02:16.88,0:02:20.82,Default,,0,0,0,,¡Ja, estas tres hermanas\Ntan amigas me hacen vomitar!
+Dialogue: 0,0:02:24.13,0:02:26.33,Default,,0,0,0,,¿Qué es este humo?
+Dialogue: 0,0:02:26.33,0:02:27.79,Default,,0,0,0,,Saborea el aroma del incienso especial para
+Dialogue: 0,0:02:27.79,0:02:29.25,Default,,0,0,0,,demonios sexuales de nuestro culto. Espera...
+Dialogue: 0,0:02:30.83,0:02:33.95,Default,,0,0,0,,¡Para, no!
+Dialogue: 0,0:02:37.85,0:02:40.71,Default,,0,0,0,,¿Por qué mi cuerpo se siente caliente?
+Dialogue: 0,0:02:40.71,0:02:44.93,Default,,0,0,0,,Se están saliendo con la suya conmigo...\NEsto está mal pero mi cuerpo está palpitando...
+Dialogue: 0,0:02:45.25,0:02:48.07,Default,,0,0,0,,¿Qué te parece? ¡Para! Apuesto a
+Dialogue: 0,0:02:48.07,0:02:50.89,Default,,0,0,0,,que nunca antes habías sentido algo así.
+Dialogue: 0,0:02:54.81,0:02:56.94,Default,,0,0,0,,N-No... No...
+Dialogue: 0,0:02:57.69,0:03:02.24,Default,,0,0,0,,Si hacen esto ahora mismo, yo...
+Dialogue: 0,0:03:09.65,0:03:11.79,Default,,0,0,0,,¿Te corriste solo por meterlo?
+Dialogue: 0,0:03:11.79,0:03:14.43,Default,,0,0,0,,E-Eso no es... De ninguna manera...
+Dialogue: 0,0:03:15.69,0:03:16.87,Default,,0,0,0,,¡Nooo!
+Dialogue: 0,0:03:16.87,0:03:19.62,Default,,0,0,0,,¡Contempla el legendario dispositivo de tortura!
+Dialogue: 0,0:03:19.62,0:03:22.15,Default,,0,0,0,,¡Aquí viene el falo de las tinieblas!
+Dialogue: 0,0:03:24.49,0:03:27.70,Default,,0,0,0,,¡Detente! ¡Eso no cabe dentro!
+Dialogue: 0,0:03:27.70,0:03:30.06,Default,,0,0,0,,¡Lo está absorbiendo!
+Dialogue: 0,0:03:32.00,0:03:33.91,Default,,0,0,0,,¡Eso es tan erótico!
+Dialogue: 0,0:03:35.99,0:03:37.98,Default,,0,0,0,,¡Ah! ¡Me corro!
+Dialogue: 0,0:03:39.64,0:03:42.88,Default,,0,0,0,,¿Te corriste solo por meterlo, monja cachonda?
+Dialogue: 0,0:03:44.70,0:03:46.65,Default,,0,0,0,,¡Maldito recipiente!
+Dialogue: 0,0:03:50.51,0:03:53.37,Default,,0,0,0,,¡No, no!
+Dialogue: 0,0:03:53.37,0:03:56.34,Default,,0,0,0,,Tus pezones están duros.
+Dialogue: 0,0:03:56.34,0:03:59.02,Default,,0,0,0,,¿Se siente bien hacer una "rusa"?
+Dialogue: 0,0:04:02.68,0:04:05.78,Default,,0,0,0,,Se siente increíble por dentro...
+Dialogue: 0,0:04:06.95,0:04:08.64,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:04:09.63,0:04:12.76,Default,,0,0,0,,¡Aquí igual! ¡Te lo dispararé en la cara!
+Dialogue: 0,0:04:12.76,0:04:14.81,Default,,0,0,0,,¡Recíbelo!
+Dialogue: 0,0:04:24.21,0:04:26.80,Default,,0,0,0,,¡Esto te hará venir una y otra vez!
+Dialogue: 0,0:04:26.80,0:04:30.41,Default,,0,0,0,,¡No lo hará! ¡Ese juguete\Nno me hará llegar al orgasmo!
+Dialogue: 0,0:04:30.41,0:04:33.69,Default,,0,0,0,,¡Dios mío! ¿Qué tal si te callas y te vienes?
+Dialogue: 0,0:04:38.49,0:04:42.98,Default,,0,0,0,,¡Esto es diferente de lo real!
+Dialogue: 0,0:04:47.09,0:04:50.08,Default,,0,0,0,,¡Llévalo hasta tu garganta!
+Dialogue: 0,0:04:56.90,0:04:59.17,Default,,0,0,0,,¡No puedo tener suficiente de esto!
+Dialogue: 0,0:05:02.05,0:05:03.63,Default,,0,0,0,,¡Esto es bueno!
+Dialogue: 0,0:05:07.47,0:05:09.34,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:05:10.02,0:05:12.34,Default,,0,0,0,,¡Aquí está el material extra espeso!
+Dialogue: 0,0:05:24.98,0:05:28.31,Default,,0,0,0,,¡No quiero venirme! No quiero y aún así...
+Dialogue: 0,0:05:28.89,0:05:30.69,Default,,0,0,0,,¡Voy a venirme otra vez!
+Dialogue: 0,0:05:30.69,0:05:33.57,Default,,0,0,0,,¡Entrenaremos bien tu garganta!
+Dialogue: 0,0:05:38.89,0:05:41.36,Default,,0,0,0,,¡Mierda, estoy a punto de correrme!
+Dialogue: 0,0:05:49.95,0:05:53.42,Default,,0,0,0,,¡Asegúrate de recibirlo! ¡No, no lo hagas!
+Dialogue: 0,0:05:56.70,0:05:59.72,Default,,0,0,0,,¡Me vengo! ¡Me corro!
+Dialogue: 0,0:05:59.72,0:06:01.08,Default,,0,0,0,,¡Corrida interna!
+Dialogue: 0,0:06:07.09,0:06:10.14,Default,,0,0,0,,¡Ah, no! ¡Quedaré embarazada!
+Dialogue: 0,0:06:10.14,0:06:12.31,Default,,0,0,0,,¡Me vengo! ¡Me corro! ¡Me corro!
+Dialogue: 0,0:06:14.01,0:06:18.02,Default,,0,0,0,,¡Me vengo! ¡Me vengo! ¡Me corro de nuevo!
+Dialogue: 0,0:06:19.27,0:06:22.68,Default,,0,0,0,,¡Se desliza dentro y fuera de tu coño!
+Dialogue: 0,0:06:27.51,0:06:29.72,Default,,0,0,0,,¡Este maldito coño!
+Dialogue: 0,0:06:29.72,0:06:32.58,Default,,0,0,0,,¡Toma eso! ¡Toma!
+Dialogue: 0,0:06:34.61,0:06:36.43,Default,,0,0,0,,¿Te sientes bien con tus tetas,
+Dialogue: 0,0:06:36.43,0:06:38.25,Default,,0,0,0,,monja pervertida? Detente...
+Dialogue: 0,0:06:39.95,0:06:41.50,Default,,0,0,0,,¡Detente!
+Dialogue: 0,0:06:42.25,0:06:44.90,Default,,0,0,0,,¡Toma! ¡Toma!
+Dialogue: 0,0:06:47.30,0:06:49.64,Default,,0,0,0,,¡Va a salir!
+Dialogue: 0,0:06:52.23,0:06:55.99,Default,,0,0,0,,¡Atrapa mi guiso con tu cara!
+Dialogue: 0,0:06:57.82,0:06:59.44,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:07:04.67,0:07:07.08,Default,,0,0,0,,¡No lo soporto más!
+Dialogue: 0,0:07:07.08,0:07:12.41,Default,,0,0,0,,No... ¡Me vengo! ¡Me corro!
+Dialogue: 0,0:07:15.43,0:07:18.75,Default,,0,0,0,,Con esto, las hermanas Shindou han caído.
+Dialogue: 0,0:07:19.02,0:07:23.71,Default,,0,0,0,,Caballeros, ¡hoy tendremos un\Nevento especial fuera de línea!
+Dialogue: 0,0:07:23.71,0:07:29.67,Default,,0,0,0,,Esta vez, una chica muy rara con la\Nsangre de los dioses de la muerte te servirá...
+Dialogue: 0,0:07:29.67,0:07:33.64,Default,,0,0,0,,...¡con un traje de sirvienta con orejas de gato!
+Dialogue: 0,0:07:33.95,0:07:37.87,Default,,0,0,0,,¿Por qué llevo esto? E-Esto es vergonzoso...
+Dialogue: 0,0:07:37.87,0:07:41.95,Default,,0,0,0,,¡Obviamente porque así es más lascivo!
+Dialogue: 0,0:07:41.95,0:07:44.37,Default,,0,0,0,,¡No hay otra razón!
+Dialogue: 0,0:07:44.37,0:07:46.86,Default,,0,0,0,,¡Aquí vamos!
+Dialogue: 0,0:07:48.04,0:07:49.75,Default,,0,0,0,,¡Toma!
+Dialogue: 0,0:07:51.64,0:07:53.19,Default,,0,0,0,,¿¡Qué son estas cosas!?
+Dialogue: 0,0:07:53.19,0:07:58.24,Default,,0,0,0,,¡Akuta-sama compartió algunos\Npoderes demoníacos conmigo!
+Dialogue: 0,0:08:00.83,0:08:03.19,Default,,0,0,0,,¡Todo es por este espectáculo especial! ¡Nooo!
+Dialogue: 0,0:08:03.99,0:08:05.13,Default,,0,0,0,,¡Detente!
+Dialogue: 0,0:08:07.38,0:08:08.25,Default,,0,0,0,,Perfecto...
+Dialogue: 0,0:08:09.67,0:08:13.93,Default,,0,0,0,,¡Tus tetas, coño y culo\Nsentirán placer al mismo tiempo!
+Dialogue: 0,0:08:13.93,0:08:15.68,Default,,0,0,0,,No...
+Dialogue: 0,0:08:15.68,0:08:21.98,Default,,0,0,0,,Caballeros, ¿quieren ver a esta chica\Ndios de la muerte bajo tortura con tentáculos?
+Dialogue: 0,0:08:23.06,0:08:26.44,Default,,0,0,0,,P-Para... Vaya, controlarlos seguro que es difícil.
+Dialogue: 0,0:08:26.45,0:08:28.16,Default,,0,0,0,,¡Ahí tienes!
+Dialogue: 0,0:08:29.89,0:08:32.08,Default,,0,0,0,,Esto se siente asqueroso...
+Dialogue: 0,0:08:32.86,0:08:36.30,Default,,0,0,0,,¡Nunca hubiera imaginado que ya diste a luz!
+Dialogue: 0,0:08:36.30,0:08:38.82,Default,,0,0,0,,¡Qué coño tan apretado!
+Dialogue: 0,0:08:39.98,0:08:42.81,Default,,0,0,0,,E-Está llegando hasta el fondo...
+Dialogue: 0,0:08:43.58,0:08:47.28,Default,,0,0,0,,¡Se me revuelve la barriga por dentro!
+Dialogue: 0,0:08:50.21,0:08:51.75,Default,,0,0,0,,No...
+Dialogue: 0,0:08:51.75,0:08:53.93,Default,,0,0,0,,¡Mi trasero no! Debería entrar aquí también.
+Dialogue: 0,0:08:56.07,0:08:58.64,Default,,0,0,0,,¡Duele! ¡Duele!
+Dialogue: 0,0:08:59.98,0:09:01.10,Default,,0,0,0,,¡No!
+Dialogue: 0,0:09:01.61,0:09:06.12,Default,,0,0,0,,¡Me vengo! ¡Está saliendo de ambos!
+Dialogue: 0,0:09:07.27,0:09:10.02,Default,,0,0,0,,¡Ah, nooo!
+Dialogue: 0,0:09:15.89,0:09:17.73,Default,,0,0,0,,¡Pues bien, queridos invitados!
+Dialogue: 0,0:09:17.73,0:09:21.07,Default,,0,0,0,,¿Algún valiente se animará al\Ndesafío de la chica dios de la muerte?
+Dialogue: 0,0:09:21.07,0:09:22.20,Default,,0,0,0,,¡Lo haré!
+Dialogue: 0,0:09:25.03,0:09:27.05,Default,,0,0,0,,¡Ah, son maravillosos!
+Dialogue: 0,0:09:27.05,0:09:29.71,Default,,0,0,0,,¡Ahh, se sienten calientes y regordetes!
+Dialogue: 0,0:09:32.47,0:09:34.98,Default,,0,0,0,,¡Oh, voy a venirme otra vez!
+Dialogue: 0,0:09:36.47,0:09:38.97,Default,,0,0,0,,N-No puedo creer esto...
+Dialogue: 0,0:09:38.97,0:09:41.55,Default,,0,0,0,,¡Me vengo! ¡Ya está saliendo!
+Dialogue: 0,0:09:43.14,0:09:44.65,Default,,0,0,0,,¡Nooo!
+Dialogue: 0,0:09:51.57,0:09:56.80,Default,,0,0,0,,¡Pues bien, queridos invitados!  ¡El happy hour\Nde apertura de nuestra tienda comienza ahora!
+Dialogue: 0,0:09:56.80,0:09:59.34,Default,,0,0,0,,De acuerdo, vamos...
+Dialogue: 0,0:10:00.16,0:10:03.81,Default,,0,0,0,,¡Wow! ¡Esto es increíble!
+Dialogue: 0,0:10:03.81,0:10:07.46,Default,,0,0,0,,¡Me están chupando hasta dejarme seco!
+Dialogue: 0,0:10:07.85,0:10:11.16,Default,,0,0,0,,¡Nunca antes había sentido el sexo anal así!
+Dialogue: 0,0:10:14.18,0:10:16.65,Default,,0,0,0,,¡Aquí abajo también!
+Dialogue: 0,0:10:19.19,0:10:20.98,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:10:23.50,0:10:25.89,Default,,0,0,0,,¡Está siendo succionado!
+Dialogue: 0,0:10:34.86,0:10:36.96,Default,,0,0,0,,¡Muéstrame tu boca!
+Dialogue: 0,0:10:36.96,0:10:38.86,Default,,0,0,0,,Asegúrate de grabar esto.
+Dialogue: 0,0:10:38.86,0:10:40.82,Default,,0,0,0,,¡Esto es lo mejor!
+Dialogue: 0,0:10:40.82,0:10:44.05,Default,,0,0,0,,¡Oh, me vengo! ¡Toma esto!
+Dialogue: 0,0:10:48.87,0:10:52.91,Default,,0,0,0,,Eres capaz de soportar la tortura de\Nmi tentáculo como si fueras un monstruo.
+Dialogue: 0,0:10:52.91,0:10:56.57,Default,,0,0,0,,¡Estás equivocado! ¡No soy ningún monstruo!
+Dialogue: 0,0:11:03.18,0:11:08.83,Default,,0,0,0,,¡Caballeros, esto es un festival de semen!
+Dialogue: 0,0:11:20.00,0:11:24.37,Default,,0,0,0,,Hemos vuelto a pasar una gran\Nnoche gracias a ustedes. Vamos...
+Dialogue: 0,0:11:24.69,0:11:28.41,Default,,0,0,0,,Te dejaré ver a las hermanas\NShindou como recompensa.
+Dialogue: 0,0:11:36.11,0:11:40.58,Default,,0,0,0,,¡Sí, me encantan las pollas del culto\Ndemoníaco! ¡Ellos son los mejores!
+Dialogue: 0,0:11:40.58,0:11:43.42,Default,,0,0,0,,¡Mételo hasta el fondo!
+Dialogue: 0,0:11:43.42,0:11:46.76,Default,,0,0,0,,¡Sigue metiéndome esa polla demoníaca!
+Dialogue: 0,0:11:49.32,0:11:52.69,Default,,0,0,0,,Onee-chan... ¿Cómo...? ¿Por qué?
+Dialogue: 0,0:11:53.19,0:11:55.62,Default,,0,0,0,,Rinne-chan, ¡lo siento! ¡No puedo
+Dialogue: 0,0:11:55.63,0:11:58.06,Default,,0,0,0,,resistirme más! ¿¡Estás poniendo excusas!?
+Dialogue: 0,0:11:58.07,0:12:01.61,Default,,0,0,0,,¡Lo siento de verdad!
+Dialogue: 0,0:12:02.42,0:12:05.03,Default,,0,0,0,,¡Por favor castígame! ¡Quiero
+Dialogue: 0,0:12:05.04,0:12:07.65,Default,,0,0,0,,ser castigada! Está bien...
+Dialogue: 0,0:12:08.26,0:12:11.35,Default,,0,0,0,,Ahí... ooh...
+Dialogue: 0,0:12:14.23,0:12:16.87,Default,,0,0,0,,¡Te castigaré hasta la garganta!
+Dialogue: 0,0:12:16.87,0:12:19.54,Default,,0,0,0,,¡P-Por favor castígame!
+Dialogue: 0,0:12:22.24,0:12:23.97,Default,,0,0,0,,¡Aquí viene! ¡Oh!
+Dialogue: 0,0:12:27.64,0:12:29.09,Default,,0,0,0,,¡Esta es una exorcista cachonda!
+Dialogue: 0,0:12:29.10,0:12:30.55,Default,,0,0,0,,¡Lo siento por todo hasta ahora!
+Dialogue: 0,0:12:30.56,0:12:33.48,Default,,0,0,0,,¡Soy una exorcista cachonda!
+Dialogue: 0,0:12:33.48,0:12:36.34,Default,,0,0,0,,¡Por favor, conviérteme en el basurero de la secta!
+Dialogue: 0,0:12:36.34,0:12:39.88,Default,,0,0,0,,¡Castiga mi coño sucio!
+Dialogue: 0,0:12:39.88,0:12:42.53,Default,,0,0,0,,¡Por favor castíguelo!
+Dialogue: 0,0:12:42.53,0:12:46.02,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:12:49.43,0:12:50.52,Default,,0,0,0,,¡Toma eso!
+Dialogue: 0,0:12:52.85,0:12:57.04,Default,,0,0,0,,¡Hay tanto jugo de castigo!
+Dialogue: 0,0:12:58.80,0:13:01.01,Default,,0,0,0,,Y-Yuuka-oneechan...
+Dialogue: 0,0:13:04.36,0:13:07.13,Default,,0,0,0,,¡Toma! ¡Ahí tienes!
+Dialogue: 0,0:13:08.34,0:13:12.30,Default,,0,0,0,,¡Mira bien cómo me castigan!
+Dialogue: 0,0:13:14.64,0:13:17.64,Default,,0,0,0,,¿Tanto quieres que te miren!
+Dialogue: 0,0:13:22.11,0:13:24.30,Default,,0,0,0,,¿Qué tal esto entonces?
+Dialogue: 0,0:13:24.30,0:13:27.66,Default,,0,0,0,,¡Sí, sigue mirando!
+Dialogue: 0,0:13:34.31,0:13:37.08,Default,,0,0,0,,¡Castígame más!
+Dialogue: 0,0:13:39.91,0:13:41.90,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:13:41.90,0:13:46.07,Default,,0,0,0,,¡Mmm! ¡Sí, castígame!
+Dialogue: 0,0:13:46.07,0:13:51.97,Default,,0,0,0,,¡Mírame hacerme un facial!
+Dialogue: 0,0:13:54.30,0:13:59.66,Default,,0,0,0,,¿Estás viendo? ¿Estás viendo que me llenan de leche?
+Dialogue: 0,0:13:59.66,0:14:03.61,Default,,0,0,0,,Te lo ruego... ¡Para ya!
+Dialogue: 0,0:14:05.36,0:14:09.62,Default,,0,0,0,,¡Si esto continúa, ambas perderán la cabeza!
+Dialogue: 0,0:14:10.05,0:14:13.46,Default,,0,0,0,,¿Aún te preocupas por los demás, Rinne?
+Dialogue: 0,0:14:13.46,0:14:14.51,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:14:16.71,0:14:19.92,Default,,0,0,0,,Esas hermanas son meros\Nespectáculos secundarios del banquete.
+Dialogue: 0,0:14:19.92,0:14:21.88,Default,,0,0,0,,El ritual de la cópula comenzará
+Dialogue: 0,0:14:21.89,0:14:23.85,Default,,0,0,0,,una vez más. ¡Nooooo!
+Dialogue: 0,0:14:26.46,0:14:30.97,Default,,0,0,0,,Un nuevo niño demonio descenderá...
+Dialogue: 0,0:14:33.89,0:14:37.13,Default,,0,0,0,,...¡por el bien de nuestro culto!
+Dialogue: 0,0:14:38.30,0:14:40.18,Default,,0,0,0,,¡No! ¡Ah!
+Dialogue: 0,0:14:40.94,0:14:45.65,Default,,0,0,0,,Además, ¿no te sientes encantada en el fondo?
+Dialogue: 0,0:14:45.65,0:14:47.46,Default,,0,0,0,,¡No, nooo!
+Dialogue: 0,0:14:47.46,0:14:50.82,Default,,0,0,0,,¡No quiero volver a dar a luz a un niño demonio!
+Dialogue: 0,0:14:50.82,0:14:55.35,Default,,0,0,0,,¡No luches contra ello! ¡Esto\Nes lo que dicta tu instinto!
+Dialogue: 0,0:14:55.35,0:14:58.34,Default,,0,0,0,,Aceptarás mi semen.
+Dialogue: 0,0:15:04.42,0:15:07.01,Default,,0,0,0,,Uf... ¡A-Aquí viene!
+Dialogue: 0,0:15:09.19,0:15:11.33,Default,,0,0,0,,¡Hngh! ¡Está saliendo!
+Dialogue: 0,0:15:12.89,0:15:15.34,Default,,0,0,0,,¡Nooooo! ¡No más! ¡Toma eso!
+Dialogue: 0,0:15:24.82,0:15:27.62,Default,,0,0,0,,Oh Señor, por favor perdóname.
+Dialogue: 0,0:15:27.62,0:15:30.78,Default,,0,0,0,,¡Me vine otra vez!
+Dialogue: 0,0:15:30.78,0:15:33.58,Default,,0,0,0,,¡Tonta! ¿Qué te pasa viniéndote
+Dialogue: 0,0:15:33.59,0:15:36.39,Default,,0,0,0,,sola? ¡No, no lo hagas! ¡Si haces eso,
+Dialogue: 0,0:15:36.40,0:15:40.00,Default,,0,0,0,,mis tetas volverán a gotear!
+Dialogue: 0,0:15:40.00,0:15:43.19,Default,,0,0,0,,¡Sírveme usando esos pechos!
+Dialogue: 0,0:15:43.19,0:15:46.70,Default,,0,0,0,,¡Por favor, acaricia tu polla en mi coño!
+Dialogue: 0,0:15:51.83,0:15:54.81,Default,,0,0,0,,¿Tus tetas se siente bien?
+Dialogue: 0,0:15:56.05,0:15:59.64,Default,,0,0,0,,¡Sí, se siente como si me\Nhubieran penetrado la vagina!
+Dialogue: 0,0:15:59.64,0:16:02.18,Default,,0,0,0,,¡Mis tetas se sienten bien!
+Dialogue: 0,0:16:06.11,0:16:08.26,Default,,0,0,0,,¡Te daré un creampie facial!
+Dialogue: 0,0:16:09.81,0:16:14.20,Default,,0,0,0,,¡Mi cara! ¡Mi cara quedará embarazada!
+Dialogue: 0,0:16:16.76,0:16:19.33,Default,,0,0,0,,¡Me vengo! ¡Ah! ¡Por favor eyacula dentro de mí!
+Dialogue: 0,0:16:19.34,0:16:22.92,Default,,0,0,0,,¡Embaraza a este recipiente!
+Dialogue: 0,0:16:25.01,0:16:27.15,Default,,0,0,0,,Está saliendo...
+Dialogue: 0,0:16:27.15,0:16:30.53,Default,,0,0,0,,Me estoy llenando de mucho de nuevo...
+Dialogue: 0,0:16:30.53,0:16:31.47,Default,,0,0,0,,Me vengo otra vez...
+Dialogue: 0,0:16:32.22,0:16:33.95,Default,,0,0,0,,Lo mismo aquí, ¡me vendré
+Dialogue: 0,0:16:33.96,0:16:35.69,Default,,0,0,0,,otra vez! Muchas gracias...
+Dialogue: 0,0:16:37.61,0:16:38.63,Default,,0,0,0,,¡Toma esto!
+Dialogue: 0,0:16:40.87,0:16:44.61,Default,,0,0,0,,¡Hay tanto de nuevo!
+Dialogue: 0,0:16:47.20,0:16:50.46,Default,,0,0,0,,¡Apenas estamos comenzando!\N¡Hacerlo una vez no es suficiente!
+Dialogue: 0,0:16:50.46,0:16:54.11,Default,,0,0,0,,¡Seguiré bombeándote semillas\Nhasta que concibas un niño demonio!
+Dialogue: 0,0:16:54.51,0:16:58.14,Default,,0,0,0,,¡Akuta-sama, permítame ayudarle!
+Dialogue: 0,0:16:59.17,0:17:00.41,Default,,0,0,0,,¡Toma, toma!
+Dialogue: 0,0:17:01.83,0:17:04.00,Default,,0,0,0,,¡Llegué hasta su garganta!
+Dialogue: 0,0:17:14.96,0:17:20.31,Default,,0,0,0,,Eso es, ¡estás rebosante de jugo de amor caliente!
+Dialogue: 0,0:17:20.91,0:17:23.75,Default,,0,0,0,,Oye, vamos... Eso es...
+Dialogue: 0,0:17:23.75,0:17:26.63,Default,,0,0,0,,Engúllelo hasta la garganta.
+Dialogue: 0,0:17:44.11,0:17:46.34,Default,,0,0,0,,Ohh sí...
+Dialogue: 0,0:17:46.34,0:17:50.25,Default,,0,0,0,,Muy bien, acarícialo con tu boca y hazme correrme.
+Dialogue: 0,0:17:56.39,0:17:57.65,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:17:59.27,0:18:00.84,Default,,0,0,0,,¡Ahí tienes!
+Dialogue: 0,0:18:05.69,0:18:08.49,Default,,0,0,0,,¡Buen trabajo, eso es lo que te hace digno de
+Dialogue: 0,0:18:08.49,0:18:11.29,Default,,0,0,0,,convertirte en un semillero\Nde demonios! ¡No! ¡No, nooo!
+Dialogue: 0,0:18:13.84,0:18:15.82,Default,,0,0,0,,No... E-Está brotando... ¡Oh, me
+Dialogue: 0,0:18:15.82,0:18:17.80,Default,,0,0,0,,estás chupando hasta dejarme seco!
+Dialogue: 0,0:18:23.33,0:18:26.59,Default,,0,0,0,,¡Oh, niño demonio! ¿Aún no vienes?
+Dialogue: 0,0:18:26.59,0:18:28.54,Default,,0,0,0,,¿No es esto suficiente?
+Dialogue: 0,0:18:29.28,0:18:35.34,Default,,0,0,0,,¡Te lo ruego! ¡Pon pollas en\Nmi trasero y en mi coño también!
+Dialogue: 0,0:18:35.95,0:18:38.97,Default,,0,0,0,,¿Jurarás ahora lealtad a nuestro culto?
+Dialogue: 0,0:18:38.97,0:18:44.85,Default,,0,0,0,,¡Sí! ¡Juraré lealtad!
+Dialogue: 0,0:18:45.31,0:18:48.10,Default,,0,0,0,,¡Maldita chica pervertida!
+Dialogue: 0,0:18:50.51,0:18:52.14,Default,,0,0,0,,¡Toma esto!
+Dialogue: 0,0:18:53.62,0:18:57.18,Default,,0,0,0,,¡Jura que a partir de ahora te convertirás
+Dialogue: 0,0:18:57.18,0:19:00.77,Default,,0,0,0,,en el recipiente de semen\Nexclusivo de nuestra secta!
+Dialogue: 0,0:19:01.41,0:19:05.25,Default,,0,0,0,,¡Oh, me vengo! ¡O-Ohh!
+Dialogue: 0,0:19:06.02,0:19:08.46,Default,,0,0,0,,¡Oh, ella también se está endureciendo aquí abajo!
+Dialogue: 0,0:19:11.69,0:19:15.92,Default,,0,0,0,,Eres tan lasciva... ¡Oh, me vengo de nuevo!
+Dialogue: 0,0:19:22.30,0:19:24.65,Default,,0,0,0,,¡Toma! ¡Ahí tienes! ¡Me
+Dialogue: 0,0:19:24.65,0:19:27.00,Default,,0,0,0,,estoy volviendo loca! ¡Me corro!
+Dialogue: 0,0:19:27.01,0:19:30.81,Default,,0,0,0,,¡Haz un desastre con mi cuerpo!
+Dialogue: 0,0:19:30.81,0:19:32.31,Default,,0,0,0,,¡Aquí viene! ¡Me corro! ¡Me corro!
+Dialogue: 0,0:19:32.32,0:19:34.15,Default,,0,0,0,,¡Yo también me vengo aquí!
+Dialogue: 0,0:19:34.15,0:19:37.04,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:19:37.82,0:19:40.41,Default,,0,0,0,,¡P-Pollas, hay pollas sobre mí! ¡Aquí tienes!
+Dialogue: 0,0:19:44.62,0:19:47.54,Default,,0,0,0,,¡Oh Señor, tu sierva está agradecida!
+Dialogue: 0,0:19:47.54,0:19:50.33,Default,,0,0,0,,¡Estoy feliz!
+Dialogue: 0,0:19:50.33,0:19:52.83,Default,,0,0,0,,¿Puedes mostrarme algo de gratitud aquí también?
+Dialogue: 0,0:19:54.98,0:19:58.12,Default,,0,0,0,,¡Estoy agradecida, estoy agradecida!
+Dialogue: 0,0:19:58.12,0:20:00.51,Default,,0,0,0,,¡Así que por favor concédeme\Nmás jugo de bendiciones!
+Dialogue: 0,0:20:02.71,0:20:05.84,Default,,0,0,0,,¡Más, dame más jugo de bendición!
+Dialogue: 0,0:20:05.84,0:20:08.59,Default,,0,0,0,,¡Uf, monja pervertida! ¡Me vengo!
+Dialogue: 0,0:20:08.59,0:20:13.38,Default,,0,0,0,,¡Mi cara! ¡Dame un tratamiento\Nfacial! ¡Suéltalo en la cara!
+Dialogue: 0,0:20:14.09,0:20:19.74,Default,,0,0,0,,¡Hay tanto semen! ¡Yuuka es\Nuna monja de semen pervertida!
+Dialogue: 0,0:20:19.74,0:20:21.41,Default,,0,0,0,,¡Te lo dispararé!
+Dialogue: 0,0:20:21.41,0:20:22.95,Default,,0,0,0,,¡Dispáralo dentro de mí!
+Dialogue: 0,0:20:27.41,0:20:29.36,Default,,0,0,0,,¡Voy a soltarlo aquí también!
+Dialogue: 0,0:20:40.49,0:20:42.92,Default,,0,0,0,,Bien, soy el siguiente.
+Dialogue: 0,0:20:43.45,0:20:47.24,Default,,0,0,0,,Ahí, ¿cómo está el coño-teta de Yuuka?
+Dialogue: 0,0:20:47.24,0:20:49.87,Default,,0,0,0,,¡Por favor, deja salir mucho!
+Dialogue: 0,0:20:49.87,0:20:51.54,Default,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:20:55.59,0:20:58.86,Default,,0,0,0,,¡Sí, castiga a estas hermanas!
+Dialogue: 0,0:21:02.00,0:21:04.64,Default,,0,0,0,,¿Qué pasa con estas monjas pervertidas?
+Dialogue: 0,0:21:04.64,0:21:07.82,Default,,0,0,0,,De verdad... Me corro... ¡Ohh!
+Dialogue: 0,0:21:12.90,0:21:16.54,Default,,0,0,0,,Increíble, sabe raro pero es tan...
+Dialogue: 0,0:21:16.85,0:21:22.31,Default,,0,0,0,,¡Dame! ¡Dame mucho semen! ¡Ah, me corro!
+Dialogue: 0,0:21:24.54,0:21:28.18,Default,,0,0,0,,¡Hay tanto semen!
+Dialogue: 0,0:21:30.51,0:21:32.67,Default,,0,0,0,,¡Oh, aquí viene de nuevo!
+Dialogue: 0,0:21:35.46,0:21:40.82,Default,,0,0,0,,¡Oh, no hay duda! ¡Esta es la cresta del demonio!
+Dialogue: 0,0:21:40.82,0:21:42.62,Default,,0,0,0,,¡De ninguna manera, no quiero!
+Dialogue: 0,0:21:43.60,0:21:47.66,Default,,0,0,0,,¡Deja de venirte ya!
+Dialogue: 0,0:21:50.27,0:21:52.15,Default,,0,0,0,,¡Oh, me vengo otra vez!
+Dialogue: 0,0:21:52.15,0:21:54.62,Default,,0,0,0,,¡Me corro! ¡Me vengo!
+Dialogue: 0,0:21:56.79,0:22:02.55,Default,,0,0,0,,Puedo verlo... ¡Puedo ver una luz brillante!
+Dialogue: 0,0:22:03.73,0:22:06.10,Default,,0,0,0,,Ah, no...
+Dialogue: 0,0:22:06.10,0:22:08.33,Default,,0,0,0,,¡Voy a venirme otra vez!
+Dialogue: 0,0:22:08.33,0:22:10.83,Default,,0,0,0,,¡Me vengo! Ohh... ¡Oh, me corro!
+Dialogue: 0,0:22:11.79,0:22:13.09,Default,,0,0,0,,Ahh, está fluyendo hasta el
+Dialogue: 0,0:22:13.10,0:22:14.40,Default,,0,0,0,,fondo... ¡Oh, voy a eyacular!
+Dialogue: 0,0:22:15.11,0:22:18.02,Default,,0,0,0,,¡Están llegando tantas cosas!
+Dialogue: 0,0:22:18.02,0:22:19.94,Default,,0,0,0,,Nooo...
+Dialogue: 0,0:22:19.94,0:22:23.47,Default,,0,0,0,,¡No más semen! ¡Tú también alcanzarás el clímax!
+Dialogue: 0,0:22:23.48,0:22:29.04,Default,,0,0,0,,¡Te llenaré de leche y me aseguraré\Nde que des a luz a un niño demonio!
+Dialogue: 0,0:22:30.53,0:22:32.92,Default,,0,0,0,,¡Solo un empujón más!
+Dialogue: 0,0:22:32.92,0:22:36.50,Default,,0,0,0,,¡Toma, toma, ahí tienes!
+Dialogue: 0,0:22:42.67,0:22:45.82,Default,,0,0,0,,¿Qué es esta luz?
+Dialogue: 0,0:23:00.20,0:23:04.16,Default,,0,0,0,,¿Se despertó, por casualidad?\NPero había una barrera...
+Dialogue: 0,0:23:04.16,0:23:08.56,Default,,0,0,0,,Cuando llegue el momento,\Nllegará el guardián de la muerte.
+Dialogue: 0,0:23:08.56,0:23:11.78,Default,,0,0,0,,De toda desgracia te protegeré.
+Dialogue: 0,0:23:12.10,0:23:15.74,Default,,0,0,0,,Así que no temas en lo más mínimo. Ríndete.
+Dialogue: 0,0:23:15.74,0:23:20.70,Default,,0,0,0,,¿E-Es este el verdadero poder de alguien\Ncon la sangre de los dioses de la muerte?
+Dialogue: 0,0:23:20.70,0:23:22.71,Default,,0,0,0,,¡No se preocupen, señores!
+Dialogue: 0,0:23:23.05,0:23:27.42,Default,,0,0,0,,No tengo otra opción en esta situación.\NYo personalmente le ofreceré un réquiem.
+Dialogue: 0,0:23:29.27,0:23:32.01,Default,,0,0,0,,¡Oye tú, monstruo!
+Dialogue: 0,0:23:34.39,0:23:38.83,Default,,0,0,0,,¡No dejaremos que pongas tus manos\Nsobre nuestro culto y niño demonio!
+Dialogue: 0,0:23:38.83,0:23:41.31,Default,,0,0,0,,¡No alguien como tú!
+Dialogue: 0,0:23:56.67,0:23:57.89,Default,,0,0,0,,Rinne-chan...
+Dialogue: 0,0:24:06.42,0:24:07.77,Default,,0,0,0,,¿Vienes o qué?
+Dialogue: 0,0:24:18.10,0:24:19.80,Default,,0,0,0,,¡Akuta-sama!
+Dialogue: 0,0:24:19.80,0:24:23.31,Default,,0,0,0,,¡La espada colmillo cortante del malvado\Ndragón del cielo! Quien vea esta técnica...
+Dialogue: 0,0:24:24.75,0:24:27.70,Default,,0,0,0,,Todas vuestras almas contaminadas...
+Dialogue: 0,0:24:46.96,0:24:49.92,Default,,0,0,0,,¡Todos! ¡De prisa, por aquí!
+Dialogue: 0,0:25:08.83,0:25:14.25,Default,,0,0,0,,Esa rama de culto ahora está destruida.
+Dialogue: 0,0:25:16.93,0:25:18.45,Default,,0,0,0,,Onee-chan...
+Dialogue: 0,0:25:18.45,0:25:19.95,Default,,0,0,0,,¡Rinne-chan!
+Dialogue: 0,0:25:19.95,0:25:22.36,Default,,0,0,0,,Onee-chan, lo siento...
+Dialogue: 0,0:25:22.36,0:25:25.75,Default,,0,0,0,,Todos ustedes pasaron por\Ncosas horribles por mi culpa.
+Dialogue: 0,0:25:25.75,0:25:30.24,Default,,0,0,0,,Sentimos lo mismo... No pudimos protegerte...
+Dialogue: 0,0:25:30.24,0:25:35.20,Default,,0,0,0,,Pero me alegro de que todos\Nhayamos podido escapar sin problemas.
+Dialogue: 0,0:25:35.20,0:25:41.01,Default,,0,0,0,,Me hicieron muchas cosas indecentes\Nen la tienda lasciva del culto demoníaco.
+Dialogue: 0,0:25:41.83,0:25:46.55,Default,,0,0,0,,Mi cuerpo ya ha sido contaminado.
+Dialogue: 0,0:25:46.55,0:25:49.38,Default,,0,0,0,,Rinne-chan, no importa lo que nos hagan.
+Dialogue: 0,0:25:49.38,0:25:54.66,Default,,0,0,0,,No podrán violar nuestros corazones, ¿verdad?
+Dialogue: 0,0:25:54.66,0:25:55.95,Default,,0,0,0,,Onee-chan...
+Dialogue: 0,0:25:55.95,0:25:58.04,Default,,0,0,0,,Apurémonos y volvamos a casa.
+Dialogue: 0,0:25:58.04,0:26:01.16,Default,,0,0,0,,Deberías comer algo rico y animarte, ¿vale?
+Dialogue: 0,0:26:04.87,0:26:05.87,Default,,0,0,0,,Sí...
+Dialogue: 0,0:26:06.74,0:26:07.87,Default,,0,0,0,,Vamos...
+Dialogue: 0,0:26:11.35,0:26:14.92,Default,,0,0,0,,No pudimos decírselo a Rinne-chan,\Npero somos conscientes de ello...
+Dialogue: 0,0:26:15.76,0:26:19.37,Default,,0,0,0,,Esa isla no es la única rama del culto demoníaco.
+Dialogue: 0,0:26:19.37,0:26:22.39,Default,,0,0,0,,Todavía tienen más sucursales\Nescondidas por todo el país.
