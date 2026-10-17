@@ -73,12 +73,35 @@ subtitles-dataset/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/       # Templates for issues and error reports
 │   └── pull_request_template.md
+├── tools/
+│   └── drive-sync/           # Mirror the corpus to a private Google Drive folder + serve it
 ├── .gitattributes            # Line endings and UTF-8 enforcement
 ├── .gitignore                # Temporary and editor file filters
 ├── CONTRIBUTING.md           # Guidelines for submitting new subtitles
 ├── README.md                 # Project documentation and agent guidelines
 └── ANI][*.ass                # Curated subtitle files
 ```
+
+---
+
+## Google Drive Mirror
+
+The optional [`tools/drive-sync`](tools/drive-sync/README.md) tool keeps a private copy of
+this corpus in Google Drive and can serve it back over a read-only HTTP API. It is
+configured entirely through environment variables (`GDRIVE_*`, `SUBTITLES_*`) — no
+credentials are committed to the repository.
+
+```bash
+cd tools/drive-sync
+pnpm install
+cp .env.example .env          # fill in the OAuth credentials + folder ID
+pnpm run dev auth             # sign in with your Google account once
+pnpm run dev push             # mirror the .ass files into the private Drive folder
+pnpm run dev serve            # expose the Drive copy at http://127.0.0.1:3210
+```
+
+See [`tools/drive-sync/README.md`](tools/drive-sync/README.md) for the full command,
+environment-variable, and HTTP API reference.
 
 ---
 
