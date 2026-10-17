@@ -1,0 +1,24 @@
+{
+  "name": "@subtitles-dataset/ass2md",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Convert the .ass subtitle corpus into agent-friendly Markdown.",
+  "bin": {
+    "ass2md": "dist/src/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "dev": "tsc -p tsconfig.json && node dist/src/cli.js",
+    "md": "tsc -p tsconfig.json && node dist/src/cli.js --dedupe --index --force",
+    "start": "node dist/src/cli.js",
+    "test": "tsc -p tsconfig.json && node --test \"dist/test/**/*.test.js\""
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}

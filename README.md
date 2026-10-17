@@ -17,6 +17,7 @@ A curated corpus of **Advanced SubStation Alpha (.ass)** subtitle files localize
   - [Tone & Register Balance](#tone--register-balance)
 - [Technical Specifications](#technical-specifications)
 - [Repository Structure](#repository-structure)
+- [Agent-readable Markdown Corpus](#agent-readable-markdown-corpus)
 - [Contributing](#contributing)
 - [License & Usage](#license--usage)
 
@@ -74,7 +75,8 @@ subtitles-dataset/
 │   ├── ISSUE_TEMPLATE/       # Templates for issues and error reports
 │   └── pull_request_template.md
 ├── tools/
-│   └── drive-sync/           # Mirror the corpus to a private Google Drive folder + serve it
+│   └── ass2md/               # Convert the .ass corpus into agent-friendly Markdown
+├── md/                       # Generated Markdown mirror of every .ass file
 ├── .gitattributes            # Line endings and UTF-8 enforcement
 ├── .gitignore                # Temporary and editor file filters
 ├── CONTRIBUTING.md           # Guidelines for submitting new subtitles
@@ -84,24 +86,45 @@ subtitles-dataset/
 
 ---
 
-## Google Drive Mirror
+## Agent-readable Markdown Corpus
 
-The optional [`tools/drive-sync`](tools/drive-sync/README.md) tool keeps a private copy of
-this corpus in Google Drive and can serve it back over a read-only HTTP API. It is
-configured entirely through environment variables (`GDRIVE_*`, `SUBTITLES_*`) — no
-credentials are committed to the repository.
+Every `.ass` file is also mirrored into [`md/`](md/) as clean Markdown, so AI agents can
+read the dialogue as plain text instead of parsing override tags, karaoke blocks and
+vector drawings. The `.ass` files remain the single source of truth and are **never
+modified**.
+
+The conversion is handled by [`tools/ass2md`](tools/ass2md/README.md):
 
 ```bash
-cd tools/drive-sync
+cd tools/ass2md
 pnpm install
-cp .env.example .env          # fill in the OAuth credentials + folder ID
-pnpm run dev auth             # sign in with your Google account once
-pnpm run dev push             # mirror the .ass files into the private Drive folder
-pnpm run dev serve            # expose the Drive copy at http://127.0.0.1:3210
+pnpm run md                  # regenerate ../md exactly as committed (--dedupe --index)
+pnpm run dev -- --help       # list every flag of the raw converter
 ```
 
-See [`tools/drive-sync/README.md`](tools/drive-sync/README.md) for the full command,
-environment-variable, and HTTP API reference.
+Each generated file follows a predictable shape:
+
+```markdown
+# Episode title
+
+- **File:** `ANI][Example_01.ass`
+- **Events:** 59 rendered of 59
+- **Styles:** Default, Haniyae
+
+---
+
+**Default** `00:00:16.25 → 00:00:18.43`
+Hay muchas cosas que he entendido.
+```
+
+By default only `Dialogue:` lines are emitted; `Comment:` (typesetting/karaoke) events,
+vector drawings (`\p1` paths) and empty lines are excluded and counted in the header.
+Translation credits (`Original Script`, `Original Translation`, …) are surfaced as
+metadata. `md/INDEX.md` lists every episode with its title and dialogue-line count.
+
+The committed corpus is generated with `--dedupe` (collapses repeated typesetting and
+watermark lines — normal dialogue is unaffected). See the
+[tool README](tools/ass2md/README.md) for the full reference.
 
 ---
 
